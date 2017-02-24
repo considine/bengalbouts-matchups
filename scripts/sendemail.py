@@ -1,4 +1,4 @@
-#! /Users/johnpconsidine/anaconda/bin/python
+#! /afs/nd.edu/user14/csesoft/new/bin/python
 from email.mime.text import MIMEText
 from email.mime.application import MIMEApplication
 from email.mime.multipart import MIMEMultipart
