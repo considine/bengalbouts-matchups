@@ -5,17 +5,16 @@
 #send email:
 
 $message = "Here are your pix from the bb matchups\n";
+$winners = $_POST['email'] . ",";
 for ($x = 0; $x <= intval($_POST['numberBouts']) + 1; $x++) {
     $message = $message . $_POST['bout'. $x] . "\n";
+    $winners += $_POST['bout'. $x] . ","
 }  
 
 $message = $message . "And your verification code is: \n" . generateRandomString(25);
 $email = $_POST['email'];
-exec("python scripts/sendemail.py $email '$message'");
-$myfile = fopen("sumissions.csv", "w");
-$txt = "Jane Doe\n";
-fwrite($myfile, $txt);
-fclose($myfile);
+#exec("python scripts/sendemail.py $email '$message' '$winners'");
+echo $winners;
 
 
 function generateRandomString($length = 10) {
