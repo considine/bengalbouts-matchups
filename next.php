@@ -9,7 +9,7 @@ for ($x = 0; $x <= intval($_POST['numberBouts']); $x++) {
     $message = $message . $_POST['bout'. $x] . "\n";
 }  
 $email = $_POST['email'];
-exec("python scripts/sendemail.py $email $message");
+exec("python scripts/sendemail.py $email '$message'");
 
 
 ?>
