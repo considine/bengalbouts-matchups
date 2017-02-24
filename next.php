@@ -14,7 +14,7 @@ $message = $message . "And your verification code is: \n" . generateRandomString
 
 
 $json = json_decode(file_get_contents("php://input"));
-$myfile = fopen("submissions.json", "w") or die("Unable to open file!");
+$myfile = fopen("submission.json", "w") or die("Unable to open file!");
 
 fwrite($myfile, $json);
 
