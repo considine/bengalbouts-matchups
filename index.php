@@ -355,29 +355,29 @@
 	  <div class="panel-body">
 	    <div class="row">
 	    	<div class="col-md-5 center-col">
-	    		<h3 class="boxer-title center-text boxer-gold"> Jack Considine </h3>
-	    		 <img class="boxer-photo" alt="blue-boxer" src="img/jconsidi.jpg"> </img>
-	    		 <p class="descrip-text"><strong>Dorm: </strong>Off Campus</p>
-	    		 <p class="descrip-text"><strong>Experience: </strong>4th Year</p>
-    		  	<p class="descrip-text"><strong>Strength: </strong>Jack - the two time defending champion and president of the club - is one of the most stalwart fighters in the club. A natural swimmer, his punches slightly resemble that of a freestyle motion, and the overhand motion provides an extra sting on his punches. His bread and butter are his 1-2, and he has mastered them over his four years in the bouts, although his recent development of other punches has paid huge dividends and added some more tools to his already potent arsenal. He has great reach on most of the opponents he will fight, which combines well with his dominating 1-2. Mostly a front footed fighter, Jack never stops coming forward. What he may lack in grace, he more than makes up for in toughness and conditioning. Anyone finding themselves in the same ring as Jack better be up for a dog fight. </p>
-	    		<p class="descrip-text"><strong>Lookout for:</strong> Look for Jack to set the tone early by establishing his powerful and quick 1-2. Jack gets in trouble against bullrush fighters that are able to force him off his front foot and get him against the ropes and use his lateral movement. If Jack can control the pace of the fight and not allow Vasquez to seize momentum at any point, Considine will assuredly have a great shot at advancing to his third finals appearance. </p>
+	    		<h3 class="boxer-title center-text boxer-gold"> Danny Childers </h3>
+	    		 <img class="boxer-photo" alt="blue-boxer" src="img/dchilders.jpg"> </img>
+	    		 <p class="descrip-text"><strong>Dorm: </strong>Keough</p>
+	    		 <p class="descrip-text"><strong>Experience: </strong>Novice</p>
+    		  	<p class="descrip-text"><strong>Strength: </strong>One of the four Keough fighters left in the tournament, Danny, a novice, has stormed through his bracket, looking extremely impressive doing so. In his last fight, Danny upset a tough #3 seed in Charlie Puntillo. Despite being a novice, Danny appeared extremely calm and composed in his quarterfinal bout. His composure will surely be tested in this upcoming bout, however. Danny's strength is his combination punching. Training at a family gym during the breaks, Danny has learned the basics very well, and is proof that you don't have to be a veteran to succeed in the tournament if you are willing to work hard and commit yourself to the sport. Danny's hard work has paid off, and when he lets his hands go, watch out. Danny is a natural athlete and competitor, and he certainly will not be an easy out for anyone in the tournament. </p>
+	    		<p class="descrip-text"><strong>Lookout for:</strong> If Danny can keep the fight close throughout the first round, his natural competitive instincts and will to win will begin to take over the fight. Undoubtedly an underdog (as he was in his last fight as well), the first round will be crucial for his confidence. If he can remain composed, control the outside positioning to negate McDermott's big left, and let his hands go, Danny has a great shot of scoring another big upset and moving on to the finals. </p>
 			 </div>
 			 <div class="col-md-2 center-text">
 			 	<h1> VS </h1>
 			 </div>
 			 <div class="col-md-5">
-			 	<h3 class="boxer-title center-text boxer-blue"> Chris Vasquez </h3>
-			 	<img class="boxer-photo" alt="blue-boxer" src="img/cvasquez.jpg	"> </img>
-			 	<p class="descrip-text"><strong>Dorm: </strong>Off Campus</p>
-	    		 <p class="descrip-text"><strong>Experience:</strong> 3rd Year</p>
-    		  	<p class="descrip-text"><strong>Strength: </strong>Chris is a salty veteran that has improved tremendously during his time in the club. He is capable of stringing together great combinations when he wants to, and moves very well. Chris had his toughness tested after winning a close bout against a former football player in the quarterfinals. That toughness will be necessary on Monday in order for Chris to get his hand raised. He will need to use his effective lateral movement and head movement to disrupt Considine's 1-2 combo. Chris has greatly improved his hooks this year, and they were his money maker in his last bout. Those hooks will be very effective in combatting Considine's style in the upcoming bout. </p>
-	    		<p class="descrip-text"><strong>Lookout for: </strong>Look for Chris to use his experience to handle the pressure and make this a close bout. Chris will need to move his head effectively so his opponent does not move it for him. If he can slip the straight punches, he can use his powerful hooks to land some big shots that could change the fight. If Chris can apply some pressure and string together some of his nice combination punching, he'll have a good shot at getting his hand raised. </p>
+			 	<h3 class="boxer-title center-text boxer-blue"> Jack McDermott </h3>
+			 	<img class="boxer-photo" alt="blue-boxer" src="img/jmcdermott.jpg	"> </img>
+			 	<p class="descrip-text"><strong>Dorm: </strong>O'Neill</p>
+	    		 <p class="descrip-text"><strong>Experience:</strong> 2nd Year</p>
+    		  	<p class="descrip-text"><strong>Strength: </strong>McDermott comes into the tournament after losing in the finals to an extremely talented fighter last year as a freshman - no small feat. Jack is looking to finish what he started last year, but first he will have to go through Danny, a surprisingly tough novice who will not be an easy victory. McDermott has bulked up since his bouts last year, and the power shows. A tall lefty, many struggle with the southpaw's smooth punching and much improved foot work. McDermott is able to string together combinations seamlessly, something that often gives his opponents trouble, compounding with all of his punches coming from the opposite angles that people are used to. McDermott is a young star of the program, and he looks to prove why on Monday night. </p>
+	    		<p class="descrip-text"><strong>Lookout for: </strong>After jumping up almost 20 pounds from his weight last year, McDermott makes it look like the transition has been easy. However, he's yet to fight someone that can test if he can handle the increase in power. If McDermott gets in his groove and capitalizes on his opponents lack of experience, he'll find his way back into the finals. To do this, he will need to use his legs to set up his big left hand and string together his combos. </p>
 			 </div>
 			  
 	    </div>
 	    <div class="row match-notes-container"> 
 	    <h3 class='center-text match-notes-header'> Match Notes: </h3>
-	    <h5 class="center-text">This is a great matchup that you love to see in the semi finals - a four year veteran vs a three year veteran. Expect the experience to be on display, as neither of these fighters will be intimidated or back down from anything. If Considine gets rolling with his 1-2, he'll be on his way to the 87th Bengal Bouts finals. However, if Chris can make Considine miss and pay off of counter punch opportunities, it will plant some doubt in his mind, enough to throw him off his rhythm so that Chris can capitalize and throw his combinations. Vasquez will need to stay on the inside to negate the 1-2. If he accomplishes these things, Chris will be on his way to a finals appearance. </h5>
+	    <h5 class="center-text">This will be one of the more exciting fights of the night. Childers and McDermott are two superb athletes and competitors. Neither of them will back down easily. Both are combination punchers with great ring composure. If Danny can hang around in the first round and keep it close, his athletic edge and competitiveness will give him a great shot to win. If McDermott gets comfortable, his experience and composure will allow him to pick Danny apart. Overall, this will be a fun one to watch. </h5>
 	</div>
 	  </div>
 	</div><div class="panel panel-default custom-panel">
@@ -483,29 +483,29 @@
 	  <div class="panel-body">
 	    <div class="row">
 	    	<div class="col-md-5 center-col">
-	    		<h3 class="boxer-title center-text boxer-gold"> Danny Childers </h3>
-	    		 <img class="boxer-photo" alt="blue-boxer" src="img/dchilders.jpg"> </img>
-	    		 <p class="descrip-text"><strong>Dorm: </strong>Keough</p>
-	    		 <p class="descrip-text"><strong>Experience: </strong>Novice</p>
-    		  	<p class="descrip-text"><strong>Strength: </strong>One of the four Keough fighters left in the tournament, Danny, a novice, has stormed through his bracket, looking extremely impressive doing so. In his last fight, Danny upset a tough #3 seed in Charlie Puntillo. Despite being a novice, Danny appeared extremely calm and composed in his quarterfinal bout. His composure will surely be tested in this upcoming bout, however. Danny's strength is his combination punching. Training at a family gym during the breaks, Danny has learned the basics very well, and is proof that you don't have to be a veteran to succeed in the tournament if you are willing to work hard and commit yourself to the sport. Danny's hard work has paid off, and when he lets his hands go, watch out. Danny is a natural athlete and competitor, and he certainly will not be an easy out for anyone in the tournament. </p>
-	    		<p class="descrip-text"><strong>Lookout for:</strong> If Danny can keep the fight close throughout the first round, his natural competitive instincts and will to win will begin to take over the fight. Undoubtedly an underdog (as he was in his last fight as well), the first round will be crucial for his confidence. If he can remain composed, control the outside positioning to negate McDermott's big left, and let his hands go, Danny has a great shot of scoring another big upset and moving on to the finals. </p>
+	    		<h3 class="boxer-title center-text boxer-gold"> Jack Considine </h3>
+	    		 <img class="boxer-photo" alt="blue-boxer" src="img/jconsidi.jpg"> </img>
+	    		 <p class="descrip-text"><strong>Dorm: </strong>Off Campus</p>
+	    		 <p class="descrip-text"><strong>Experience: </strong>4th Year</p>
+    		  	<p class="descrip-text"><strong>Strength: </strong>Jack - the two time defending champion and president of the club - is one of the most stalwart fighters in the club. A natural swimmer, his punches slightly resemble that of a freestyle motion, and the overhand motion provides an extra sting on his punches. His bread and butter are his 1-2, and he has mastered them over his four years in the bouts, although his recent development of other punches has paid huge dividends and added some more tools to his already potent arsenal. He has great reach on most of the opponents he will fight, which combines well with his dominating 1-2. Mostly a front footed fighter, Jack never stops coming forward. What he may lack in grace, he more than makes up for in toughness and conditioning. Anyone finding themselves in the same ring as Jack better be up for a dog fight. </p>
+	    		<p class="descrip-text"><strong>Lookout for:</strong> Look for Jack to set the tone early by establishing his powerful and quick 1-2. Jack gets in trouble against bullrush fighters that are able to force him off his front foot and get him against the ropes and use his lateral movement. If Jack can control the pace of the fight and not allow Vasquez to seize momentum at any point, Considine will assuredly have a great shot at advancing to his third finals appearance. </p>
 			 </div>
 			 <div class="col-md-2 center-text">
 			 	<h1> VS </h1>
 			 </div>
 			 <div class="col-md-5">
-			 	<h3 class="boxer-title center-text boxer-blue"> Jack McDermott </h3>
-			 	<img class="boxer-photo" alt="blue-boxer" src="img/jmcdermott.jpg	"> </img>
-			 	<p class="descrip-text"><strong>Dorm: </strong>O'Neill</p>
-	    		 <p class="descrip-text"><strong>Experience:</strong> 2nd Year</p>
-    		  	<p class="descrip-text"><strong>Strength: </strong>McDermott comes into the tournament after losing in the finals to an extremely talented fighter last year as a freshman - no small feat. Jack is looking to finish what he started last year, but first he will have to go through Danny, a surprisingly tough novice who will not be an easy victory. McDermott has bulked up since his bouts last year, and the power shows. A tall lefty, many struggle with the southpaw's smooth punching and much improved foot work. McDermott is able to string together combinations seamlessly, something that often gives his opponents trouble, compounding with all of his punches coming from the opposite angles that people are used to. McDermott is a young star of the program, and he looks to prove why on Monday night. </p>
-	    		<p class="descrip-text"><strong>Lookout for: </strong>After jumping up almost 20 pounds from his weight last year, McDermott makes it look like the transition has been easy. However, he's yet to fight someone that can test if he can handle the increase in power. If McDermott gets in his groove and capitalizes on his opponents lack of experience, he'll find his way back into the finals. To do this, he will need to use his legs to set up his big left hand and string together his combos. </p>
+			 	<h3 class="boxer-title center-text boxer-blue"> Chris Vasquez </h3>
+			 	<img class="boxer-photo" alt="blue-boxer" src="img/cvazquez.jpg	"> </img>
+			 	<p class="descrip-text"><strong>Dorm: </strong>Off Campus</p>
+	    		 <p class="descrip-text"><strong>Experience:</strong> 3rd Year</p>
+    		  	<p class="descrip-text"><strong>Strength: </strong>Chris is a salty veteran that has improved tremendously during his time in the club. He is capable of stringing together great combinations when he wants to, and moves very well. Chris had his toughness tested after winning a close bout against a former football player in the quarterfinals. That toughness will be necessary on Monday in order for Chris to get his hand raised. He will need to use his effective lateral movement and head movement to disrupt Considine's 1-2 combo. Chris has greatly improved his hooks this year, and they were his money maker in his last bout. Those hooks will be very effective in combatting Considine's style in the upcoming bout. </p>
+	    		<p class="descrip-text"><strong>Lookout for: </strong>Look for Chris to use his experience to handle the pressure and make this a close bout. Chris will need to move his head effectively so his opponent does not move it for him. If he can slip the straight punches, he can use his powerful hooks to land some big shots that could change the fight. If Chris can apply some pressure and string together some of his nice combination punching, he'll have a good shot at getting his hand raised. </p>
 			 </div>
 			  
 	    </div>
 	    <div class="row match-notes-container"> 
 	    <h3 class='center-text match-notes-header'> Match Notes: </h3>
-	    <h5 class="center-text">This will be one of the more exciting fights of the night. Childers and McDermott are two superb athletes and competitors. Neither of them will back down easily. Both are combination punchers with great ring composure. If Danny can hang around in the first round and keep it close, his athletic edge and competitiveness will give him a great shot to win. If McDermott gets comfortable, his experience and composure will allow him to pick Danny apart. Overall, this will be a fun one to watch. </h5>
+	    <h5 class="center-text">This is a great matchup that you love to see in the semi finals - a four year veteran vs a three year veteran. Expect the experience to be on display, as neither of these fighters will be intimidated or back down from anything. If Considine gets rolling with his 1-2, he'll be on his way to the 87th Bengal Bouts finals. However, if Chris can make Considine miss and pay off of counter punch opportunities, it will plant some doubt in his mind, enough to throw him off his rhythm so that Chris can capitalize and throw his combinations. Vasquez will need to stay on the inside to negate the 1-2. If he accomplishes these things, Chris will be on his way to a finals appearance. </h5>
 	</div>
 	  </div>
 	</div>
@@ -594,10 +594,10 @@
 </div>
 <div class="form-group pickem">
     <label class="btn btn-primary center">
-	  <input type="radio" name="bout10" id="option2" autocomplete="off" value="Jack Considine"> Jack Considine
+	  <input type="radio" name="bout10" id="option2" autocomplete="off" value="Danny Childers"> Danny Childers
 	</label>
 	<label class="btn btn-primary gold center">
-	  <input type="radio" name="bout10" id="option3" autocomplete="off" value="Chris Vasquez"> Chris Vasquez
+	  <input type="radio" name="bout10" id="option3" autocomplete="off" value="Jack McDermott"> Jack McDermott
 	</label> 
 </div>
 <div class="form-group pickem">
@@ -626,10 +626,10 @@
 </div>
 <div class="form-group pickem">
     <label class="btn btn-primary center">
-	  <input type="radio" name="bout15" id="option2" autocomplete="off" value="Danny Childers"> Danny Childers
+	  <input type="radio" name="bout15" id="option2" autocomplete="off" value="Jack Considine"> Jack Considine
 	</label>
 	<label class="btn btn-primary gold center">
-	  <input type="radio" name="bout15" id="option3" autocomplete="off" value="Jack McDermott"> Jack McDermott
+	  <input type="radio" name="bout15" id="option3" autocomplete="off" value="Chris Vasquez"> Chris Vasquez
 	</label> 
 </div>
 
