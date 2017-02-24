@@ -8,7 +8,7 @@ $message = "Here are your pix from the bb matchups\n";
 $winners = $_POST['email'] . ",";
 for ($x = 0; $x <= intval($_POST['numberBouts']) + 1; $x++) {
     $message = $message . $_POST['bout'. $x] . "\n";
-    $winners += $_POST['bout'. $x] . ","
+    $winners += $_POST['bout'. $x] . ",";
 }  
 
 $message = $message . "And your verification code is: \n" . generateRandomString(25);
