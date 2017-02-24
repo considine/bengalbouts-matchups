@@ -396,6 +396,7 @@
             <br />
             <input type="text" name="email" id="emailInput"> </input> 
           </div>
+          <input type="hidden" value="8" name="numberBouts"> </input> 
         </form>
       </div>
       <div class="modal-footer">
