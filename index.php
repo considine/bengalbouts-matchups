@@ -327,66 +327,66 @@
           <div class="form-group pickem">
             <div class="form-group pickem">
     <label class="btn btn-primary center">
-	  <input type="radio" name="bout1" id="option2" autocomplete="off"> Joaquin Camara
+	  <input type="radio" name="bout1" id="option2" autocomplete="off" value="Joaquin Camara"> Joaquin Camara
 	</label>
 	<label class="btn btn-primary gold center">
-	  <input type="radio" name="bout1" id="option3" autocomplete="off"> Chris Dethlefs
+	  <input type="radio" name="bout1" id="option3" autocomplete="off" value="Chris Dethlefs"> Chris Dethlefs
 	</label> 
 </div>
 <div class="form-group pickem">
     <label class="btn btn-primary center">
-	  <input type="radio" name="bout3" id="option2" autocomplete="off"> Matt Yoder
+	  <input type="radio" name="bout3" id="option2" autocomplete="off" value="Matt Yoder"> Matt Yoder
 	</label>
 	<label class="btn btn-primary gold center">
-	  <input type="radio" name="bout3" id="option3" autocomplete="off"> Conor Ward
+	  <input type="radio" name="bout3" id="option3" autocomplete="off" value="Conor Ward"> Conor Ward
 	</label> 
 </div>
 <div class="form-group pickem">
     <label class="btn btn-primary center">
-	  <input type="radio" name="bout4" id="option2" autocomplete="off"> Alex Alcantara
+	  <input type="radio" name="bout4" id="option2" autocomplete="off" value="Alex Alcantara"> Alex Alcantara
 	</label>
 	<label class="btn btn-primary gold center">
-	  <input type="radio" name="bout4" id="option3" autocomplete="off"> Dominic Angelottie
+	  <input type="radio" name="bout4" id="option3" autocomplete="off" value="Dominic Angelottie"> Dominic Angelottie
 	</label> 
 </div>
 <div class="form-group pickem">
     <label class="btn btn-primary center">
-	  <input type="radio" name="bout5" id="option2" autocomplete="off"> Chip Blood
+	  <input type="radio" name="bout5" id="option2" autocomplete="off" value="Chip Blood"> Chip Blood
 	</label>
 	<label class="btn btn-primary gold center">
-	  <input type="radio" name="bout5" id="option3" autocomplete="off"> Tim Mikulski
+	  <input type="radio" name="bout5" id="option3" autocomplete="off" value="Tim Mikulski"> Tim Mikulski
 	</label> 
 </div>
 <div class="form-group pickem">
     <label class="btn btn-primary center">
-	  <input type="radio" name="bout6" id="option2" autocomplete="off"> Alex Roth
+	  <input type="radio" name="bout6" id="option2" autocomplete="off" value="Alex Roth"> Alex Roth
 	</label>
 	<label class="btn btn-primary gold center">
-	  <input type="radio" name="bout6" id="option3" autocomplete="off"> Joe Guilfoile
+	  <input type="radio" name="bout6" id="option3" autocomplete="off" value="Joe Guilfoile"> Joe Guilfoile
 	</label> 
 </div>
 <div class="form-group pickem">
     <label class="btn btn-primary center">
-	  <input type="radio" name="bout11" id="option2" autocomplete="off"> Jack Corrigan
+	  <input type="radio" name="bout11" id="option2" autocomplete="off" value="Jack Corrigan"> Jack Corrigan
 	</label>
 	<label class="btn btn-primary gold center">
-	  <input type="radio" name="bout11" id="option3" autocomplete="off"> Michael Krecek
+	  <input type="radio" name="bout11" id="option3" autocomplete="off" value="Michael Krecek"> Michael Krecek
 	</label> 
 </div>
 <div class="form-group pickem">
     <label class="btn btn-primary center">
-	  <input type="radio" name="bout13" id="option2" autocomplete="off"> Cameron Nolan
+	  <input type="radio" name="bout13" id="option2" autocomplete="off" value="Cameron Nolan"> Cameron Nolan
 	</label>
 	<label class="btn btn-primary gold center">
-	  <input type="radio" name="bout13" id="option3" autocomplete="off"> Jack Ryan
+	  <input type="radio" name="bout13" id="option3" autocomplete="off" value="Jack Ryan"> Jack Ryan
 	</label> 
 </div>
 <div class="form-group pickem">
     <label class="btn btn-primary center">
-	  <input type="radio" name="bout14" id="option2" autocomplete="off"> Isaac Althoff
+	  <input type="radio" name="bout14" id="option2" autocomplete="off" value="Isaac Althoff"> Isaac Althoff
 	</label>
 	<label class="btn btn-primary gold center">
-	  <input type="radio" name="bout14" id="option3" autocomplete="off"> Dan Andree
+	  <input type="radio" name="bout14" id="option3" autocomplete="off" value="Dan Andree"> Dan Andree
 	</label> 
 </div>
 
