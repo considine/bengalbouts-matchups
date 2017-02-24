@@ -63,7 +63,7 @@
 
     <div class="panel panel-default custom-panel">
 	  <div class="panel-heading panel-heading-custom">
-	    <h3 class="panel-title">152 lb Weight Class</h3>
+	    <h3 class="panel-title">152 lb Division</h3>
 	  </div>
 	  <div class="panel-body">
 	    <div class="row">
@@ -98,7 +98,7 @@
 	  </div>
 	</div><div class="panel panel-default custom-panel">
 	  <div class="panel-heading panel-heading-custom">
-	    <h3 class="panel-title">142 lb Weight Class</h3>
+	    <h3 class="panel-title">142 lb Division</h3>
 	  </div>
 	  <div class="panel-body">
 	    <div class="row">
@@ -133,7 +133,7 @@
 	  </div>
 	</div><div class="panel panel-default custom-panel">
 	  <div class="panel-heading panel-heading-custom">
-	    <h3 class="panel-title">146 lb Weight Class</h3>
+	    <h3 class="panel-title">146 lb Division</h3>
 	  </div>
 	  <div class="panel-body">
 	    <div class="row">
@@ -168,7 +168,7 @@
 	  </div>
 	</div><div class="panel panel-default custom-panel">
 	  <div class="panel-heading panel-heading-custom">
-	    <h3 class="panel-title">146 lb Weight Class</h3>
+	    <h3 class="panel-title">146 lb Division</h3>
 	  </div>
 	  <div class="panel-body">
 	    <div class="row">
@@ -203,7 +203,7 @@
 	  </div>
 	</div><div class="panel panel-default custom-panel">
 	  <div class="panel-heading panel-heading-custom">
-	    <h3 class="panel-title">154 lb Weight Class</h3>
+	    <h3 class="panel-title">154 lb Division</h3>
 	  </div>
 	  <div class="panel-body">
 	    <div class="row">
@@ -238,7 +238,7 @@
 	  </div>
 	</div><div class="panel panel-default custom-panel">
 	  <div class="panel-heading panel-heading-custom">
-	    <h3 class="panel-title">154 lb Weight Class</h3>
+	    <h3 class="panel-title">154 lb Division</h3>
 	  </div>
 	  <div class="panel-body">
 	    <div class="row">
@@ -273,7 +273,7 @@
 	  </div>
 	</div><div class="panel panel-default custom-panel">
 	  <div class="panel-heading panel-heading-custom">
-	    <h3 class="panel-title">159 lb Weight Class</h3>
+	    <h3 class="panel-title">159 lb Division</h3>
 	  </div>
 	  <div class="panel-body">
 	    <div class="row">
@@ -308,7 +308,7 @@
 	  </div>
 	</div><div class="panel panel-default custom-panel">
 	  <div class="panel-heading panel-heading-custom">
-	    <h3 class="panel-title">159 lb Weight Class</h3>
+	    <h3 class="panel-title">159 lb Division</h3>
 	  </div>
 	  <div class="panel-body">
 	    <div class="row">
@@ -343,7 +343,7 @@
 	  </div>
 	</div><div class="panel panel-default custom-panel">
 	  <div class="panel-heading panel-heading-custom">
-	    <h3 class="panel-title">166 lb Weight Class</h3>
+	    <h3 class="panel-title">166 lb Division</h3>
 	  </div>
 	  <div class="panel-body">
 	    <div class="row">
@@ -378,7 +378,7 @@
 	  </div>
 	</div><div class="panel panel-default custom-panel">
 	  <div class="panel-heading panel-heading-custom">
-	    <h3 class="panel-title">166 lb Weight Class</h3>
+	    <h3 class="panel-title">166 lb Division</h3>
 	  </div>
 	  <div class="panel-body">
 	    <div class="row">
@@ -413,7 +413,7 @@
 	  </div>
 	</div><div class="panel panel-default custom-panel">
 	  <div class="panel-heading panel-heading-custom">
-	    <h3 class="panel-title">174 lb Weight Class</h3>
+	    <h3 class="panel-title">174 lb Division</h3>
 	  </div>
 	  <div class="panel-body">
 	    <div class="row">
@@ -448,7 +448,7 @@
 	  </div>
 	</div><div class="panel panel-default custom-panel">
 	  <div class="panel-heading panel-heading-custom">
-	    <h3 class="panel-title">174 lb Weight Class</h3>
+	    <h3 class="panel-title">174 lb Division</h3>
 	  </div>
 	  <div class="panel-body">
 	    <div class="row">
@@ -483,7 +483,7 @@
 	  </div>
 	</div><div class="panel panel-default custom-panel">
 	  <div class="panel-heading panel-heading-custom">
-	    <h3 class="panel-title">185 lb Weight Class</h3>
+	    <h3 class="panel-title">185 lb Division</h3>
 	  </div>
 	  <div class="panel-body">
 	    <div class="row">
@@ -518,7 +518,7 @@
 	  </div>
 	</div><div class="panel panel-default custom-panel">
 	  <div class="panel-heading panel-heading-custom">
-	    <h3 class="panel-title">185 lb Weight Class</h3>
+	    <h3 class="panel-title">185 lb Division</h3>
 	  </div>
 	  <div class="panel-body">
 	    <div class="row">
@@ -553,7 +553,7 @@
 	  </div>
 	</div><div class="panel panel-default custom-panel">
 	  <div class="panel-heading panel-heading-custom">
-	    <h3 class="panel-title">199 lb Weight Class</h3>
+	    <h3 class="panel-title">199 lb Division</h3>
 	  </div>
 	  <div class="panel-body">
 	    <div class="row">
@@ -588,7 +588,7 @@
 	  </div>
 	</div><div class="panel panel-default custom-panel">
 	  <div class="panel-heading panel-heading-custom">
-	    <h3 class="panel-title">Heavyweight Weight Class</h3>
+	    <h3 class="panel-title">Heavyweight Division</h3>
 	  </div>
 	  <div class="panel-body">
 	    <div class="row">
@@ -625,7 +625,7 @@ Also worthwhile to note: No boxer-corner duo have logged as much time throwing m
 	  </div>
 	</div><div class="panel panel-default custom-panel">
 	  <div class="panel-heading panel-heading-custom">
-	    <h3 class="panel-title">Heavyweight Weight Class</h3>
+	    <h3 class="panel-title">Heavyweight Division</h3>
 	  </div>
 	  <div class="panel-body">
 	    <div class="row">
