@@ -10,6 +10,6 @@ for ($x = 0; $x <= intval($_POST['numberBouts']); $x++) {
 }  
 #exec("python scripts/sendemail.py jconsidi@nd.edu" $message);
 
-echo $message;
+echo $_POST['bout' . 0];
 
 ?>
