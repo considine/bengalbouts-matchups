@@ -321,7 +321,7 @@
 	    <div class="row">
 	    	<div class="col-md-5 center-col">
 	    		<h3 class="boxer-title center-text boxer-gold"> Joey Quinones </h3>
-	    		 <img class="boxer-photo" alt="blue-boxer" src="img/garts.jpg"> </img>
+	    		 <img class="boxer-photo" alt="blue-boxer" src="img/jquinonas.jpg"> </img>
 	    		 <p class="descrip-text"><strong>Dorm: </strong>Keough</p>
 	    		 <p class="descrip-text"><strong>Experience: </strong>3rd Year</p>
     		  	<p class="descrip-text"><strong>Strength: </strong>Joey will occasionally move in unorthodox ways, which often keeps his opponents off balance.  In no small part to his martial arts background, his composure and discipline in the ring are undeniable assets.  A thoughtful boxer, Joey will often look to set up his punches more than most competitors.  When he throws multiple punch combinations, boxers have to be ready to defend every inch of the scoring area.</p>
@@ -332,7 +332,7 @@
 			 </div>
 			 <div class="col-md-5">
 			 	<h3 class="boxer-title center-text boxer-blue"> Greg Arts </h3>
-			 	<img class="boxer-photo" alt="blue-boxer" src="img/jquinonas.jpg	"> </img>
+			 	<img class="boxer-photo" alt="blue-boxer" src="img/garts.jpg	"> </img>
 			 	<p class="descrip-text"><strong>Dorm: </strong>Carroll</p>
 	    		 <p class="descrip-text"><strong>Experience:</strong> Novice</p>
     		  	<p class="descrip-text"><strong>Strength: </strong>Greg is long and powerful.  Most boxers in the program are uncomfortable fighting southpaws, and Greg does a good job of capitalizing on their mistakes.  His straight left hand is his best punch.  If he's able to land that with regularity, his opponents are in for a long night</p>
