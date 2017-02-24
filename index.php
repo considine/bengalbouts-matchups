@@ -523,7 +523,7 @@
 	  <div class="panel-body">
 	    <div class="row">
 	    	<div class="col-md-5 center-col">
-	    		<h3 class="boxer-title center-text boxer-gold"> Isaac Althoff (1) </h3>
+	    		<h3 class="boxer-title center-text boxer-gold"> Isaac Althoff (5) </h3>
 	    		 <img class="boxer-photo" alt="blue-boxer" src="img/ialthoff.jpg"> </img>
 	    		 <p class="descrip-text"><strong>Dorm: </strong>Siegfried</p>
 	    		 <p class="descrip-text"><strong>Experience: </strong>Novice</p>
@@ -537,7 +537,7 @@
 			 	<a target="_blank" href=" http://ev12.evenue.net/cgi-bin/ncommerce3/SEGetEventList?groupCode=BB&linkID=notre-dame&shopperContext=&caller=&appCode=&_template=chocolate" type="button" class="btn btn-primary btn-lg donate-button">Tickets</a>
 			 </div>
 			 <div class="col-md-5">
-			 	<h3 class="boxer-title center-text boxer-blue"> Dan Andree (5) </h3>
+			 	<h3 class="boxer-title center-text boxer-blue"> Dan Andree (1) </h3>
 			 	<img class="boxer-photo" alt="blue-boxer" src="img/dandree.jpg	"> </img>
 			 	<p class="descrip-text"><strong>Dorm: </strong>Off Campus</p>
 	    		 <p class="descrip-text"><strong>Experience:</strong> 2nd Year</p>
@@ -644,7 +644,7 @@ Also worthwhile to note: No boxer-corner duo have logged as much time throwing m
 			 	<a target="_blank" href=" http://ev12.evenue.net/cgi-bin/ncommerce3/SEGetEventList?groupCode=BB&linkID=notre-dame&shopperContext=&caller=&appCode=&_template=chocolate" type="button" class="btn btn-primary btn-lg donate-button">Tickets</a>
 			 </div>
 			 <div class="col-md-5">
-			 	<h3 class="boxer-title center-text boxer-blue"> Erich Jegier (6) </h3>
+			 	<h3 class="boxer-title center-text boxer-blue"> Erich Jegier (5) </h3>
 			 	<img class="boxer-photo" alt="blue-boxer" src="img/ejegier.jpg	"> </img>
 			 	<p class="descrip-text"><strong>Dorm: </strong>Off Campus</p>
 	    		 <p class="descrip-text"><strong>Experience:</strong> 4th Year</p>
