@@ -13,9 +13,8 @@ $message = $message . "And your verification code is: \n" . generateRandomString
 // $email = $_POST['email'];
 
 
-$req = $_POST['submission'];
-echo 'hi';
-echo $req;
+$data = json_decode(file_get_contents('php://input'));
+var_dump($data->name);
 
 
 function generateRandomString($length = 10) {
