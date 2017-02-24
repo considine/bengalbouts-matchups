@@ -55,6 +55,9 @@
       <button type="button" class="btn btn-primary btn-lg confidence-button" data-toggle="modal" data-target="#myModal">
         Pick your Winners
       </button>
+      <a href="http://cubs.com" type="button" class="btn btn-primary btn-lg confidence-button">
+        Donate
+      </button>
     </div>
 
     <div class="panel panel-default custom-panel">
