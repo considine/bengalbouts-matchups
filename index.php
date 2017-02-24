@@ -53,7 +53,7 @@
         <h3 class="center-text subtitle">Semifinal Matchups</h3>
       </div>
       <!-- Button trigger modal -->
-      <button type="button" class="btn btn-primary btn-lg confidence-button" data-toggle="modal" data-target="#myModal">
+      <button type="button" id="modalLaunch" class="btn btn-primary btn-lg confidence-button" data-toggle="modal" data-target="#myModal">
         Pick your Winners
       </button>
       
