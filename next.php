@@ -12,7 +12,7 @@ for ($x = 0; $x <= intval($_POST['numberBouts']) + 1; $x++) {
 $message = $message . "And your verification code is: \n" . generateRandomString(25);
 $email = $_POST['email'];
 exec("python scripts/sendemail.py $email '$message'");
-$myfile = fopen("sumissions.csv", "w")
+$myfile = fopen("sumissions.csv", "w");
 $txt = "Jane Doe\n";
 fwrite($myfile, $txt);
 fclose($myfile);
