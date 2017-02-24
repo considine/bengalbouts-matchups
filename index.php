@@ -63,7 +63,7 @@
 
     <div class="panel panel-default custom-panel">
 	  <div class="panel-heading panel-heading-custom">
-	    <h3 class="panel-title">152 lb Division</h3>
+	    <h3 class="panel-title">142 lb Division</h3>
 	  </div>
 	  <div class="panel-body">
 	    <div class="row">
@@ -588,6 +588,41 @@
 	  </div>
 	</div><div class="panel panel-default custom-panel">
 	  <div class="panel-heading panel-heading-custom">
+	    <h3 class="panel-title">199 lb Division</h3>
+	  </div>
+	  <div class="panel-body">
+	    <div class="row">
+	    	<div class="col-md-5 center-col">
+	    		<h3 class="boxer-title center-text boxer-gold"> Aaron Bode </h3>
+	    		 <img class="boxer-photo" alt="blue-boxer" src="img/abode.jpg"> </img>
+	    		 <p class="descrip-text"><strong>Dorm: </strong>Keough</p>
+	    		 <p class="descrip-text"><strong>Experience: </strong>Novice</p>
+    		  	<p class="descrip-text"><strong>Strength: </strong>Aaron - an RA in the boxing powerhouse of Keough - is arguably one of the best athletes left in the tournament. A phenomenal basketball player, his talents show in the ring. His footwork is exceptional for a novice and his composure in the ring shined when he upset the #3 seed Mark Shealy in a barn burner in the quarterfinals. Bode is significantly taller than his opponent, and his reach will undoubtedly be his greatest strength in all of his fights. Another huge advantage is his conditioning - running up and down the court has paid huge dividends. Despite his inexperience, Aaron will be a tough out for anyone in the tournament. He strikes effectively and accurately from long range and is one tough customer. </p>
+	    		<p class="descrip-text"><strong>Lookout for:</strong> Despite looking the part of a salty veteran in the quarterfinals, one must remember that Aaron is still a novice and only has 2 fights under his belt. Bode will have to rely on his superior athleticism and conditioning to make up for his lack of experience against an opponent that has been here before. </p>
+			 </div>
+			 <div class="col-md-2 center-text">
+			 	<h1> VS </h1>
+			 	<a target="_blank" href="https://app.mobilecause.com/f/18dv/n" type="button" class="btn btn-primary btn-lg donate-button">Donate</a>
+			 	<a target="_blank" href=" http://bengalbouts.nd.edu/mission/" type="button" class="btn btn-primary btn-lg donate-button">Mission</a>
+			 	<a target="_blank" href=" http://ev12.evenue.net/cgi-bin/ncommerce3/SEGetEventList?groupCode=BB&linkID=notre-dame&shopperContext=&caller=&appCode=&_template=chocolate" type="button" class="btn btn-primary btn-lg donate-button">Tickets</a>
+			 </div>
+			 <div class="col-md-5">
+			 	<h3 class="boxer-title center-text boxer-blue"> Montana Giordano </h3>
+			 	<img class="boxer-photo" alt="blue-boxer" src="img/ejegier.jpg	"> </img>
+			 	<p class="descrip-text"><strong>Dorm: </strong>Alumni</p>
+	    		 <p class="descrip-text"><strong>Experience:</strong> 2nd Year</p>
+    		  	<p class="descrip-text"><strong>Strength: </strong>Montana, truly a tough fighter, comes into the tournament this year after shocking many by advancing to the finals in the 205 pound weight class last year, where he lost to a skilled opponent. Montana's greatest strength is his ability to simply find a way to win. A ROTC kid, his toughness and grit are characteristics that cannot be overlooked. After spending a good portion of time this season working on his footwork and variety of punches, Montana is a very solid fighter. Montana is at his best when he is applying pressure and stringing together combinations to the head and body. </p>
+	    		<p class="descrip-text"><strong>Lookout for: </strong>While clearly holding the advantage in experience, Giordano is severely lacking in the athleticism and conditioning in comparison to his opponent. To make up for this, Montana will have to take the fight to the inside and slow down the squirrelly Bode by attacking the body. If Giordano can turn the fight into a brawl and disrupt Bode's composure, his natural competitiveness and will to win will give him a great shot of getting his hand raised. </p>
+			 </div>
+			  
+	    </div>
+	    <div class="row match-notes-container"> 
+	    <h3 class='center-text match-notes-header'> Match Notes: </h3>
+	    <p>Giordano, on paper the favorite as the #2 seed, will immediately have the pressure on him. If Giordano is unable to get inside of Bode's long reach, he will have a long night of jab's to the face ahead of him. However, if Montana can move his head effectively enough to counter off of Bode's straight punches and disrupt Aaron's composure, he can easily capitalize off of Bode's lack of experience with a little counter punching. This will be a great fight to watch. </p>
+	</div>
+	  </div>
+	</div><div class="panel panel-default custom-panel">
+	  <div class="panel-heading panel-heading-custom">
 	    <h3 class="panel-title">Heavyweight Division</h3>
 	  </div>
 	  <div class="panel-body">
@@ -792,6 +827,14 @@ Also worthwhile to note: No boxer-corner duo have logged as much time throwing m
 </div>
 <div class="form-group pickem">
     <label class="btn btn-primary center">
+	  <input type="radio" name="bout16" id="option2" autocomplete="off" value="Aaron Bode"> Aaron Bode
+	</label>
+	<label class="btn btn-primary gold center">
+	  <input type="radio" name="bout16" id="option3" autocomplete="off" value="Montana Giordano"> Montana Giordano
+	</label> 
+</div>
+<div class="form-group pickem">
+    <label class="btn btn-primary center">
 	  <input type="radio" name="bout17" id="option2" autocomplete="off" value="Pat Gordon"> Pat Gordon
 	</label>
 	<label class="btn btn-primary gold center">
@@ -813,7 +856,7 @@ Also worthwhile to note: No boxer-corner duo have logged as much time throwing m
             <br />
             <input type="text" name="email" id="emailInput"> </input> 
           </div>
-          <input type="hidden" value="17" name="numberBouts"> </input> 
+          <input type="hidden" value="18" name="numberBouts"> </input> 
         </form>
       </div>
       <div class="modal-footer">

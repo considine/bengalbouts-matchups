@@ -1,5 +1,5 @@
 $('.submit-pickem').click(function () {
-	if ($('input[type=radio]:checked').size() !== 17) {
+	if ($('input[type=radio]:checked').size() !== 18) {
 		alert ("Please select all bouts");
 	}
 	else if ($('#emailInput').val().length === 0) {
@@ -8,7 +8,7 @@ $('.submit-pickem').click(function () {
 	else {
 		// get data
 		json_string = "{"
-		for (i =0 ; i< 17; i++) {
+		for (i =0 ; i< 18; i++) {
 			if (i>0) {
 				json_string+=",";
 			}
