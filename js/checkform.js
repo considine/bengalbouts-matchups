@@ -12,7 +12,7 @@ $('.submit-pickem').click(function () {
            data: $("#pickemform").serialize(), // serializes the form's elements.
            success: function(data)
            {
-               alert(data); // show response from the php script.
+               alert("Your response has been submitted. Check your email for verification"); // show response from the php script.
            }
          });
 	}
