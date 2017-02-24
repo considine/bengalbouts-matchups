@@ -324,7 +324,7 @@
 	    <div class="row">
 	    	<div class="col-md-5 center-col">
 	    		<h3 class="boxer-title center-text boxer-gold"> Paddy Lawler </h3>
-	    		 <img class="boxer-photo" alt="blue-boxer" src="img/plawler.jpg"> </img>
+	    		 <img class="boxer-photo" alt="blue-boxer" src="img/plawer.jpg"> </img>
 	    		 <p class="descrip-text"><strong>Dorm: </strong>Fisher</p>
 	    		 <p class="descrip-text"><strong>Experience: </strong>3rd Year</p>
     		  	<p class="descrip-text"><strong>Strength: </strong>Paddy, AKA the human energizer bunny, is almost undoubtedly the best conditioned fighter in the club. With such a high motor, he has on multiple occasions beaten more skilled fighters simply by throwing more punches than them. This is assuredly his greatest strength, as he demonstrated last year in the tournament where he had without question the toughest path to a championship, beating 3 extremely talented fighters. However, he had a productive off season training his boxing skills in Chicago, and it has paid big dividends. Now a boxer first, Paddy relies on his brawling as his ace in the hole, and its a brutally effective one. If Paddy can put his opponents in a corner, its going to be a long night for them. </p>
