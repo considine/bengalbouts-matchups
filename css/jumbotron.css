@@ -67,6 +67,11 @@ img.boxer-photo {
 	text-align: center;
 }
 
+.donate-button {
+	margin: 12px;
+	max-width: 400px
+}
+
 .pickem {
 	text-align: center;
 }
