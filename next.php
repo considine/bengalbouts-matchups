@@ -5,7 +5,7 @@
 #send email:
 
 $message = "Here are your pix from the bb matchups\n";
-for ($x = 0; $x <= intval($_POST['numberBouts']); $x++) {
+for ($x = 0; $x <= intval($_POST['numberBouts']) + 1; $x++) {
     $message = $message . $_POST['bout'. $x] . "\n";
 }  
 $email = $_POST['email'];
