@@ -437,7 +437,7 @@
 			 	<p class="descrip-text"><strong>Dorm: </strong>Morrissey</p>
 	    		 <p class="descrip-text"><strong>Experience:</strong> 2nd Year</p>
     		  	<p class="descrip-text"><strong>Strength: </strong>Hands down his power. Krecek throws hard punches, especially the right straight. He also has an impressive mental and physical toughness.</p>
-	    		<p class="descrip-text"><strong>Lookout for: </strong> Look out for Krecek's ability to throw combinations even while under attack. As a freshman, he made it to the semis where he lost a very close bout to a very tall Jack Shephard. Every match he's had, he's pushed the pace and proven to be a true competitor</p>
+	    		<p class="descrip-text"><strong>Lookout for: </strong> Look out for Krecek's ability to throw combinations even while under attack. As a freshman, he made it to the semis where he lost a very close bout to a very tall Jack Shepard. Every match he's had, he's pushed the pace and proven to be a true competitor</p>
 			 </div>
 			  
 	    </div>
@@ -467,7 +467,7 @@
 			 	<a target="_blank" href=" http://ev12.evenue.net/cgi-bin/ncommerce3/SEGetEventList?groupCode=BB&linkID=notre-dame&shopperContext=&caller=&appCode=&_template=chocolate" type="button" class="btn btn-primary btn-lg donate-button">Tickets</a>
 			 </div>
 			 <div class="col-md-5">
-			 	<h3 class="boxer-title center-text boxer-blue"> Jack Shephard (3) </h3>
+			 	<h3 class="boxer-title center-text boxer-blue"> Jack Shepard (3) </h3>
 			 	<img class="boxer-photo" alt="blue-boxer" src="img/jshepard.jpg	"> </img>
 			 	<p class="descrip-text"><strong>Dorm: </strong>Off Campus</p>
 	    		 <p class="descrip-text"><strong>Experience:</strong> 2nd Year</p>
@@ -798,7 +798,7 @@ Also worthwhile to note: No boxer-corner duo have logged as much time throwing m
 	  <input type="radio" name="bout12" id="option2" autocomplete="off" value="Chris Harrington"> Chris Harrington
 	</label>
 	<label class="btn btn-primary gold center">
-	  <input type="radio" name="bout12" id="option3" autocomplete="off" value="Jack Shephard"> Jack Shephard
+	  <input type="radio" name="bout12" id="option3" autocomplete="off" value="Jack Shepard"> Jack Shepard
 	</label> 
 </div>
 <div class="form-group pickem">
