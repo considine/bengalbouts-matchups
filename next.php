@@ -15,9 +15,9 @@ for ($x = 0; $x <= intval($_POST['numberBouts']) + 1; $x++) {
 
 $content = $content . generateRandomString(25);
 $message = $message . " And your verification code is: \n" . generateRandomString(25);
-
+$message = $message . "\n PLEASE SAVE THIS EMAIL TO BE ELIGIBLE TO WIN GLOVES!";
 $email = $_POST['email'];
-#exec("python scripts/sendemail.py $email '$message' '$winners'");
+exec("python scripts/sendemail.py $email '$message' '$content'");
 echo $message;
 
 
