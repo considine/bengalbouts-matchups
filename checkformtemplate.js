@@ -8,7 +8,8 @@ $('.submit-pickem').click(function () {
 	else {
 		// get data
 		for (i =0 ; i< NUMBOUTS; i++) {
-			console.log($("input[name=bout" + i + "]").val());
+			
+			console.log($("input[name=bout" + i + "]:checked").val());
 		}
 
 
