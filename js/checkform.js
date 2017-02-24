@@ -8,7 +8,7 @@ $('.submit-pickem').click(function () {
 	else {
 		 $.ajax({
            type: "POST",
-           url: url,
+           url: 'next.php',
            data: $("#pickemform").serialize(), // serializes the form's elements.
            success: function(data)
            {
