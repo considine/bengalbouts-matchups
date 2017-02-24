@@ -89,7 +89,7 @@
 	    </div>
 	    <div class="row match-notes-container"> 
 	    <h3 class='center-text match-notes-header'> Match Notes: </h3>
-	    <h5 class="center-text">This match-up is exactly what you'd hope for in a semifinal pairing.  Chris lost by split decision to Mike Kappaz (the defending champ) in last year's semifinals.  Joaquin entered the tournament, by virtue of his number 2 seed, as the biggest threat to a successful Kappaz title defense.  Expect the first 45 seconds to set the tone for the rest of the bout.</h5>
+	    <p>This match-up is exactly what you'd hope for in a semifinal pairing.  Chris lost by split decision to Mike Kappaz (the defending champ) in last year's semifinals.  Joaquin entered the tournament, by virtue of his number 2 seed, as the biggest threat to a successful Kappaz title defense.  Expect the first 45 seconds to set the tone for the rest of the bout.</p>
 	</div>
 	  </div>
 	</div><div class="panel panel-default custom-panel">
@@ -121,7 +121,7 @@
 	    </div>
 	    <div class="row match-notes-container"> 
 	    <h3 class='center-text match-notes-header'> Match Notes: </h3>
-	    <h5 class="center-text">Where this fight takes place within the ring is a great indicator of who will win the bout. If most of the fighting occurs in the middle of the ring where North can use his reach and disrupt Kappaz' timing, North has a great shot of getting his hand raised and moving onto the finals. If the stalwart Kappaz can apply pressure and pin North against the ropes, he has an excellent chance of getting a shot at a repeat title. Both fighters' conditioning will be tested unlike it has been in their previous fights. </h5>
+	    <p>Where this fight takes place within the ring is a great indicator of who will win the bout. If most of the fighting occurs in the middle of the ring where North can use his reach and disrupt Kappaz' timing, North has a great shot of getting his hand raised and moving onto the finals. If the stalwart Kappaz can apply pressure and pin North against the ropes, he has an excellent chance of getting a shot at a repeat title. Both fighters' conditioning will be tested unlike it has been in their previous fights. </p>
 	</div>
 	  </div>
 	</div><div class="panel panel-default custom-panel">
@@ -153,7 +153,7 @@
 	    </div>
 	    <div class="row match-notes-container"> 
 	    <h3 class='center-text match-notes-header'> Match Notes: </h3>
-	    <h5 class="center-text">Both of these men are strong veteran boxers. Conor has surprised many people with his performance in the prelims and quarters.  He'll need to surprise many more to overcome his disadvantage in size and experience to Yoder. This matchup is sure to bring about a very high punch volume and should be pretty technical.</h5>
+	    <p>Both of these men are strong veteran boxers. Conor has surprised many people with his performance in the prelims and quarters.  He'll need to surprise many more to overcome his disadvantage in size and experience to Yoder. This matchup is sure to bring about a very high punch volume and should be pretty technical.</p>
 	</div>
 	  </div>
 	</div><div class="panel panel-default custom-panel">
@@ -185,7 +185,7 @@
 	    </div>
 	    <div class="row match-notes-container"> 
 	    <h3 class='center-text match-notes-header'> Match Notes: </h3>
-	    <h5 class="center-text">Stylistically, this match-up isn't an ideal one for Dom.  The only opponents who have given Alex, the #1 seed and two-time defending champ, trouble in the past are ones who have fought coming forward, leaned on him, and turned the boxing match into more of a wrestling match.  That's not Dom's style.  Dom, to his credit, though, has spent as much time in the gym training as nearly anybody in the program.  Getting off to a quick start will be imperative for the challenger.</h5>
+	    <p>Stylistically, this match-up isn't an ideal one for Dom.  The only opponents who have given Alex, the #1 seed and two-time defending champ, trouble in the past are ones who have fought coming forward, leaned on him, and turned the boxing match into more of a wrestling match.  That's not Dom's style.  Dom, to his credit, though, has spent as much time in the gym training as nearly anybody in the program.  Getting off to a quick start will be imperative for the challenger.</p>
 	</div>
 	  </div>
 	</div><div class="panel panel-default custom-panel">
@@ -217,7 +217,7 @@
 	    </div>
 	    <div class="row match-notes-container"> 
 	    <h3 class='center-text match-notes-header'> Match Notes: </h3>
-	    <h5 class="center-text">Chip is the top seed for this bracket, and Tim is a novice that has surprised everyone so far.  In order to overcome this gap, Tim can't let Chip land 4-5 punch combinations. This means he has to move well and show confidence against the crafty veteran. Chip on the other hand, must assert his dominance early on by landing a couple of quick, strong combinations</h5>
+	    <p>Chip is the top seed for this bracket, and Tim is a novice that has surprised everyone so far.  In order to overcome this gap, Tim can't let Chip land 4-5 punch combinations. This means he has to move well and show confidence against the crafty veteran. Chip on the other hand, must assert his dominance early on by landing a couple of quick, strong combinations</p>
 	</div>
 	  </div>
 	</div><div class="panel panel-default custom-panel">
@@ -249,7 +249,7 @@
 	    </div>
 	    <div class="row match-notes-container"> 
 	    <h3 class='center-text match-notes-header'> Match Notes: </h3>
-	    <h5 class="center-text">Alex Roth is coming off his most impressive Bengal Bouts performance to date, which makes this matchup a compelling one.  Joe Guilfoile is 2-0 in semifinal round bouts and has a track record of getting better each round of the tournament.  Alex wants to control the center of the ring and keep Joe at a distance.  Joe wants to use his speed and power to drive Alex back.  Whoever accomplishes their goal is extremely likely to get his hand raised.</h5>
+	    <p>Alex Roth is coming off his most impressive Bengal Bouts performance to date, which makes this matchup a compelling one.  Joe Guilfoile is 2-0 in semifinal round bouts and has a track record of getting better each round of the tournament.  Alex wants to control the center of the ring and keep Joe at a distance.  Joe wants to use his speed and power to drive Alex back.  Whoever accomplishes their goal is extremely likely to get his hand raised.</p>
 	</div>
 	  </div>
 	</div><div class="panel panel-default custom-panel">
@@ -281,7 +281,7 @@
 	    </div>
 	    <div class="row match-notes-container"> 
 	    <h3 class='center-text match-notes-header'> Match Notes: </h3>
-	    <h5 class="center-text">This matchup has a lot of fun storylines.  Joey, a junior captain who visited Bangladesh this summer, is trying to extend his streak of advancing one round farther than the previous year.  He also is one of two fighters in this year's tournament who has a brother-sister duo working his corner during the bouts, which is likely a first in Bengal Bouts history.  Greg, who is studying at Notre Dame for a year as part of an exchange program, has been making the most of his one year to compete.  Both boxers feel a sense of urgency for this bout.  It should be an entertaining one!</h5>
+	    <p>This matchup has a lot of fun storylines.  Joey, a junior captain who visited Bangladesh this summer, is trying to extend his streak of advancing one round farther than the previous year.  He also is one of two fighters in this year's tournament who has a brother-sister duo working his corner during the bouts, which is likely a first in Bengal Bouts history.  Greg, who is studying at Notre Dame for a year as part of an exchange program, has been making the most of his one year to compete.  Both boxers feel a sense of urgency for this bout.  It should be an entertaining one!</p>
 	</div>
 	  </div>
 	</div><div class="panel panel-default custom-panel">
@@ -313,7 +313,7 @@
 	    </div>
 	    <div class="row match-notes-container"> 
 	    <h3 class='center-text match-notes-header'> Match Notes: </h3>
-	    <h5 class="center-text">How will Garrett handle the pressure of a highly competitive and high volume puncher? How will Gio deal with an opponent who is much more skilled than anyone he has faced thus far? These are the questions that will decide the fight. If Gio can hang in the fight until the later stages where he can use his conditioning to make up lost ground, he has a great shot of advancing to the finals. However, if he is sloppy, Schmelling will make him pay. If Garrett controls the pace of the fight and gets in a rhythm, the top seed will be making his way back to the finals. This will be an entertaining fight until the end. </h5>
+	    <p>How will Garrett handle the pressure of a highly competitive and high volume puncher? How will Gio deal with an opponent who is much more skilled than anyone he has faced thus far? These are the questions that will decide the fight. If Gio can hang in the fight until the later stages where he can use his conditioning to make up lost ground, he has a great shot of advancing to the finals. However, if he is sloppy, Schmelling will make him pay. If Garrett controls the pace of the fight and gets in a rhythm, the top seed will be making his way back to the finals. This will be an entertaining fight until the end. </p>
 	</div>
 	  </div>
 	</div><div class="panel panel-default custom-panel">
@@ -345,7 +345,7 @@
 	    </div>
 	    <div class="row match-notes-container"> 
 	    <h3 class='center-text match-notes-header'> Match Notes: </h3>
-	    <h5 class="center-text">Like other fights in the tournament, this is a classic inside vs outside fighter bout. If most of the action takes place in the center of the ring, Flynn's reach will be extremely effective in throwing off Lawler's timing and rhythm. However, if Lawler can assert his will and pin Flynn in the corner, Sean might be hitting the showers early. Sean has no doubt proved he is a tougher fighter than his experience gives him credit for, and he won't be an easy out. This is a classic bull & matador fight, and should be entertaining to watch. </h5>
+	    <p>Like other fights in the tournament, this is a classic inside vs outside fighter bout. If most of the action takes place in the center of the ring, Flynn's reach will be extremely effective in throwing off Lawler's timing and rhythm. However, if Lawler can assert his will and pin Flynn in the corner, Sean might be hitting the showers early. Sean has no doubt proved he is a tougher fighter than his experience gives him credit for, and he won't be an easy out. This is a classic bull & matador fight, and should be entertaining to watch. </p>
 	</div>
 	  </div>
 	</div><div class="panel panel-default custom-panel">
@@ -377,7 +377,7 @@
 	    </div>
 	    <div class="row match-notes-container"> 
 	    <h3 class='center-text match-notes-header'> Match Notes: </h3>
-	    <h5 class="center-text">This will be one of the more exciting fights of the night. Childers and McDermott are two superb athletes and competitors. Neither of them will back down easily. Both are combination punchers with great ring composure. If Danny can hang around in the first round and keep it close, his athletic edge and competitiveness will give him a great shot to win. If McDermott gets comfortable, his experience and composure will allow him to pick Danny apart. Overall, this will be a fun one to watch. </h5>
+	    <p>This will be one of the more exciting fights of the night. Childers and McDermott are two superb athletes and competitors. Neither of them will back down easily. Both are combination punchers with great ring composure. If Danny can hang around in the first round and keep it close, his athletic edge and competitiveness will give him a great shot to win. If McDermott gets comfortable, his experience and composure will allow him to pick Danny apart. Overall, this will be a fun one to watch. </p>
 	</div>
 	  </div>
 	</div><div class="panel panel-default custom-panel">
@@ -409,7 +409,7 @@
 	    </div>
 	    <div class="row match-notes-container"> 
 	    <h3 class='center-text match-notes-header'> Match Notes: </h3>
-	    <h5 class="center-text">This will be a very interesting matchup. Corrigan has the upper seed due to his experience in the program, but these boxers complement each other very well. Krecek will likely be the more physical, and Corrigan the more technical.  Jack needs to endure Krecek's strong punches, and Krecek needs to try to control the movement in the ring.</h5>
+	    <p>This will be a very interesting matchup. Corrigan has the upper seed due to his experience in the program, but these boxers complement each other very well. Krecek will likely be the more physical, and Corrigan the more technical.  Jack needs to endure Krecek's strong punches, and Krecek needs to try to control the movement in the ring.</p>
 	</div>
 	  </div>
 	</div><div class="panel panel-default custom-panel">
@@ -441,7 +441,7 @@
 	    </div>
 	    <div class="row match-notes-container"> 
 	    <h3 class='center-text match-notes-header'> Match Notes: </h3>
-	    <h5 class="center-text">If nothing else, this bout should have a lot of action.  Both boxers are not afraid to mix it up, and their styles suggest a high volume of punches being exchanged.  Chris will look to slip punches and unleash hooks; Jack will try to land a powerful straight left to stop Chris in his track as he engages.  The winner of this "battle within the battle" will likely emerge victorious.</h5>
+	    <p>If nothing else, this bout should have a lot of action.  Both boxers are not afraid to mix it up, and their styles suggest a high volume of punches being exchanged.  Chris will look to slip punches and unleash hooks; Jack will try to land a powerful straight left to stop Chris in his track as he engages.  The winner of this "battle within the battle" will likely emerge victorious.</p>
 	</div>
 	  </div>
 	</div><div class="panel panel-default custom-panel">
@@ -473,7 +473,7 @@
 	    </div>
 	    <div class="row match-notes-container"> 
 	    <h3 class='center-text match-notes-header'> Match Notes: </h3>
-	    <h5 class="center-text">This is yet another great matchup of height vs strength. Both boxers have competed in the tournament before, and this one really could go either way. It all depends on who's able to bring the match to their own strengths; can Ryan keep it a long clean bout, or can Cam get close with some power hooks?</h5>
+	    <p>This is yet another great matchup of height vs strength. Both boxers have competed in the tournament before, and this one really could go either way. It all depends on who's able to bring the match to their own strengths; can Ryan keep it a long clean bout, or can Cam get close with some power hooks?</p>
 	</div>
 	  </div>
 	</div><div class="panel panel-default custom-panel">
@@ -505,7 +505,7 @@
 	    </div>
 	    <div class="row match-notes-container"> 
 	    <h3 class='center-text match-notes-header'> Match Notes: </h3>
-	    <h5 class="center-text">Dan's competed in the Bengal Bouts once before, and his hard work and athletic ability has earned him the top seed for this weight bracket.  To overcome his status as underdog, Isaac needs to really be physical. Past opponents of Dan have lost confidence in their combinations after one of Dan's strong punches. If Isaac can push through this, he will give himself a chance to upset</h5>
+	    <p>Dan's competed in the Bengal Bouts once before, and his hard work and athletic ability has earned him the top seed for this weight bracket.  To overcome his status as underdog, Isaac needs to really be physical. Past opponents of Dan have lost confidence in their combinations after one of Dan's strong punches. If Isaac can push through this, he will give himself a chance to upset</p>
 	</div>
 	  </div>
 	</div><div class="panel panel-default custom-panel">
@@ -537,7 +537,7 @@
 	    </div>
 	    <div class="row match-notes-container"> 
 	    <h3 class='center-text match-notes-header'> Match Notes: </h3>
-	    <h5 class="center-text">This is a great matchup that you love to see in the semi finals - a four year veteran vs a three year veteran. Expect the experience to be on display, as neither of these fighters will be intimidated or back down from anything. If Considine gets rolling with his 1-2, he'll be on his way to the 87th Bengal Bouts finals. However, if Chris can make Considine miss and pay off of counter punch opportunities, it will plant some doubt in his mind, enough to throw him off his rhythm so that Chris can capitalize and throw his combinations. Vasquez will need to stay on the inside to negate the 1-2. If he accomplishes these things, Chris will be on his way to a finals appearance. </h5>
+	    <p>This is a great matchup that you love to see in the semi finals - a four year veteran vs a three year veteran. Expect the experience to be on display, as neither of these fighters will be intimidated or back down from anything. If Considine gets rolling with his 1-2, he'll be on his way to the 87th Bengal Bouts finals. However, if Chris can make Considine miss and pay off of counter punch opportunities, it will plant some doubt in his mind, enough to throw him off his rhythm so that Chris can capitalize and throw his combinations. Vasquez will need to stay on the inside to negate the 1-2. If he accomplishes these things, Chris will be on his way to a finals appearance. </p>
 	</div>
 	  </div>
 	</div><div class="panel panel-default custom-panel">
@@ -571,7 +571,7 @@ Also worthwhile to note: No boxer-corner duo have logged as much time throwing m
 	    </div>
 	    <div class="row match-notes-container"> 
 	    <h3 class='center-text match-notes-header'> Match Notes: </h3>
-	    <h5 class="center-text">Pat has been a man on a mission this boxing season.  Every time he enters the ring, he knows that he's invested more time honing his craft than his opponent.  Erich is looking to play the role of spoiler and bookend his Bengal Bouts career with finals appearances.  The penultimate bout of the night should be entertaining.</h5>
+	    <p>Pat has been a man on a mission this boxing season.  Every time he enters the ring, he knows that he's invested more time honing his craft than his opponent.  Erich is looking to play the role of spoiler and bookend his Bengal Bouts career with finals appearances.  The penultimate bout of the night should be entertaining.</p>
 	</div>
 	  </div>
 	</div><div class="panel panel-default custom-panel">
@@ -603,7 +603,7 @@ Also worthwhile to note: No boxer-corner duo have logged as much time throwing m
 	    </div>
 	    <div class="row match-notes-container"> 
 	    <h3 class='center-text match-notes-header'> Match Notes: </h3>
-	    <h5 class="center-text">This will be one of the best matchups of the night, and the first round will tell the story of how the fight will go. If Richelsen is capable of handling Jackson's power, he has the advantage in this bout with the reach and smoother punching, as well as higher quantity punching. However, if Jackson can assert pressure on Richelsen and attack smoothly with combinations against the ropes on the inside, Wrede has great odds of heading back to the finals. </h5>
+	    <p>This will be one of the best matchups of the night, and the first round will tell the story of how the fight will go. If Richelsen is capable of handling Jackson's power, he has the advantage in this bout with the reach and smoother punching, as well as higher quantity punching. However, if Jackson can assert pressure on Richelsen and attack smoothly with combinations against the ropes on the inside, Wrede has great odds of heading back to the finals. </p>
 	</div>
 	  </div>
 	</div>
