@@ -7,11 +7,16 @@ $('.submit-pickem').click(function () {
 	}
 	else {
 		// get data
+		json_string = "["
 		for (i =0 ; i< 15; i++) {
-			
-			console.log($("input[name=bout" + i + "]:checked").val());
+			if (i>0) {
+				json_string+=",";
+			}
+			json_string += '{"bout" + (i+1) :' + $("input[name=bout" + (i+1) + "]:checked").val() + '}';
+			console.log($("input[name=bout" + (i+1) + "]:checked").val());
 		}
-
+		json_string +="]";
+		alert(json_string);
 
 		 // $.ajax({
    //         type: "POST",
