@@ -419,6 +419,38 @@
 	  <div class="panel-body">
 	    <div class="row">
 	    	<div class="col-md-5 center-col">
+	    		<h3 class="boxer-title center-text boxer-gold"> Chris Harrington </h3>
+	    		 <img class="boxer-photo" alt="blue-boxer" src="img/charrington.jpg"> </img>
+	    		 <p class="descrip-text"><strong>Dorm: </strong>Off Campus</p>
+	    		 <p class="descrip-text"><strong>Experience: </strong>Novice</p>
+    		  	<p class="descrip-text"><strong>Strength: </strong>Chris is as unorthodox and awkward as they come.  His herky-jerky movements often leave his opponents just a half-second behind in reacting, allowing him to snap off combinations from uncomfortable angles.  When he's in a groove, Chris will often walk opponents into an undetected big hook.  </p>
+	    		<p class="descrip-text"><strong>Lookout for:</strong> The third-year Master of Divinity student (who graduated from ND as an undergrad in 2008) is the oldest boxer remaining in the tournament and will enter the ring with the support of his wife, his three children, and what might be the largest basketball Google Group on campus.The key for Chris is to effectively close distance against Jack.  If Chris can get inside and snap off hooks to the body, he has a good chance to emerge victorious.  Slipping the first few punches of Jack's combinations will be crucial.</p>
+			 </div>
+			 <div class="col-md-2 center-text">
+			 	<h1> VS </h1>
+			 </div>
+			 <div class="col-md-5">
+			 	<h3 class="boxer-title center-text boxer-blue"> Jack Shephard </h3>
+			 	<img class="boxer-photo" alt="blue-boxer" src="img/jshepard.jpg	"> </img>
+			 	<p class="descrip-text"><strong>Dorm: </strong>Off Campus</p>
+	    		 <p class="descrip-text"><strong>Experience:</strong> 2nd Year</p>
+    		  	<p class="descrip-text"><strong>Strength: </strong>Jack is a tall southpaw with a long reach, and capitalizes on those advantages.   He establishes and controls distance very well and hits harder than some opponents suspect.  Of the four remaining boxers in this weight class, Jack is the only one who has previously advanced to the finals.</p>
+	    		<p class="descrip-text"><strong>Lookout for: </strong>Jack is looking to get back to the finals for the second straight year.  In last year's tournament, Jack surprised some people around the club with just how effectively he was able to establish range in his matches and throw with accuracy on shorter opponents who barreled in.  If he's able to successfully throw and land uppercuts in this bout, he will likely find himself with the opportunity to compete for a championship once again.</p>
+			 </div>
+			  
+	    </div>
+	    <div class="row match-notes-container"> 
+	    <h3 class='center-text match-notes-header'> Match Notes: </h3>
+	    <h5 class="center-text">If nothing else, this bout should have a lot of action.  Both boxers are not afraid to mix it up, and their styles suggest a high volume of punches being exchanged.  Chris will look to slip punches and unleash hooks; Jack will try to land a powerful straight left to stop Chris in his track as he engages.  The winner of this "battle within the battle" will likely emerge victorious.</h5>
+	</div>
+	  </div>
+	</div><div class="panel panel-default custom-panel">
+	  <div class="panel-heading panel-heading-custom">
+	    <h3 class="panel-title">C_WEIGHT Weight Class</h3>
+	  </div>
+	  <div class="panel-body">
+	    <div class="row">
+	    	<div class="col-md-5 center-col">
 	    		<h3 class="boxer-title center-text boxer-gold"> Cameron Nolan </h3>
 	    		 <img class="boxer-photo" alt="blue-boxer" src="img/cnolan.jpg"> </img>
 	    		 <p class="descrip-text"><strong>Dorm: </strong>Duncan</p>
@@ -642,6 +674,14 @@
 </div>
 <div class="form-group pickem">
     <label class="btn btn-primary center">
+	  <input type="radio" name="bout12" id="option2" autocomplete="off" value="Chris Harrington"> Chris Harrington
+	</label>
+	<label class="btn btn-primary gold center">
+	  <input type="radio" name="bout12" id="option3" autocomplete="off" value="Jack Shephard"> Jack Shephard
+	</label> 
+</div>
+<div class="form-group pickem">
+    <label class="btn btn-primary center">
 	  <input type="radio" name="bout13" id="option2" autocomplete="off" value="Cameron Nolan"> Cameron Nolan
 	</label>
 	<label class="btn btn-primary gold center">
@@ -679,7 +719,7 @@
             <br />
             <input type="text" name="email" id="emailInput"> </input> 
           </div>
-          <input type="hidden" value="15" name="numberBouts"> </input> 
+          <input type="hidden" value="16" name="numberBouts"> </input> 
         </form>
       </div>
       <div class="modal-footer">

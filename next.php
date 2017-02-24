@@ -12,7 +12,8 @@ for ($x = 0; $x <= intval($_POST['numberBouts']) + 1; $x++) {
 $message = $message . "And your verification code is: \n" . generateRandomString(25);
 $email = $_POST['email'];
 #exec("python scripts/sendemail.py $email '$message'");
-
+$json = file_get_contents('php://input');
+$obj = json_decode($json);
 
 
 
