@@ -243,7 +243,7 @@
 	  <div class="panel-body">
 	    <div class="row">
 	    	<div class="col-md-5 center-col">
-	    		<h3 class="boxer-title center-text boxer-gold"> Alex Roth (2) </h3>
+	    		<h3 class="boxer-title center-text boxer-gold"> Alex Roth (5) </h3>
 	    		 <img class="boxer-photo" alt="blue-boxer" src="img/aroth.jpg"> </img>
 	    		 <p class="descrip-text"><strong>Dorm: </strong>Zahm</p>
 	    		 <p class="descrip-text"><strong>Experience: </strong>2nd Year</p>
@@ -257,7 +257,7 @@
 			 	<a target="_blank" href=" http://ev12.evenue.net/cgi-bin/ncommerce3/SEGetEventList?groupCode=BB&linkID=notre-dame&shopperContext=&caller=&appCode=&_template=chocolate" type="button" class="btn btn-primary btn-lg donate-button">Tickets</a>
 			 </div>
 			 <div class="col-md-5">
-			 	<h3 class="boxer-title center-text boxer-blue"> Joe Guilfoile (5) </h3>
+			 	<h3 class="boxer-title center-text boxer-blue"> Joe Guilfoile (2) </h3>
 			 	<img class="boxer-photo" alt="blue-boxer" src="img/jguilfoile.jpg	"> </img>
 			 	<p class="descrip-text"><strong>Dorm: </strong>Morrissey</p>
 	    		 <p class="descrip-text"><strong>Experience:</strong> 3rd Year</p>
