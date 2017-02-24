@@ -4,6 +4,8 @@
 
 #send email:
 #exec("python scripts/sendemail.py jconsidi@nd.edu");
-echo "HELLO";
-echo $_POST['numberBouts'];
+
+for ($x = 0; $x <= intval($_POST['numberBouts']); $x++) {
+    echo "The number is: $x <br>";
+}  
 ?>
