@@ -1,9 +1,9 @@
 <?php
 
-echo "YES";
+
 
 #send email:
-$output = passthru("python email.py jconsidi@nd.edu");
+$output = passthru("python scripts/sendemail.py jconsidi@nd.edu");
 
-
+echo $output
 ?>
