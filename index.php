@@ -96,6 +96,38 @@
 	  <div class="panel-body">
 	    <div class="row">
 	    	<div class="col-md-5 center-col">
+	    		<h3 class="boxer-title center-text boxer-gold"> Mike Kappaz </h3>
+	    		 <img class="boxer-photo" alt="blue-boxer" src="img/mkappaz.jpg"> </img>
+	    		 <p class="descrip-text"><strong>Dorm: </strong>Off Campus</p>
+	    		 <p class="descrip-text"><strong>Experience: </strong>2nd Year</p>
+    		  	<p class="descrip-text"><strong>Strength: </strong>Mike, the top seed in the lightest bracket, fights like a heavy weight. With a sinister presence in the ring, Kappaz is excellent at controlling and cutting off the ring, despite not throwing a high volume of punches. However, when he does throw, he makes the punches count. Kappaz is the defending champion, and enters the ring with a lot of confidence. He enters this fight after a blistering referee stopped contest in his last bout. </p>
+	    		<p class="descrip-text"><strong>Lookout for:</strong> As an almost entirely front footed fighter, Kappaz is at his best when he is controlling the ring and throwing vicious combinations. Fighting an opponent with a few inches of reach on him, Mike could get in trouble if he is unable to get inside North's long jab. Mike will have to take the fight on the inside where his combinations will be most effective. </p>
+			 </div>
+			 <div class="col-md-2 center-text">
+			 	<h1> VS </h1>
+			 </div>
+			 <div class="col-md-5">
+			 	<h3 class="boxer-title center-text boxer-blue"> Riley North </h3>
+			 	<img class="boxer-photo" alt="blue-boxer" src="img/rnorth.jpg	"> </img>
+			 	<p class="descrip-text"><strong>Dorm: </strong>Morrissey</p>
+	    		 <p class="descrip-text"><strong>Experience:</strong> Novice</p>
+    		  	<p class="descrip-text"><strong>Strength: </strong>Riley will undoubtedly be taller than everyone he could fight in the tournament, and his reach will be his greatest asset. North is coming off of his first ever fight in the bouts, in which he effectively handled a scrappy Troy Nguyen. In his last fight, North's opponent sought to take the fight to his body and brawl in the corners. Riley was able to demonstrate some ring moxie by calmly keeping his opponent at range by using his strong jab and right cross. He'll need to do the same in this upcoming bout. </p>
+	    		<p class="descrip-text"><strong>Lookout for: </strong>North will need to effectively move laterally to avoid being pinned in a corner by Kappaz. By pumping his jab and straight right, North can disrupt Kappaz' rhythm and combinations. North has not faced an opponent the caliber of Kappaz yet and his will to win will certainly be tested. If North can remain calm and display the same ring savvy he displayed in the Quarterfinals and keep Kappaz at bay, North has a great shot of getting his hand raised. </p>
+			 </div>
+			  
+	    </div>
+	    <div class="row match-notes-container"> 
+	    <h3 class='center-text match-notes-header'> Match Notes: </h3>
+	    <h5 class="center-text">Where this fight takes place within the ring is a great indicator of who will win the bout. If most of the fighting occurs in the middle of the ring where North can use his reach and disrupt Kappaz' timing, North has a great shot of getting his hand raised and moving onto the finals. If the stalwart Kappaz can apply pressure and pin North against the ropes, he has an excellent chance of getting a shot at a repeat title. Both fighters' conditioning will be tested unlike it has been in their previous fights. </h5>
+	</div>
+	  </div>
+	</div><div class="panel panel-default custom-panel">
+	  <div class="panel-heading panel-heading-custom">
+	    <h3 class="panel-title">C_WEIGHT Weight Class</h3>
+	  </div>
+	  <div class="panel-body">
+	    <div class="row">
+	    	<div class="col-md-5 center-col">
 	    		<h3 class="boxer-title center-text boxer-gold"> Matt Yoder </h3>
 	    		 <img class="boxer-photo" alt="blue-boxer" src="img/myoder.jpg"> </img>
 	    		 <p class="descrip-text"><strong>Dorm: </strong>O'Neill Hall</p>
@@ -367,6 +399,14 @@
 </div>
 <div class="form-group pickem">
     <label class="btn btn-primary center">
+	  <input type="radio" name="bout2" id="option2" autocomplete="off" value="Mike Kappaz"> Mike Kappaz
+	</label>
+	<label class="btn btn-primary gold center">
+	  <input type="radio" name="bout2" id="option3" autocomplete="off" value="Riley North"> Riley North
+	</label> 
+</div>
+<div class="form-group pickem">
+    <label class="btn btn-primary center">
 	  <input type="radio" name="bout3" id="option2" autocomplete="off" value="Matt Yoder"> Matt Yoder
 	</label>
 	<label class="btn btn-primary gold center">
@@ -436,7 +476,7 @@
             <br />
             <input type="text" name="email" id="emailInput"> </input> 
           </div>
-          <input type="hidden" value="9" name="numberBouts"> </input> 
+          <input type="hidden" value="10" name="numberBouts"> </input> 
         </form>
       </div>
       <div class="modal-footer">
