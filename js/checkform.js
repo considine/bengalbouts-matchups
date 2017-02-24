@@ -1,5 +1,5 @@
 $('.submit-pickem').click(function () {
-	if ($('input[type=radio]:checked').size() !== 10) {
+	if ($('input[type=radio]:checked').size() !== 12) {
 		alert ("Please select all bouts");
 	}
 	else if ($('#emailInput').val().length === 0) {
