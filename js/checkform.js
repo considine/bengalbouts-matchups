@@ -5,4 +5,8 @@ $('.submit-pickem').click(function () {
 	else {
 		alert("Please select all bouts");
 	}
+
+	if ($('.emailInput').val().length === 0) {
+		alert("Please put your email");
+	}
 });
