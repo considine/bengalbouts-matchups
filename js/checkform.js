@@ -1,10 +1,13 @@
 $('.submit-pickem').click(function () {
-	if ($('input[type=radio]:checked').size() == 8) {
-		
+	if ($('input[type=radio]:checked').size() !== 8) {
+		alert ("Please select all bouts");
+	}
+	else if ($('#emailInput').val().length === 0) {
+		alert ("Please enter your email");
 	}
 	else {
-		alert("Please select all bouts");
+		$("#pickemform").ajaxForm({url: 'next.php', type: 'post'})
 	}
-	alert ($('#emailInput').val());
+
 	
 });

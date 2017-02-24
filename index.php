@@ -323,7 +323,7 @@
         <h4 class="modal-title center" id="myModalLabel">Pickem</h4>
       </div>
       <div class="modal-body">
-        <form>
+        <form id="pickemform">
           <div class="form-group pickem">
             <div class="form-group pickem">
     <label class="btn btn-primary center">
