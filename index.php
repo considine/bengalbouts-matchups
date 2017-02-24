@@ -68,7 +68,7 @@
 	  <div class="panel-body">
 	    <div class="row">
 	    	<div class="col-md-5 center-col">
-	    		<h3 class="boxer-title center-text boxer-gold"> Joaquin Camara </h3>
+	    		<h3 class="boxer-title center-text boxer-gold"> Joaquin Camara (2) </h3>
 	    		 <img class="boxer-photo" alt="blue-boxer" src="img/jcamara.jpg"> </img>
 	    		 <p class="descrip-text"><strong>Dorm: </strong>Keenan</p>
 	    		 <p class="descrip-text"><strong>Experience: </strong>Novice</p>
@@ -82,7 +82,7 @@
 			 	<a target="_blank" href=" http://ev12.evenue.net/cgi-bin/ncommerce3/SEGetEventList?groupCode=BB&linkID=notre-dame&shopperContext=&caller=&appCode=&_template=chocolate" type="button" class="btn btn-primary btn-lg donate-button">Tickets</a>
 			 </div>
 			 <div class="col-md-5">
-			 	<h3 class="boxer-title center-text boxer-blue"> Chris Dethlefs </h3>
+			 	<h3 class="boxer-title center-text boxer-blue"> Chris Dethlefs (3) </h3>
 			 	<img class="boxer-photo" alt="blue-boxer" src="img/cdethlefs.jpg	"> </img>
 			 	<p class="descrip-text"><strong>Dorm: </strong>Sorin</p>
 	    		 <p class="descrip-text"><strong>Experience:</strong> 3rd Year</p>
@@ -103,7 +103,7 @@
 	  <div class="panel-body">
 	    <div class="row">
 	    	<div class="col-md-5 center-col">
-	    		<h3 class="boxer-title center-text boxer-gold"> Mike Kappaz </h3>
+	    		<h3 class="boxer-title center-text boxer-gold"> Mike Kappaz (1) </h3>
 	    		 <img class="boxer-photo" alt="blue-boxer" src="img/mkappaz.jpg"> </img>
 	    		 <p class="descrip-text"><strong>Dorm: </strong>Off Campus</p>
 	    		 <p class="descrip-text"><strong>Experience: </strong>2nd Year</p>
@@ -117,7 +117,7 @@
 			 	<a target="_blank" href=" http://ev12.evenue.net/cgi-bin/ncommerce3/SEGetEventList?groupCode=BB&linkID=notre-dame&shopperContext=&caller=&appCode=&_template=chocolate" type="button" class="btn btn-primary btn-lg donate-button">Tickets</a>
 			 </div>
 			 <div class="col-md-5">
-			 	<h3 class="boxer-title center-text boxer-blue"> Riley North </h3>
+			 	<h3 class="boxer-title center-text boxer-blue"> Riley North (4) </h3>
 			 	<img class="boxer-photo" alt="blue-boxer" src="img/rnorth.jpg	"> </img>
 			 	<p class="descrip-text"><strong>Dorm: </strong>Morrissey</p>
 	    		 <p class="descrip-text"><strong>Experience:</strong> Novice</p>
@@ -138,7 +138,7 @@
 	  <div class="panel-body">
 	    <div class="row">
 	    	<div class="col-md-5 center-col">
-	    		<h3 class="boxer-title center-text boxer-gold"> Matt Yoder </h3>
+	    		<h3 class="boxer-title center-text boxer-gold"> Matt Yoder (2) </h3>
 	    		 <img class="boxer-photo" alt="blue-boxer" src="img/myoder.jpg"> </img>
 	    		 <p class="descrip-text"><strong>Dorm: </strong>O'Neill Hall</p>
 	    		 <p class="descrip-text"><strong>Experience: </strong>3rd Year</p>
@@ -152,7 +152,7 @@
 			 	<a target="_blank" href=" http://ev12.evenue.net/cgi-bin/ncommerce3/SEGetEventList?groupCode=BB&linkID=notre-dame&shopperContext=&caller=&appCode=&_template=chocolate" type="button" class="btn btn-primary btn-lg donate-button">Tickets</a>
 			 </div>
 			 <div class="col-md-5">
-			 	<h3 class="boxer-title center-text boxer-blue"> Conor Ward </h3>
+			 	<h3 class="boxer-title center-text boxer-blue"> Conor Ward (3) </h3>
 			 	<img class="boxer-photo" alt="blue-boxer" src="img/cward.jpg	"> </img>
 			 	<p class="descrip-text"><strong>Dorm: </strong>Knott</p>
 	    		 <p class="descrip-text"><strong>Experience:</strong> 2nd Year</p>
@@ -173,7 +173,7 @@
 	  <div class="panel-body">
 	    <div class="row">
 	    	<div class="col-md-5 center-col">
-	    		<h3 class="boxer-title center-text boxer-gold"> Alex Alcantara </h3>
+	    		<h3 class="boxer-title center-text boxer-gold"> Alex Alcantara (1) </h3>
 	    		 <img class="boxer-photo" alt="blue-boxer" src="img/aalcantara.jpg"> </img>
 	    		 <p class="descrip-text"><strong>Dorm: </strong>Alumni</p>
 	    		 <p class="descrip-text"><strong>Experience: </strong>3rd Year</p>
@@ -187,7 +187,7 @@
 			 	<a target="_blank" href=" http://ev12.evenue.net/cgi-bin/ncommerce3/SEGetEventList?groupCode=BB&linkID=notre-dame&shopperContext=&caller=&appCode=&_template=chocolate" type="button" class="btn btn-primary btn-lg donate-button">Tickets</a>
 			 </div>
 			 <div class="col-md-5">
-			 	<h3 class="boxer-title center-text boxer-blue"> Dominic Angelottie </h3>
+			 	<h3 class="boxer-title center-text boxer-blue"> Dominic Angelottie (4) </h3>
 			 	<img class="boxer-photo" alt="blue-boxer" src="img/dangel.jpg	"> </img>
 			 	<p class="descrip-text"><strong>Dorm: </strong>Carroll</p>
 	    		 <p class="descrip-text"><strong>Experience:</strong> 2nd Year</p>
@@ -208,7 +208,7 @@
 	  <div class="panel-body">
 	    <div class="row">
 	    	<div class="col-md-5 center-col">
-	    		<h3 class="boxer-title center-text boxer-gold"> Chip Blood </h3>
+	    		<h3 class="boxer-title center-text boxer-gold"> Chip Blood (1) </h3>
 	    		 <img class="boxer-photo" alt="blue-boxer" src="img/cblood.jpg"> </img>
 	    		 <p class="descrip-text"><strong>Dorm: </strong>Sorin</p>
 	    		 <p class="descrip-text"><strong>Experience: </strong>4th Year</p>
@@ -222,7 +222,7 @@
 			 	<a target="_blank" href=" http://ev12.evenue.net/cgi-bin/ncommerce3/SEGetEventList?groupCode=BB&linkID=notre-dame&shopperContext=&caller=&appCode=&_template=chocolate" type="button" class="btn btn-primary btn-lg donate-button">Tickets</a>
 			 </div>
 			 <div class="col-md-5">
-			 	<h3 class="boxer-title center-text boxer-blue"> Tim Mikulski </h3>
+			 	<h3 class="boxer-title center-text boxer-blue"> Tim Mikulski (12) </h3>
 			 	<img class="boxer-photo" alt="blue-boxer" src="img/tmikulski.jpg	"> </img>
 			 	<p class="descrip-text"><strong>Dorm: </strong>Duncan</p>
 	    		 <p class="descrip-text"><strong>Experience:</strong> Novice</p>
@@ -243,7 +243,7 @@
 	  <div class="panel-body">
 	    <div class="row">
 	    	<div class="col-md-5 center-col">
-	    		<h3 class="boxer-title center-text boxer-gold"> Alex Roth </h3>
+	    		<h3 class="boxer-title center-text boxer-gold"> Alex Roth (2) </h3>
 	    		 <img class="boxer-photo" alt="blue-boxer" src="img/aroth.jpg"> </img>
 	    		 <p class="descrip-text"><strong>Dorm: </strong>Zahm</p>
 	    		 <p class="descrip-text"><strong>Experience: </strong>2nd Year</p>
@@ -257,7 +257,7 @@
 			 	<a target="_blank" href=" http://ev12.evenue.net/cgi-bin/ncommerce3/SEGetEventList?groupCode=BB&linkID=notre-dame&shopperContext=&caller=&appCode=&_template=chocolate" type="button" class="btn btn-primary btn-lg donate-button">Tickets</a>
 			 </div>
 			 <div class="col-md-5">
-			 	<h3 class="boxer-title center-text boxer-blue"> Joe Guilfoile </h3>
+			 	<h3 class="boxer-title center-text boxer-blue"> Joe Guilfoile (5) </h3>
 			 	<img class="boxer-photo" alt="blue-boxer" src="img/jguilfoile.jpg	"> </img>
 			 	<p class="descrip-text"><strong>Dorm: </strong>Morrissey</p>
 	    		 <p class="descrip-text"><strong>Experience:</strong> 3rd Year</p>
@@ -278,7 +278,7 @@
 	  <div class="panel-body">
 	    <div class="row">
 	    	<div class="col-md-5 center-col">
-	    		<h3 class="boxer-title center-text boxer-gold"> Joey Quinones </h3>
+	    		<h3 class="boxer-title center-text boxer-gold"> Joey Quinones (2) </h3>
 	    		 <img class="boxer-photo" alt="blue-boxer" src="img/jquinonas.jpg"> </img>
 	    		 <p class="descrip-text"><strong>Dorm: </strong>Keough</p>
 	    		 <p class="descrip-text"><strong>Experience: </strong>3rd Year</p>
@@ -292,7 +292,7 @@
 			 	<a target="_blank" href=" http://ev12.evenue.net/cgi-bin/ncommerce3/SEGetEventList?groupCode=BB&linkID=notre-dame&shopperContext=&caller=&appCode=&_template=chocolate" type="button" class="btn btn-primary btn-lg donate-button">Tickets</a>
 			 </div>
 			 <div class="col-md-5">
-			 	<h3 class="boxer-title center-text boxer-blue"> Greg Arts </h3>
+			 	<h3 class="boxer-title center-text boxer-blue"> Greg Arts (3) </h3>
 			 	<img class="boxer-photo" alt="blue-boxer" src="img/garts.jpg	"> </img>
 			 	<p class="descrip-text"><strong>Dorm: </strong>Carroll</p>
 	    		 <p class="descrip-text"><strong>Experience:</strong> Novice</p>
@@ -313,7 +313,7 @@
 	  <div class="panel-body">
 	    <div class="row">
 	    	<div class="col-md-5 center-col">
-	    		<h3 class="boxer-title center-text boxer-gold"> Garrett Schmelling </h3>
+	    		<h3 class="boxer-title center-text boxer-gold"> Garrett Schmelling (1) </h3>
 	    		 <img class="boxer-photo" alt="blue-boxer" src="img/gschmelling.jpg"> </img>
 	    		 <p class="descrip-text"><strong>Dorm: </strong>Fisher</p>
 	    		 <p class="descrip-text"><strong>Experience: </strong>3rd Year</p>
@@ -327,7 +327,7 @@
 			 	<a target="_blank" href=" http://ev12.evenue.net/cgi-bin/ncommerce3/SEGetEventList?groupCode=BB&linkID=notre-dame&shopperContext=&caller=&appCode=&_template=chocolate" type="button" class="btn btn-primary btn-lg donate-button">Tickets</a>
 			 </div>
 			 <div class="col-md-5">
-			 	<h3 class="boxer-title center-text boxer-blue"> Gio Lincon </h3>
+			 	<h3 class="boxer-title center-text boxer-blue"> Gio Lincon (6) </h3>
 			 	<img class="boxer-photo" alt="blue-boxer" src="img/glincoln.jpg	"> </img>
 			 	<p class="descrip-text"><strong>Dorm: </strong>Off Campus</p>
 	    		 <p class="descrip-text"><strong>Experience:</strong> 4th Year</p>
@@ -348,7 +348,7 @@
 	  <div class="panel-body">
 	    <div class="row">
 	    	<div class="col-md-5 center-col">
-	    		<h3 class="boxer-title center-text boxer-gold"> Paddy Lawler </h3>
+	    		<h3 class="boxer-title center-text boxer-gold"> Paddy Lawler (1) </h3>
 	    		 <img class="boxer-photo" alt="blue-boxer" src="img/plawer.jpg"> </img>
 	    		 <p class="descrip-text"><strong>Dorm: </strong>Fisher</p>
 	    		 <p class="descrip-text"><strong>Experience: </strong>3rd Year</p>
@@ -362,7 +362,7 @@
 			 	<a target="_blank" href=" http://ev12.evenue.net/cgi-bin/ncommerce3/SEGetEventList?groupCode=BB&linkID=notre-dame&shopperContext=&caller=&appCode=&_template=chocolate" type="button" class="btn btn-primary btn-lg donate-button">Tickets</a>
 			 </div>
 			 <div class="col-md-5">
-			 	<h3 class="boxer-title center-text boxer-blue"> Sean Flynn </h3>
+			 	<h3 class="boxer-title center-text boxer-blue"> Sean Flynn (4) </h3>
 			 	<img class="boxer-photo" alt="blue-boxer" src="img/sflynn.jpg	"> </img>
 			 	<p class="descrip-text"><strong>Dorm: </strong>Off Campus</p>
 	    		 <p class="descrip-text"><strong>Experience:</strong> Novice</p>
@@ -383,7 +383,7 @@
 	  <div class="panel-body">
 	    <div class="row">
 	    	<div class="col-md-5 center-col">
-	    		<h3 class="boxer-title center-text boxer-gold"> Danny Childers </h3>
+	    		<h3 class="boxer-title center-text boxer-gold"> Danny Childers (6) </h3>
 	    		 <img class="boxer-photo" alt="blue-boxer" src="img/dchilders.jpg"> </img>
 	    		 <p class="descrip-text"><strong>Dorm: </strong>Keough</p>
 	    		 <p class="descrip-text"><strong>Experience: </strong>Novice</p>
@@ -397,7 +397,7 @@
 			 	<a target="_blank" href=" http://ev12.evenue.net/cgi-bin/ncommerce3/SEGetEventList?groupCode=BB&linkID=notre-dame&shopperContext=&caller=&appCode=&_template=chocolate" type="button" class="btn btn-primary btn-lg donate-button">Tickets</a>
 			 </div>
 			 <div class="col-md-5">
-			 	<h3 class="boxer-title center-text boxer-blue"> Jack McDermott </h3>
+			 	<h3 class="boxer-title center-text boxer-blue"> Jack McDermott (2) </h3>
 			 	<img class="boxer-photo" alt="blue-boxer" src="img/jmcdermott.jpg	"> </img>
 			 	<p class="descrip-text"><strong>Dorm: </strong>O'Neill</p>
 	    		 <p class="descrip-text"><strong>Experience:</strong> 2nd Year</p>
@@ -418,7 +418,7 @@
 	  <div class="panel-body">
 	    <div class="row">
 	    	<div class="col-md-5 center-col">
-	    		<h3 class="boxer-title center-text boxer-gold"> Jack Corrigan </h3>
+	    		<h3 class="boxer-title center-text boxer-gold"> Jack Corrigan (1) </h3>
 	    		 <img class="boxer-photo" alt="blue-boxer" src="img/jcorrigan.jpg"> </img>
 	    		 <p class="descrip-text"><strong>Dorm: </strong>Morrissey</p>
 	    		 <p class="descrip-text"><strong>Experience: </strong>4th Year</p>
@@ -432,7 +432,7 @@
 			 	<a target="_blank" href=" http://ev12.evenue.net/cgi-bin/ncommerce3/SEGetEventList?groupCode=BB&linkID=notre-dame&shopperContext=&caller=&appCode=&_template=chocolate" type="button" class="btn btn-primary btn-lg donate-button">Tickets</a>
 			 </div>
 			 <div class="col-md-5">
-			 	<h3 class="boxer-title center-text boxer-blue"> Michael Krecek </h3>
+			 	<h3 class="boxer-title center-text boxer-blue"> Michael Krecek (4) </h3>
 			 	<img class="boxer-photo" alt="blue-boxer" src="img/mkrecek.jpg	"> </img>
 			 	<p class="descrip-text"><strong>Dorm: </strong>Morrissey</p>
 	    		 <p class="descrip-text"><strong>Experience:</strong> 2nd Year</p>
@@ -453,7 +453,7 @@
 	  <div class="panel-body">
 	    <div class="row">
 	    	<div class="col-md-5 center-col">
-	    		<h3 class="boxer-title center-text boxer-gold"> Chris Harrington </h3>
+	    		<h3 class="boxer-title center-text boxer-gold"> Chris Harrington (2) </h3>
 	    		 <img class="boxer-photo" alt="blue-boxer" src="img/charrington.jpg"> </img>
 	    		 <p class="descrip-text"><strong>Dorm: </strong>Off Campus</p>
 	    		 <p class="descrip-text"><strong>Experience: </strong>Novice</p>
@@ -467,7 +467,7 @@
 			 	<a target="_blank" href=" http://ev12.evenue.net/cgi-bin/ncommerce3/SEGetEventList?groupCode=BB&linkID=notre-dame&shopperContext=&caller=&appCode=&_template=chocolate" type="button" class="btn btn-primary btn-lg donate-button">Tickets</a>
 			 </div>
 			 <div class="col-md-5">
-			 	<h3 class="boxer-title center-text boxer-blue"> Jack Shephard </h3>
+			 	<h3 class="boxer-title center-text boxer-blue"> Jack Shephard (3) </h3>
 			 	<img class="boxer-photo" alt="blue-boxer" src="img/jshepard.jpg	"> </img>
 			 	<p class="descrip-text"><strong>Dorm: </strong>Off Campus</p>
 	    		 <p class="descrip-text"><strong>Experience:</strong> 2nd Year</p>
@@ -488,7 +488,7 @@
 	  <div class="panel-body">
 	    <div class="row">
 	    	<div class="col-md-5 center-col">
-	    		<h3 class="boxer-title center-text boxer-gold"> Cameron Nolan </h3>
+	    		<h3 class="boxer-title center-text boxer-gold"> Cameron Nolan (2) </h3>
 	    		 <img class="boxer-photo" alt="blue-boxer" src="img/cnolan.jpg"> </img>
 	    		 <p class="descrip-text"><strong>Dorm: </strong>Duncan</p>
 	    		 <p class="descrip-text"><strong>Experience: </strong>2nd Year</p>
@@ -502,7 +502,7 @@
 			 	<a target="_blank" href=" http://ev12.evenue.net/cgi-bin/ncommerce3/SEGetEventList?groupCode=BB&linkID=notre-dame&shopperContext=&caller=&appCode=&_template=chocolate" type="button" class="btn btn-primary btn-lg donate-button">Tickets</a>
 			 </div>
 			 <div class="col-md-5">
-			 	<h3 class="boxer-title center-text boxer-blue"> Jack Ryan </h3>
+			 	<h3 class="boxer-title center-text boxer-blue"> Jack Ryan (3) </h3>
 			 	<img class="boxer-photo" alt="blue-boxer" src="img/jryan.jpg	"> </img>
 			 	<p class="descrip-text"><strong>Dorm: </strong>Off Campus</p>
 	    		 <p class="descrip-text"><strong>Experience:</strong> 4th Year</p>
@@ -523,7 +523,7 @@
 	  <div class="panel-body">
 	    <div class="row">
 	    	<div class="col-md-5 center-col">
-	    		<h3 class="boxer-title center-text boxer-gold"> Isaac Althoff </h3>
+	    		<h3 class="boxer-title center-text boxer-gold"> Isaac Althoff (1) </h3>
 	    		 <img class="boxer-photo" alt="blue-boxer" src="img/ialthoff.jpg"> </img>
 	    		 <p class="descrip-text"><strong>Dorm: </strong>Siegfried</p>
 	    		 <p class="descrip-text"><strong>Experience: </strong>Novice</p>
@@ -537,7 +537,7 @@
 			 	<a target="_blank" href=" http://ev12.evenue.net/cgi-bin/ncommerce3/SEGetEventList?groupCode=BB&linkID=notre-dame&shopperContext=&caller=&appCode=&_template=chocolate" type="button" class="btn btn-primary btn-lg donate-button">Tickets</a>
 			 </div>
 			 <div class="col-md-5">
-			 	<h3 class="boxer-title center-text boxer-blue"> Dan Andree </h3>
+			 	<h3 class="boxer-title center-text boxer-blue"> Dan Andree (5) </h3>
 			 	<img class="boxer-photo" alt="blue-boxer" src="img/dandree.jpg	"> </img>
 			 	<p class="descrip-text"><strong>Dorm: </strong>Off Campus</p>
 	    		 <p class="descrip-text"><strong>Experience:</strong> 2nd Year</p>
@@ -558,7 +558,7 @@
 	  <div class="panel-body">
 	    <div class="row">
 	    	<div class="col-md-5 center-col">
-	    		<h3 class="boxer-title center-text boxer-gold"> Jack Considine </h3>
+	    		<h3 class="boxer-title center-text boxer-gold"> Jack Considine (1) </h3>
 	    		 <img class="boxer-photo" alt="blue-boxer" src="img/jconsidi.jpg"> </img>
 	    		 <p class="descrip-text"><strong>Dorm: </strong>Off Campus</p>
 	    		 <p class="descrip-text"><strong>Experience: </strong>4th Year</p>
@@ -572,7 +572,7 @@
 			 	<a target="_blank" href=" http://ev12.evenue.net/cgi-bin/ncommerce3/SEGetEventList?groupCode=BB&linkID=notre-dame&shopperContext=&caller=&appCode=&_template=chocolate" type="button" class="btn btn-primary btn-lg donate-button">Tickets</a>
 			 </div>
 			 <div class="col-md-5">
-			 	<h3 class="boxer-title center-text boxer-blue"> Chris Vasquez </h3>
+			 	<h3 class="boxer-title center-text boxer-blue"> Chris Vasquez (4) </h3>
 			 	<img class="boxer-photo" alt="blue-boxer" src="img/cvazquez.jpg	"> </img>
 			 	<p class="descrip-text"><strong>Dorm: </strong>Off Campus</p>
 	    		 <p class="descrip-text"><strong>Experience:</strong> 3rd Year</p>
@@ -593,7 +593,7 @@
 	  <div class="panel-body">
 	    <div class="row">
 	    	<div class="col-md-5 center-col">
-	    		<h3 class="boxer-title center-text boxer-gold"> Aaron Bode </h3>
+	    		<h3 class="boxer-title center-text boxer-gold"> Aaron Bode (3) </h3>
 	    		 <img class="boxer-photo" alt="blue-boxer" src="img/abode.jpg"> </img>
 	    		 <p class="descrip-text"><strong>Dorm: </strong>Keough</p>
 	    		 <p class="descrip-text"><strong>Experience: </strong>Novice</p>
@@ -607,7 +607,7 @@
 			 	<a target="_blank" href=" http://ev12.evenue.net/cgi-bin/ncommerce3/SEGetEventList?groupCode=BB&linkID=notre-dame&shopperContext=&caller=&appCode=&_template=chocolate" type="button" class="btn btn-primary btn-lg donate-button">Tickets</a>
 			 </div>
 			 <div class="col-md-5">
-			 	<h3 class="boxer-title center-text boxer-blue"> Montana Giordano </h3>
+			 	<h3 class="boxer-title center-text boxer-blue"> Montana Giordano (2) </h3>
 			 	<img class="boxer-photo" alt="blue-boxer" src="img/ejegier.jpg	"> </img>
 			 	<p class="descrip-text"><strong>Dorm: </strong>Alumni</p>
 	    		 <p class="descrip-text"><strong>Experience:</strong> 2nd Year</p>
@@ -628,7 +628,7 @@
 	  <div class="panel-body">
 	    <div class="row">
 	    	<div class="col-md-5 center-col">
-	    		<h3 class="boxer-title center-text boxer-gold"> Pat Gordon </h3>
+	    		<h3 class="boxer-title center-text boxer-gold"> Pat Gordon (1) </h3>
 	    		 <img class="boxer-photo" alt="blue-boxer" src="img/pgordon.jpg"> </img>
 	    		 <p class="descrip-text"><strong>Dorm: </strong>Keough</p>
 	    		 <p class="descrip-text"><strong>Experience: </strong>3rd Year</p>
@@ -644,7 +644,7 @@ Also worthwhile to note: No boxer-corner duo have logged as much time throwing m
 			 	<a target="_blank" href=" http://ev12.evenue.net/cgi-bin/ncommerce3/SEGetEventList?groupCode=BB&linkID=notre-dame&shopperContext=&caller=&appCode=&_template=chocolate" type="button" class="btn btn-primary btn-lg donate-button">Tickets</a>
 			 </div>
 			 <div class="col-md-5">
-			 	<h3 class="boxer-title center-text boxer-blue"> Erich Jegier </h3>
+			 	<h3 class="boxer-title center-text boxer-blue"> Erich Jegier (6) </h3>
 			 	<img class="boxer-photo" alt="blue-boxer" src="img/ejegier.jpg	"> </img>
 			 	<p class="descrip-text"><strong>Dorm: </strong>Off Campus</p>
 	    		 <p class="descrip-text"><strong>Experience:</strong> 4th Year</p>
@@ -665,7 +665,7 @@ Also worthwhile to note: No boxer-corner duo have logged as much time throwing m
 	  <div class="panel-body">
 	    <div class="row">
 	    	<div class="col-md-5 center-col">
-	    		<h3 class="boxer-title center-text boxer-gold"> Jackson Wrede </h3>
+	    		<h3 class="boxer-title center-text boxer-gold"> Jackson Wrede (2) </h3>
 	    		 <img class="boxer-photo" alt="blue-boxer" src="img/jwrede.jpg"> </img>
 	    		 <p class="descrip-text"><strong>Dorm: </strong>Knott</p>
 	    		 <p class="descrip-text"><strong>Experience: </strong>3rd Year</p>
@@ -679,7 +679,7 @@ Also worthwhile to note: No boxer-corner duo have logged as much time throwing m
 			 	<a target="_blank" href=" http://ev12.evenue.net/cgi-bin/ncommerce3/SEGetEventList?groupCode=BB&linkID=notre-dame&shopperContext=&caller=&appCode=&_template=chocolate" type="button" class="btn btn-primary btn-lg donate-button">Tickets</a>
 			 </div>
 			 <div class="col-md-5">
-			 	<h3 class="boxer-title center-text boxer-blue"> Ryan Richelsen </h3>
+			 	<h3 class="boxer-title center-text boxer-blue"> Ryan Richelsen (3) </h3>
 			 	<img class="boxer-photo" alt="blue-boxer" src="img/rrichelson.jpg	"> </img>
 			 	<p class="descrip-text"><strong>Dorm: </strong>Morrissey</p>
 	    		 <p class="descrip-text"><strong>Experience:</strong> 2nd Year</p>
