@@ -1,0 +1,72 @@
+/* Move down content because we have a fixed navbar that is 50px tall */
+body {
+  padding-top: 50px;
+  padding-bottom: 20px;
+}
+
+.custom-panel {
+	margin-left: 24px;
+	margin-right: 24px;
+	background-color: #eee;
+}
+
+.panel-heading-custom {
+	text-align: center;
+}
+
+.center-text {
+	text-align: center;
+}
+
+img.boxer-photo {
+	height: 400px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-bottom: 12px;
+    margin-bottom: 12px;
+}
+
+.center-col {
+	margin-left: auto;
+	margin-right: auto;
+}
+.center {
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+}
+
+.match-notes-container {
+	margin-top: 24px;
+	padding: 12px;
+	max-width: 700px;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.boxer-blue {
+	color: #002f84;
+}
+
+.boxer-gold {
+	color: #fac900;
+}
+.gold {
+	background-color: #fac900;
+}
+
+.blue {
+	background-color: #002f84;
+}
+
+.confidence-button{
+	display: block;
+	margin: auto;
+	text-align: center;
+}
+
+.pickem {
+	text-align: center;
+}
