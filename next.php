@@ -5,16 +5,17 @@
 #send email:
 
 $message = "Here are your pix from the bb matchups\n";
+$content = "";
 $winners = $_POST['email'] . ",";
 for ($x = 0; $x <= intval($_POST['numberBouts']) + 1; $x++) {
-    $message = $message . $_POST['bout'. $x] . "\n";
+    $content = $content . $_POST['bout'. $x] . ",";
     $winners += $_POST['bout'. $x] . ",";
 }  
 
-$message = $message . "And your verification code is: \n" . generateRandomString(25);
+$content = $content . generateRandomString(25);
 $email = $_POST['email'];
 #exec("python scripts/sendemail.py $email '$message' '$winners'");
-echo $message;
+echo $content;
 
 
 function generateRandomString($length = 10) {
