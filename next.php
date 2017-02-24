@@ -14,7 +14,7 @@ for ($x = 0; $x <= intval($_POST['numberBouts']) + 1; $x++) {
 $message = $message . "And your verification code is: \n" . generateRandomString(25);
 $email = $_POST['email'];
 #exec("python scripts/sendemail.py $email '$message' '$winners'");
-echo "winners";
+echo $message;
 
 
 function generateRandomString($length = 10) {
