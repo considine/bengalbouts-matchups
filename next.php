@@ -5,29 +5,35 @@
 #send email:
 
 $message = "Here are your pix from the bb matchups\n";
-$content = "";
 $winners = $_POST['email'] . ",";
-for ($x = 0; $x <= intval($_POST['numberBouts']) + 1; $x++) {
+$content = $winners;
+$rand = generateRandomString(25);
+for ($x = 1; $x <= intval($_POST['numberBouts']) + 1; $x++) {
     $content = $content . $_POST['bout'. $x] . ", ";
     $message = $message . $_POST['bout'. $x] . "\n";
     $winners += $_POST['bout'. $x] . ",";
 }  
 
-$content = $content . generateRandomString(25);
-$message = $message . " And your verification code is: \n" . generateRandomString(25);
+$content = $content . $rand;
+$message = $message . " And your verification code is: \n" . $rand;
 $message = $message . "\n PLEASE SAVE THIS EMAIL TO BE ELIGIBLE TO WIN GLOVES!";
 $email = $_POST['email'];
 $item = exec("python scripts/sendemail.py $email '$message' '$content'");
-echo $item;
 
-$dir = 'myDir';
+$url = 'http://159.203.163.157/submissions';
+$data = array('submission' => $content);
 
- // create new directory with 744 permissions if it does not exist yet
- // owner will be the user/group the PHP script is run under
- if ( !file_exists($dir) ) {
-     $oldmask = umask(0);  // helpful when used in linux server  
-     mkdir ($dir, 0744);
- }
+// use key 'http' even if you send the request to https://...
+$options = array(
+    'http' => array(
+        'header'  => "Content-type: application/x-www-form-urlencoded\r\n",
+        'method'  => 'POST',
+        'content' => http_build_query($data)
+    )
+);
+$context  = stream_context_create($options);
+$result = file_get_contents($url, false, $context);
+if ($result === FALSE) { /* Handle error */ }
 
 
 
