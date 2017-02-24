@@ -22,7 +22,7 @@ $('.submit-pickem').click(function () {
            type: "POST",
            url: 'next.php',
            contentType: "application/json",
-           data: {submission : json_string}, // serializes the form's elements.
+           data: {"submission" : json_string}, // serializes the form's elements.
            success: function(data)
            {
                alert("Your response has been submitted. Check your email for verification " + data); // show response from the php script.
