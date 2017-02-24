@@ -5,5 +5,5 @@
 #send email:
 $output = passthru("python scripts/sendemail.py jconsidi@nd.edu");
 
-echo $output
+echo "Sent email!"
 ?>
