@@ -49,8 +49,8 @@
     <!-- Main jumbotron for a primary marketing message or call to action -->
     <div class="jumbotron">
       <div class="container">
-        <h2 class="center-text"> Notre Dame's 87th Bengal Bouts </h2>
-        <h3 class="center-text subtitle">Semifinal Matchups</h3>
+        <h2 class="center-text gold"> Notre Dame's 87th Bengal Bouts </h2>
+        <h3 class="center-text blue subtitle">Semifinal Matchups</h3>
       </div>
       <!-- Button trigger modal -->
       <button type="button" class="btn btn-primary btn-lg confidence-button" data-toggle="modal" data-target="#myModal">
