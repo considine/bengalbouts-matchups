@@ -13,6 +13,7 @@ $('.submit-pickem').click(function () {
            success: function(data)
            {
                alert("Your response has been submitted. Check your email for verification"); // show response from the php script.
+               
            }
          });
 	}
