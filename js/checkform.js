@@ -5,6 +5,6 @@ $('.submit-pickem').click(function () {
 	else {
 		alert("Please select all bouts");
 	}
-	alert ($('.emailInput').val());
+	alert ($('#emailInput').val());
 	
 });
