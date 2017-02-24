@@ -14,6 +14,7 @@ $message = $message . "And your verification code is: \n" . generateRandomString
 
 
 $req = $_POST['submission'];
+echo 'hi';
 echo $req;
 
 
