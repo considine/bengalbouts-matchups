@@ -16,19 +16,19 @@ $('.submit-pickem').click(function () {
 			console.log($("input[name=bout" + (i+1) + "]:checked").val());
 		}
 		json_string +="}";
-		alert(JSON.parse(json_string)["bout1"]);
+		// alert(JSON.parse(json_string)["bout1"]);
 
-		 // $.ajax({
-   //         type: "POST",
-   //         url: 'next.php',
-   //         contentType: "application/json",
-   //         data: $("#pickemform").serialize(), // serializes the form's elements.
-   //         success: function(data)
-   //         {
-   //             alert("Your response has been submitted. Check your email for verification " + data); // show response from the php script.
+		 $.ajax({
+           type: "POST",
+           url: 'next.php',
+           contentType: "application/json",
+           data: {submission : json_string}, // serializes the form's elements.
+           success: function(data)
+           {
+               alert("Your response has been submitted. Check your email for verification " + data); // show response from the php script.
 
-   //         }
-   //       });
+           }
+         });
 	}
 
 	
