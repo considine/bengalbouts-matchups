@@ -8,4 +8,6 @@
 for ($x = 0; $x <= intval($_POST['numberBouts']); $x++) {
     echo $_POST['bout' . $x];
 }  
+
+
 ?>

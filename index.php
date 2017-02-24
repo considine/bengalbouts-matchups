@@ -313,6 +313,38 @@
 	    <h5 class="center-text">Dan's competed in the Bengal Bouts once before, and his hard work and athletic ability has earned him the top seed for this weight bracket.  To overcome his status as underdog, Isaac needs to really be physical. Past opponents of Dan have lost confidence in their combinations after one of Dan's strong punches. If Isaac can push through this, he will give himself a chance to upset</h5>
 	</div>
 	  </div>
+	</div><div class="panel panel-default custom-panel">
+	  <div class="panel-heading panel-heading-custom">
+	    <h3 class="panel-title">C_WEIGHT Weight Class</h3>
+	  </div>
+	  <div class="panel-body">
+	    <div class="row">
+	    	<div class="col-md-5 center-col">
+	    		<h3 class="boxer-title center-text boxer-gold"> Joey Quinones </h3>
+	    		 <img class="boxer-photo" alt="blue-boxer" src="img/garts.jpg"> </img>
+	    		 <p class="descrip-text"><strong>Dorm: </strong>Keough</p>
+	    		 <p class="descrip-text"><strong>Experience: </strong>3rd Year</p>
+    		  	<p class="descrip-text"><strong>Strength: </strong>Joey will occasionally move in unorthodox ways, which often keeps his opponents off balance.  In no small part to his martial arts background, his composure and discipline in the ring are undeniable assets.  A thoughtful boxer, Joey will often look to set up his punches more than most competitors.  When he throws multiple punch combinations, boxers have to be ready to defend every inch of the scoring area.</p>
+	    		<p class="descrip-text"><strong>Lookout for:</strong> Joey's ability to control distance will be crucial.  If the boxing match turns into a wrestling match, his odds of winning decrease.  On the other hand, if he's able to use his lateral movement and sharp combination punching to score in bunches, Joey's chances of advancing to the finals are high.</p>
+			 </div>
+			 <div class="col-md-2 center-text">
+			 	<h1> VS </h1>
+			 </div>
+			 <div class="col-md-5">
+			 	<h3 class="boxer-title center-text boxer-blue"> Greg Arts </h3>
+			 	<img class="boxer-photo" alt="blue-boxer" src="img/jquinonas.jpg	"> </img>
+			 	<p class="descrip-text"><strong>Dorm: </strong>Carroll</p>
+	    		 <p class="descrip-text"><strong>Experience:</strong> Novice</p>
+    		  	<p class="descrip-text"><strong>Strength: </strong>Greg is long and powerful.  Most boxers in the program are uncomfortable fighting southpaws, and Greg does a good job of capitalizing on their mistakes.  His straight left hand is his best punch.  If he's able to land that with regularity, his opponents are in for a long night</p>
+	    		<p class="descrip-text"><strong>Lookout for: </strong>Will Greg be able to catch Joey with the straight left hand?  The junior from Belgium might not be as polished as some boxers in the program, but he continues to give other boxers fits -- both because of his style and his explosive left hand.  </p>
+			 </div>
+			  
+	    </div>
+	    <div class="row match-notes-container"> 
+	    <h3 class='center-text match-notes-header'> Match Notes: </h3>
+	    <h5 class="center-text">This matchup has a lot of fun storylines.  Joey, a junior captain who visited Bangladesh this summer, is trying to extend his streak of advancing one round farther than the previous year.  He also is one of two fighters in this year's tournament who has a brother-sister duo working his corner during the bouts, which is likely a first in Bengal Bouts history.  Greg, who is studying at Notre Dame for a year as part of an exchange program, has been making the most of his one year to compete.  Both boxers feel a sense of urgency for this bout.  It should be an entertaining one!</h5>
+	</div>
+	  </div>
 	</div>
 
     <div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
@@ -327,66 +359,74 @@
           <div class="form-group pickem">
             <div class="form-group pickem">
     <label class="btn btn-primary center">
-	  <input type="radio" name="bout1" id="option2" autocomplete="off" value="Joaquin Camara"> Joaquin Camara
+	  <input type="radio" name="bout1.0" id="option2" autocomplete="off" value="Joaquin Camara"> Joaquin Camara
 	</label>
 	<label class="btn btn-primary gold center">
-	  <input type="radio" name="bout1" id="option3" autocomplete="off" value="Chris Dethlefs"> Chris Dethlefs
+	  <input type="radio" name="bout1.0" id="option3" autocomplete="off" value="Chris Dethlefs"> Chris Dethlefs
 	</label> 
 </div>
 <div class="form-group pickem">
     <label class="btn btn-primary center">
-	  <input type="radio" name="bout3" id="option2" autocomplete="off" value="Matt Yoder"> Matt Yoder
+	  <input type="radio" name="bout3.0" id="option2" autocomplete="off" value="Matt Yoder"> Matt Yoder
 	</label>
 	<label class="btn btn-primary gold center">
-	  <input type="radio" name="bout3" id="option3" autocomplete="off" value="Conor Ward"> Conor Ward
+	  <input type="radio" name="bout3.0" id="option3" autocomplete="off" value="Conor Ward"> Conor Ward
 	</label> 
 </div>
 <div class="form-group pickem">
     <label class="btn btn-primary center">
-	  <input type="radio" name="bout4" id="option2" autocomplete="off" value="Alex Alcantara"> Alex Alcantara
+	  <input type="radio" name="bout4.0" id="option2" autocomplete="off" value="Alex Alcantara"> Alex Alcantara
 	</label>
 	<label class="btn btn-primary gold center">
-	  <input type="radio" name="bout4" id="option3" autocomplete="off" value="Dominic Angelottie"> Dominic Angelottie
+	  <input type="radio" name="bout4.0" id="option3" autocomplete="off" value="Dominic Angelottie"> Dominic Angelottie
 	</label> 
 </div>
 <div class="form-group pickem">
     <label class="btn btn-primary center">
-	  <input type="radio" name="bout5" id="option2" autocomplete="off" value="Chip Blood"> Chip Blood
+	  <input type="radio" name="bout5.0" id="option2" autocomplete="off" value="Chip Blood"> Chip Blood
 	</label>
 	<label class="btn btn-primary gold center">
-	  <input type="radio" name="bout5" id="option3" autocomplete="off" value="Tim Mikulski"> Tim Mikulski
+	  <input type="radio" name="bout5.0" id="option3" autocomplete="off" value="Tim Mikulski"> Tim Mikulski
 	</label> 
 </div>
 <div class="form-group pickem">
     <label class="btn btn-primary center">
-	  <input type="radio" name="bout6" id="option2" autocomplete="off" value="Alex Roth"> Alex Roth
+	  <input type="radio" name="bout6.0" id="option2" autocomplete="off" value="Alex Roth"> Alex Roth
 	</label>
 	<label class="btn btn-primary gold center">
-	  <input type="radio" name="bout6" id="option3" autocomplete="off" value="Joe Guilfoile"> Joe Guilfoile
+	  <input type="radio" name="bout6.0" id="option3" autocomplete="off" value="Joe Guilfoile"> Joe Guilfoile
 	</label> 
 </div>
 <div class="form-group pickem">
     <label class="btn btn-primary center">
-	  <input type="radio" name="bout11" id="option2" autocomplete="off" value="Jack Corrigan"> Jack Corrigan
+	  <input type="radio" name="bout11.0" id="option2" autocomplete="off" value="Jack Corrigan"> Jack Corrigan
 	</label>
 	<label class="btn btn-primary gold center">
-	  <input type="radio" name="bout11" id="option3" autocomplete="off" value="Michael Krecek"> Michael Krecek
+	  <input type="radio" name="bout11.0" id="option3" autocomplete="off" value="Michael Krecek"> Michael Krecek
 	</label> 
 </div>
 <div class="form-group pickem">
     <label class="btn btn-primary center">
-	  <input type="radio" name="bout13" id="option2" autocomplete="off" value="Cameron Nolan"> Cameron Nolan
+	  <input type="radio" name="bout13.0" id="option2" autocomplete="off" value="Cameron Nolan"> Cameron Nolan
 	</label>
 	<label class="btn btn-primary gold center">
-	  <input type="radio" name="bout13" id="option3" autocomplete="off" value="Jack Ryan"> Jack Ryan
+	  <input type="radio" name="bout13.0" id="option3" autocomplete="off" value="Jack Ryan"> Jack Ryan
 	</label> 
 </div>
 <div class="form-group pickem">
     <label class="btn btn-primary center">
-	  <input type="radio" name="bout14" id="option2" autocomplete="off" value="Isaac Althoff"> Isaac Althoff
+	  <input type="radio" name="bout14.0" id="option2" autocomplete="off" value="Isaac Althoff"> Isaac Althoff
 	</label>
 	<label class="btn btn-primary gold center">
-	  <input type="radio" name="bout14" id="option3" autocomplete="off" value="Dan Andree"> Dan Andree
+	  <input type="radio" name="bout14.0" id="option3" autocomplete="off" value="Dan Andree"> Dan Andree
+	</label> 
+</div>
+<div class="form-group pickem">
+    <label class="btn btn-primary center">
+	  <input type="radio" name="boutnan" id="option2" autocomplete="off" value="Joey Quinones"> Joey Quinones
+	</label>
+	<label class="btn btn-primary gold center">
+	  <input type="radio" name="boutnan" id="option3" autocomplete="off" value="Greg Arts"> Greg Arts
 	</label> 
 </div>
 
@@ -396,7 +436,7 @@
             <br />
             <input type="text" name="email" id="emailInput"> </input> 
           </div>
-          <input type="hidden" value="8" name="numberBouts"> </input> 
+          <input type="hidden" value="9" name="numberBouts"> </input> 
         </form>
       </div>
       <div class="modal-footer">
