@@ -20,9 +20,9 @@ $('.submit-pickem').click(function () {
 
 		 $.ajax({
            type: "POST",
-           url: 'http://159.203.163.157/submissions',
+           url: 'next.php',
            contentType: "application/json",
-           data: json_string, // serializes the form's elements.
+           data: $("#pickemform").serialize(), // serializes the form's elements.
            success: function(data)
            {
                alert("Your response has been submitted. Check your email for verification " + data); // show response from the php script.

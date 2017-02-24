@@ -10,13 +10,12 @@ for ($x = 0; $x <= intval($_POST['numberBouts']) + 1; $x++) {
 }  
 
 $message = $message . "And your verification code is: \n" . generateRandomString(25);
-// $email = $_POST['email'];
-
-
-$json = json_decode(file_get_contents("php://input"));
-$myfile = fopen("submission.json", "w") or die("Unable to open file!");
-
-fwrite($myfile, $json);
+$email = $_POST['email'];
+exec("python sendemail.py $email '$message'");
+$myfile = fopen("sumissions.csv", "w")
+$txt = "Jane Doe\n";
+fwrite($myfile, $txt);
+fclose($myfile);
 
 
 function generateRandomString($length = 10) {
