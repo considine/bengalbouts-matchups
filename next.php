@@ -3,13 +3,13 @@
 
 
 #send email:
-
+#exec("python scripts/sendemail.py jconsidi@nd.edu");
 $message = "Here are your pix from the bb matchups\n";
 for ($x = 0; $x <= intval($_POST['numberBouts']); $x++) {
-    $message = $message .  $_POST['bout' . $x] . "\n";
+    echo $_POST['bout' . $x];
 }  
-#exec("python scripts/sendemail.py jconsidi@nd.edu" $message);
 
-echo $_POST['bout' . 0];
+
+echo "All Clear!"
 
 ?>
