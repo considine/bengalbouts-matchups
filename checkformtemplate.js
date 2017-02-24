@@ -16,7 +16,7 @@ $('.submit-pickem').click(function () {
 			console.log($("input[name=bout" + (i+1) + "]:checked").val());
 		}
 		json_string +="]";
-		alert(JSON.parse(json_string));
+		alert(JSON.parse(json_string)["bout1"]);
 
 		 // $.ajax({
    //         type: "POST",
