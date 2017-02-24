@@ -508,6 +508,38 @@
 	    <h5 class="center-text">This is a great matchup that you love to see in the semi finals - a four year veteran vs a three year veteran. Expect the experience to be on display, as neither of these fighters will be intimidated or back down from anything. If Considine gets rolling with his 1-2, he'll be on his way to the 87th Bengal Bouts finals. However, if Chris can make Considine miss and pay off of counter punch opportunities, it will plant some doubt in his mind, enough to throw him off his rhythm so that Chris can capitalize and throw his combinations. Vasquez will need to stay on the inside to negate the 1-2. If he accomplishes these things, Chris will be on his way to a finals appearance. </h5>
 	</div>
 	  </div>
+	</div><div class="panel panel-default custom-panel">
+	  <div class="panel-heading panel-heading-custom">
+	    <h3 class="panel-title">C_WEIGHT Weight Class</h3>
+	  </div>
+	  <div class="panel-body">
+	    <div class="row">
+	    	<div class="col-md-5 center-col">
+	    		<h3 class="boxer-title center-text boxer-gold"> Jackson Wrede </h3>
+	    		 <img class="boxer-photo" alt="blue-boxer" src="img/jwrede.jpg"> </img>
+	    		 <p class="descrip-text"><strong>Dorm: </strong>Knott</p>
+	    		 <p class="descrip-text"><strong>Experience: </strong>3rd Year</p>
+    		  	<p class="descrip-text"><strong>Strength: </strong>Wrede is a two time finalist - fighting the dynamic duo of the Plantz brothers in each of his finals bouts. This experience has made him into a salty veteran that hits like a mack truck. For his size, Jackson lives up to his nickname - "The Flash." His wrestling background shines in the ring as he moves well for a heavy weight. An inside fighter by trade, Wrede is used to being shorter than his opponents and looks to take the fight inside to the body. Jackson will do everything in his power to pin his opponent against the ropes, and with good reason. If Wrede gets his opponent against the ropes, it helps negate his reach disadvantage. </p>
+	    		<p class="descrip-text"><strong>Lookout for:</strong> During the season, Jackson looked like he hadn't quite hit his groove yet this year, but he has come to life in the tournament thus far. Jackson struggles against opponents that can handle his power and keep walking forward. He will certainly be pushed on Monday against a tough opponent in Richelson. If Jackson can string his punches together or land one big shot, he's going to have a good shot at getting back to the finals. </p>
+			 </div>
+			 <div class="col-md-2 center-text">
+			 	<h1> VS </h1>
+			 </div>
+			 <div class="col-md-5">
+			 	<h3 class="boxer-title center-text boxer-blue"> Ryan Richelsen </h3>
+			 	<img class="boxer-photo" alt="blue-boxer" src="img/rrichelson.jpg	"> </img>
+			 	<p class="descrip-text"><strong>Dorm: </strong>Morrissey</p>
+	    		 <p class="descrip-text"><strong>Experience:</strong> 2nd Year</p>
+    		  	<p class="descrip-text"><strong>Strength: </strong>Ryan is one tough customer - capable of taking big shots and walking right through them to deliver big shots to his opponent. One of the lighter heavyweights, he moves fairly well. His main strength is his ability to keep coming forward and disrupting his opponents rhythm and timing. Richelsen's reach on Wrede will be a huge advantage for him in this bout, and he will need to use his 1-2 effectively to disrupt Wrede's timing. After a tough draw in last year's tournament and a loss to an extremely talented fighter, Ryan is here this year to show why he's a talented young star of the program.</p>
+	    		<p class="descrip-text"><strong>Lookout for: </strong>This will be Ryan's first real test of the tournament this year, and it will show early if he is ready for it. If he is able to eat Jackson's punches without too much damage, Ryan will out-throw Jackson and be on his way to a trip to the finals. Ryan will have to do whatever he can to stay out of the corners and off the ropes where his reach advantage will be negated. </p>
+			 </div>
+			  
+	    </div>
+	    <div class="row match-notes-container"> 
+	    <h3 class='center-text match-notes-header'> Match Notes: </h3>
+	    <h5 class="center-text">This will be one of the best matchups of the night, and the first round will tell the story of how the fight will go. If Richelsen is capable of handling Jackson's power, he has the advantage in this bout with the reach and smoother punching, as well as higher quantity punching. However, if Jackson can assert pressure on Richelsen and attack smoothly with combinations against the ropes on the inside, Wrede has great odds of heading back to the finals. </h5>
+	</div>
+	  </div>
 	</div>
 
     <div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
@@ -632,6 +664,14 @@
 	  <input type="radio" name="bout15" id="option3" autocomplete="off" value="Chris Vasquez"> Chris Vasquez
 	</label> 
 </div>
+<div class="form-group pickem">
+    <label class="btn btn-primary center">
+	  <input type="radio" name="bout18" id="option2" autocomplete="off" value="Jackson Wrede"> Jackson Wrede
+	</label>
+	<label class="btn btn-primary gold center">
+	  <input type="radio" name="bout18" id="option3" autocomplete="off" value="Ryan Richelsen"> Ryan Richelsen
+	</label> 
+</div>
 
           </div>
           <div class="form-group pickem">
@@ -639,7 +679,7 @@
             <br />
             <input type="text" name="email" id="emailInput"> </input> 
           </div>
-          <input type="hidden" value="14" name="numberBouts"> </input> 
+          <input type="hidden" value="15" name="numberBouts"> </input> 
         </form>
       </div>
       <div class="modal-footer">
