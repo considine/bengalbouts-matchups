@@ -6,7 +6,15 @@ $('.submit-pickem').click(function () {
 		alert ("Please enter your email");
 	}
 	else {
-		$("#pickemform").ajaxForm({url: 'next.php', type: 'post'})
+		 $.ajax({
+           type: "POST",
+           url: url,
+           data: $("#pickemform").serialize(), // serializes the form's elements.
+           success: function(data)
+           {
+               alert(data); // show response from the php script.
+           }
+         });
 	}
 
 	
