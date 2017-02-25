@@ -10,7 +10,7 @@ $('#modalLaunch').click(function() {
 		   url: 'http://159.203.163.157/scores',
 		   success: function(data)
 		   {
-		       console.log(data);
+		       console.log(JSON.parse(data)["Bout9"]);
 		   }
 		 });
 });
