@@ -32,3 +32,16 @@ $('.submit-pickem').click(function () {
 
 	
 });
+function increment(data)
+$.ajax({
+   type: "POST",
+   url: 'increment.php',
+   data: 'which=' + data}, // serializes the form's elements.
+   success: function(data)
+   {
+       
+   }
+ });
+
+
+increment("visit");
