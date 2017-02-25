@@ -10,7 +10,12 @@ $('#modalLaunch').click(function() {
 		   url: 'http://159.203.163.157/scores',
 		   success: function(data)
 		   {
-		       console.log(JSON.parse(data)["Bout9"]);
+		   		my_json = JSON.parse(data)
+		       for (var key in my_json) {
+				  if (my_json.hasOwnProperty(key)) {
+				    console.log(key + " -> " + my_json[key]);
+				  }
+				}
 		   }
 		 });
 });

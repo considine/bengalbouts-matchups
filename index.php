@@ -67,6 +67,7 @@
 	    <h3 class="panel-title">142 lb Division</h3>
 	  </div>
 	  <div class="panel-body">
+	  	<div id="Bout1"> </div>
 	    <div class="row">
 	    	<div class="col-md-5 center-col">
 	    		<h3 class="boxer-title center-text boxer-gold"> Joaquin Camara (2) </h3>
@@ -102,6 +103,7 @@
 	    <h3 class="panel-title">142 lb Division</h3>
 	  </div>
 	  <div class="panel-body">
+	  	<div id="Bout2"> </div>
 	    <div class="row">
 	    	<div class="col-md-5 center-col">
 	    		<h3 class="boxer-title center-text boxer-gold"> Mike Kappaz (1) </h3>
@@ -137,6 +139,7 @@
 	    <h3 class="panel-title">146 lb Division</h3>
 	  </div>
 	  <div class="panel-body">
+	  	<div id="Bout3"> </div>
 	    <div class="row">
 	    	<div class="col-md-5 center-col">
 	    		<h3 class="boxer-title center-text boxer-gold"> Matt Yoder (2) </h3>
@@ -172,6 +175,7 @@
 	    <h3 class="panel-title">146 lb Division</h3>
 	  </div>
 	  <div class="panel-body">
+	  	<div id="Bout4"> </div>
 	    <div class="row">
 	    	<div class="col-md-5 center-col">
 	    		<h3 class="boxer-title center-text boxer-gold"> Alex Alcantara (1) </h3>
@@ -207,6 +211,7 @@
 	    <h3 class="panel-title">154 lb Division</h3>
 	  </div>
 	  <div class="panel-body">
+	  	<div id="Bout5"> </div>
 	    <div class="row">
 	    	<div class="col-md-5 center-col">
 	    		<h3 class="boxer-title center-text boxer-gold"> Chip Blood (1) </h3>
@@ -242,6 +247,7 @@
 	    <h3 class="panel-title">154 lb Division</h3>
 	  </div>
 	  <div class="panel-body">
+	  	<div id="Bout6"> </div>
 	    <div class="row">
 	    	<div class="col-md-5 center-col">
 	    		<h3 class="boxer-title center-text boxer-gold"> Alex Roth (5) </h3>
@@ -277,6 +283,7 @@
 	    <h3 class="panel-title">159 lb Division</h3>
 	  </div>
 	  <div class="panel-body">
+	  	<div id="Bout7"> </div>
 	    <div class="row">
 	    	<div class="col-md-5 center-col">
 	    		<h3 class="boxer-title center-text boxer-gold"> Joey Quinones (2) </h3>
@@ -312,6 +319,7 @@
 	    <h3 class="panel-title">159 lb Division</h3>
 	  </div>
 	  <div class="panel-body">
+	  	<div id="Bout8"> </div>
 	    <div class="row">
 	    	<div class="col-md-5 center-col">
 	    		<h3 class="boxer-title center-text boxer-gold"> Garrett Schmelling (1) </h3>
@@ -347,6 +355,7 @@
 	    <h3 class="panel-title">166 lb Division</h3>
 	  </div>
 	  <div class="panel-body">
+	  	<div id="Bout9"> </div>
 	    <div class="row">
 	    	<div class="col-md-5 center-col">
 	    		<h3 class="boxer-title center-text boxer-gold"> Paddy Lawler (1) </h3>
@@ -382,6 +391,7 @@
 	    <h3 class="panel-title">166 lb Division</h3>
 	  </div>
 	  <div class="panel-body">
+	  	<div id="Bout10"> </div>
 	    <div class="row">
 	    	<div class="col-md-5 center-col">
 	    		<h3 class="boxer-title center-text boxer-gold"> Danny Childers (6) </h3>
@@ -417,6 +427,7 @@
 	    <h3 class="panel-title">174 lb Division</h3>
 	  </div>
 	  <div class="panel-body">
+	  	<div id="Bout11"> </div>
 	    <div class="row">
 	    	<div class="col-md-5 center-col">
 	    		<h3 class="boxer-title center-text boxer-gold"> Jack Corrigan (1) </h3>
@@ -452,6 +463,7 @@
 	    <h3 class="panel-title">174 lb Division</h3>
 	  </div>
 	  <div class="panel-body">
+	  	<div id="Bout12"> </div>
 	    <div class="row">
 	    	<div class="col-md-5 center-col">
 	    		<h3 class="boxer-title center-text boxer-gold"> Chris Harrington (2) </h3>
@@ -487,6 +499,7 @@
 	    <h3 class="panel-title">185 lb Division</h3>
 	  </div>
 	  <div class="panel-body">
+	  	<div id="Bout13"> </div>
 	    <div class="row">
 	    	<div class="col-md-5 center-col">
 	    		<h3 class="boxer-title center-text boxer-gold"> Cameron Nolan (2) </h3>
@@ -522,6 +535,7 @@
 	    <h3 class="panel-title">185 lb Division</h3>
 	  </div>
 	  <div class="panel-body">
+	  	<div id="Bout14"> </div>
 	    <div class="row">
 	    	<div class="col-md-5 center-col">
 	    		<h3 class="boxer-title center-text boxer-gold"> Isaac Althoff (5) </h3>
@@ -557,6 +571,7 @@
 	    <h3 class="panel-title">199 lb Division</h3>
 	  </div>
 	  <div class="panel-body">
+	  	<div id="Bout15"> </div>
 	    <div class="row">
 	    	<div class="col-md-5 center-col">
 	    		<h3 class="boxer-title center-text boxer-gold"> Jack Considine (1) </h3>
@@ -592,6 +607,7 @@
 	    <h3 class="panel-title">199 lb Division</h3>
 	  </div>
 	  <div class="panel-body">
+	  	<div id="Bout16"> </div>
 	    <div class="row">
 	    	<div class="col-md-5 center-col">
 	    		<h3 class="boxer-title center-text boxer-gold"> Aaron Bode (3) </h3>
@@ -627,6 +643,7 @@
 	    <h3 class="panel-title">Heavyweight Division</h3>
 	  </div>
 	  <div class="panel-body">
+	  	<div id="Bout17"> </div>
 	    <div class="row">
 	    	<div class="col-md-5 center-col">
 	    		<h3 class="boxer-title center-text boxer-gold"> Pat Gordon (1) </h3>
@@ -664,6 +681,7 @@ Also worthwhile to note: No boxer-corner duo have logged as much time throwing m
 	    <h3 class="panel-title">Heavyweight Division</h3>
 	  </div>
 	  <div class="panel-body">
+	  	<div id="Bout18"> </div>
 	    <div class="row">
 	    	<div class="col-md-5 center-col">
 	    		<h3 class="boxer-title center-text boxer-gold"> Jackson Wrede (2) </h3>
