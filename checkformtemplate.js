@@ -1,4 +1,3 @@
-#BUTTON CLICKS
 
 $('.donate-button').click(function() {
 	increment($(this).attr('id'));
