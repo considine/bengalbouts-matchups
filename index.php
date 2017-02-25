@@ -187,7 +187,7 @@
 			 	<a target="_blank" href=" http://ev12.evenue.net/cgi-bin/ncommerce3/SEGetEventList?groupCode=BB&linkID=notre-dame&shopperContext=&caller=&appCode=&_template=chocolate" type="button" class="btn btn-primary btn-lg donate-button">Tickets</a>
 			 </div>
 			 <div class="col-md-5">
-			 	<h3 class="boxer-title center-text boxer-blue"> Dominic Angelottie (4) </h3>
+			 	<h3 class="boxer-title center-text boxer-blue"> Dominic Angelotti (4) </h3>
 			 	<img class="boxer-photo" alt="blue-boxer" src="img/dangel.jpg	"> </img>
 			 	<p class="descrip-text"><strong>Dorm: </strong>Carroll</p>
 	    		 <p class="descrip-text"><strong>Experience:</strong> 2nd Year</p>
@@ -734,7 +734,7 @@ Also worthwhile to note: No boxer-corner duo have logged as much time throwing m
 	  <input type="radio" name="bout4" id="option2" autocomplete="off" value="Alex Alcantara"> Alex Alcantara
 	</label>
 	<label class="btn btn-primary gold center">
-	  <input type="radio" name="bout4" id="option3" autocomplete="off" value="Dominic Angelottie"> Dominic Angelottie
+	  <input type="radio" name="bout4" id="option3" autocomplete="off" value="Dominic Angelotti"> Dominic Angelotti
 	</label> 
 </div>
 <div class="form-group pickem">
