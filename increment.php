@@ -1,5 +1,5 @@
 <?php
-$url = 'http://159.203.163.157/submissions/increment.php';
+$url = 'http://159.203.163.157/increment';
 $data = array(
 	'submission' => $_POST['which'],
 	'ip' => get_client_ip()
