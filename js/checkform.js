@@ -5,19 +5,7 @@ $('.donate-button').click(function() {
 
 $('#modalLaunch').click(function() {
 	increment("openGame");
-	$.ajax({
-		   type: "GET",
-		   url: 'http://159.203.163.157/scores',
-		   success: function(data)
-		   {
-		   		my_json = JSON.parse(data)
-		       for (var key in my_json) {
-				  if (my_json.hasOwnProperty(key)) {
-				    $('#' + key).replaceWith(my_json[key]);
-				  }
-				}
-		   }
-		 });
+	
 });
 
 
@@ -55,6 +43,19 @@ $('.submit-pickem').click(function () {
                // })
            }
          });
+         $.ajax({
+		   type: "GET",
+		   url: 'http://159.203.163.157/scores',
+		   success: function(data)
+		   {
+		   		my_json = JSON.parse(data)
+		       for (var key in my_json) {
+				  if (my_json.hasOwnProperty(key)) {
+				    $('#' + key).replaceWith(my_json[key]);
+				  }
+				}
+		   }
+		 });
 	}
 
 	
