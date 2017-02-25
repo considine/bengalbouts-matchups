@@ -13,7 +13,7 @@ $('#modalLaunch').click(function() {
 		       console.log(data);
 		   }
 		 });
-}
+});
 
 
 
