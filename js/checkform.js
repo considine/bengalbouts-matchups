@@ -2,6 +2,11 @@ $('.donate-button').click(function() {
 	increment($(this).attr('id'));
 });
 
+$('#modalLaunch').click(function() {
+	increment("openGame");
+});
+
+
 $('.submit-pickem').click(function () {
 	if ($('input[type=radio]:checked').size() !== 18) {
 		alert ("Please select all bouts");

@@ -15,6 +15,7 @@ for ($x = 1; $x <= intval($_POST['numberBouts']) + 1; $x++) {
 }  
 
 $content = $content . $rand;
+$content = $content . "," . time();
 $message = $message . " And your verification code is: \n" . $rand;
 $message = $message . "\n PLEASE SAVE THIS EMAIL TO BE ELIGIBLE TO WIN GLOVES!";
 $email = $_POST['email'];
