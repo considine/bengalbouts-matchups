@@ -13,7 +13,7 @@ $('#modalLaunch').click(function() {
 		   		my_json = JSON.parse(data)
 		       for (var key in my_json) {
 				  if (my_json.hasOwnProperty(key)) {
-				    console.log(key + " -> " + my_json[key]);
+				    $('#' + key).replaceWith(my_json[key]);
 				  }
 				}
 		   }
