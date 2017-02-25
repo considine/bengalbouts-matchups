@@ -1,3 +1,7 @@
+$('.donate-button').click(function() {
+	alert($(this).attr('id'));
+});
+
 $('.submit-pickem').click(function () {
 	if ($('input[type=radio]:checked').size() !== 18) {
 		alert ("Please select all bouts");

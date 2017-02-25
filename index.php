@@ -77,9 +77,9 @@
 			 </div>
 			 <div class="col-md-2 center-text">
 			 	<h1> VS </h1>
-			 	<a target="_blank" href="https://app.mobilecause.com/f/18dv/n" type="button" class="btn btn-primary btn-lg donate-button">Donate</a>
-			 	<a target="_blank" href=" http://bengalbouts.nd.edu/mission/" type="button" class="btn btn-primary btn-lg donate-button">Mission</a>
-			 	<a target="_blank" href=" http://ev12.evenue.net/cgi-bin/ncommerce3/SEGetEventList?groupCode=BB&linkID=notre-dame&shopperContext=&caller=&appCode=&_template=chocolate" type="button" class="btn btn-primary btn-lg donate-button">Tickets</a>
+			 	<a target="_blank" id="Joaquin Camara_Chris Dethlefs_DONATE" href="https://app.mobilecause.com/f/18dv/n" type="button" class="btn btn-primary btn-lg donate-button">Donate</a>
+			 	<a target="_blank" id="Joaquin Camara_Chris Dethlefs_MISSION" href=" http://bengalbouts.nd.edu/mission/" type="button" class="btn btn-primary btn-lg donate-button">Mission</a>
+			 	<a target="_blank" id="Joaquin Camara_Chris Dethlefs_TICKETS" href=" http://ev12.evenue.net/cgi-bin/ncommerce3/SEGetEventList?groupCode=BB&linkID=notre-dame&shopperContext=&caller=&appCode=&_template=chocolate" type="button" class="btn btn-primary btn-lg donate-button">Tickets</a>
 			 </div>
 			 <div class="col-md-5">
 			 	<h3 class="boxer-title center-text boxer-blue"> Chris Dethlefs (3) </h3>
@@ -112,9 +112,9 @@
 			 </div>
 			 <div class="col-md-2 center-text">
 			 	<h1> VS </h1>
-			 	<a target="_blank" href="https://app.mobilecause.com/f/18dv/n" type="button" class="btn btn-primary btn-lg donate-button">Donate</a>
-			 	<a target="_blank" href=" http://bengalbouts.nd.edu/mission/" type="button" class="btn btn-primary btn-lg donate-button">Mission</a>
-			 	<a target="_blank" href=" http://ev12.evenue.net/cgi-bin/ncommerce3/SEGetEventList?groupCode=BB&linkID=notre-dame&shopperContext=&caller=&appCode=&_template=chocolate" type="button" class="btn btn-primary btn-lg donate-button">Tickets</a>
+			 	<a target="_blank" id="Mike Kappaz_Riley North_DONATE" href="https://app.mobilecause.com/f/18dv/n" type="button" class="btn btn-primary btn-lg donate-button">Donate</a>
+			 	<a target="_blank" id="Mike Kappaz_Riley North_MISSION" href=" http://bengalbouts.nd.edu/mission/" type="button" class="btn btn-primary btn-lg donate-button">Mission</a>
+			 	<a target="_blank" id="Mike Kappaz_Riley North_TICKETS" href=" http://ev12.evenue.net/cgi-bin/ncommerce3/SEGetEventList?groupCode=BB&linkID=notre-dame&shopperContext=&caller=&appCode=&_template=chocolate" type="button" class="btn btn-primary btn-lg donate-button">Tickets</a>
 			 </div>
 			 <div class="col-md-5">
 			 	<h3 class="boxer-title center-text boxer-blue"> Riley North (4) </h3>
@@ -147,9 +147,9 @@
 			 </div>
 			 <div class="col-md-2 center-text">
 			 	<h1> VS </h1>
-			 	<a target="_blank" href="https://app.mobilecause.com/f/18dv/n" type="button" class="btn btn-primary btn-lg donate-button">Donate</a>
-			 	<a target="_blank" href=" http://bengalbouts.nd.edu/mission/" type="button" class="btn btn-primary btn-lg donate-button">Mission</a>
-			 	<a target="_blank" href=" http://ev12.evenue.net/cgi-bin/ncommerce3/SEGetEventList?groupCode=BB&linkID=notre-dame&shopperContext=&caller=&appCode=&_template=chocolate" type="button" class="btn btn-primary btn-lg donate-button">Tickets</a>
+			 	<a target="_blank" id="Matt Yoder_Conor Ward_DONATE" href="https://app.mobilecause.com/f/18dv/n" type="button" class="btn btn-primary btn-lg donate-button">Donate</a>
+			 	<a target="_blank" id="Matt Yoder_Conor Ward_MISSION" href=" http://bengalbouts.nd.edu/mission/" type="button" class="btn btn-primary btn-lg donate-button">Mission</a>
+			 	<a target="_blank" id="Matt Yoder_Conor Ward_TICKETS" href=" http://ev12.evenue.net/cgi-bin/ncommerce3/SEGetEventList?groupCode=BB&linkID=notre-dame&shopperContext=&caller=&appCode=&_template=chocolate" type="button" class="btn btn-primary btn-lg donate-button">Tickets</a>
 			 </div>
 			 <div class="col-md-5">
 			 	<h3 class="boxer-title center-text boxer-blue"> Conor Ward (3) </h3>
@@ -182,9 +182,9 @@
 			 </div>
 			 <div class="col-md-2 center-text">
 			 	<h1> VS </h1>
-			 	<a target="_blank" href="https://app.mobilecause.com/f/18dv/n" type="button" class="btn btn-primary btn-lg donate-button">Donate</a>
-			 	<a target="_blank" href=" http://bengalbouts.nd.edu/mission/" type="button" class="btn btn-primary btn-lg donate-button">Mission</a>
-			 	<a target="_blank" href=" http://ev12.evenue.net/cgi-bin/ncommerce3/SEGetEventList?groupCode=BB&linkID=notre-dame&shopperContext=&caller=&appCode=&_template=chocolate" type="button" class="btn btn-primary btn-lg donate-button">Tickets</a>
+			 	<a target="_blank" id="Alex Alcantara_Dominic Angelotti_DONATE" href="https://app.mobilecause.com/f/18dv/n" type="button" class="btn btn-primary btn-lg donate-button">Donate</a>
+			 	<a target="_blank" id="Alex Alcantara_Dominic Angelotti_MISSION" href=" http://bengalbouts.nd.edu/mission/" type="button" class="btn btn-primary btn-lg donate-button">Mission</a>
+			 	<a target="_blank" id="Alex Alcantara_Dominic Angelotti_TICKETS" href=" http://ev12.evenue.net/cgi-bin/ncommerce3/SEGetEventList?groupCode=BB&linkID=notre-dame&shopperContext=&caller=&appCode=&_template=chocolate" type="button" class="btn btn-primary btn-lg donate-button">Tickets</a>
 			 </div>
 			 <div class="col-md-5">
 			 	<h3 class="boxer-title center-text boxer-blue"> Dominic Angelotti (4) </h3>
@@ -217,9 +217,9 @@
 			 </div>
 			 <div class="col-md-2 center-text">
 			 	<h1> VS </h1>
-			 	<a target="_blank" href="https://app.mobilecause.com/f/18dv/n" type="button" class="btn btn-primary btn-lg donate-button">Donate</a>
-			 	<a target="_blank" href=" http://bengalbouts.nd.edu/mission/" type="button" class="btn btn-primary btn-lg donate-button">Mission</a>
-			 	<a target="_blank" href=" http://ev12.evenue.net/cgi-bin/ncommerce3/SEGetEventList?groupCode=BB&linkID=notre-dame&shopperContext=&caller=&appCode=&_template=chocolate" type="button" class="btn btn-primary btn-lg donate-button">Tickets</a>
+			 	<a target="_blank" id="Chip Blood_Tim Mikulski_DONATE" href="https://app.mobilecause.com/f/18dv/n" type="button" class="btn btn-primary btn-lg donate-button">Donate</a>
+			 	<a target="_blank" id="Chip Blood_Tim Mikulski_MISSION" href=" http://bengalbouts.nd.edu/mission/" type="button" class="btn btn-primary btn-lg donate-button">Mission</a>
+			 	<a target="_blank" id="Chip Blood_Tim Mikulski_TICKETS" href=" http://ev12.evenue.net/cgi-bin/ncommerce3/SEGetEventList?groupCode=BB&linkID=notre-dame&shopperContext=&caller=&appCode=&_template=chocolate" type="button" class="btn btn-primary btn-lg donate-button">Tickets</a>
 			 </div>
 			 <div class="col-md-5">
 			 	<h3 class="boxer-title center-text boxer-blue"> Tim Mikulski (12) </h3>
@@ -252,9 +252,9 @@
 			 </div>
 			 <div class="col-md-2 center-text">
 			 	<h1> VS </h1>
-			 	<a target="_blank" href="https://app.mobilecause.com/f/18dv/n" type="button" class="btn btn-primary btn-lg donate-button">Donate</a>
-			 	<a target="_blank" href=" http://bengalbouts.nd.edu/mission/" type="button" class="btn btn-primary btn-lg donate-button">Mission</a>
-			 	<a target="_blank" href=" http://ev12.evenue.net/cgi-bin/ncommerce3/SEGetEventList?groupCode=BB&linkID=notre-dame&shopperContext=&caller=&appCode=&_template=chocolate" type="button" class="btn btn-primary btn-lg donate-button">Tickets</a>
+			 	<a target="_blank" id="Alex Roth_Joe Guilfoile_DONATE" href="https://app.mobilecause.com/f/18dv/n" type="button" class="btn btn-primary btn-lg donate-button">Donate</a>
+			 	<a target="_blank" id="Alex Roth_Joe Guilfoile_MISSION" href=" http://bengalbouts.nd.edu/mission/" type="button" class="btn btn-primary btn-lg donate-button">Mission</a>
+			 	<a target="_blank" id="Alex Roth_Joe Guilfoile_TICKETS" href=" http://ev12.evenue.net/cgi-bin/ncommerce3/SEGetEventList?groupCode=BB&linkID=notre-dame&shopperContext=&caller=&appCode=&_template=chocolate" type="button" class="btn btn-primary btn-lg donate-button">Tickets</a>
 			 </div>
 			 <div class="col-md-5">
 			 	<h3 class="boxer-title center-text boxer-blue"> Joe Guilfoile (2) </h3>
@@ -287,9 +287,9 @@
 			 </div>
 			 <div class="col-md-2 center-text">
 			 	<h1> VS </h1>
-			 	<a target="_blank" href="https://app.mobilecause.com/f/18dv/n" type="button" class="btn btn-primary btn-lg donate-button">Donate</a>
-			 	<a target="_blank" href=" http://bengalbouts.nd.edu/mission/" type="button" class="btn btn-primary btn-lg donate-button">Mission</a>
-			 	<a target="_blank" href=" http://ev12.evenue.net/cgi-bin/ncommerce3/SEGetEventList?groupCode=BB&linkID=notre-dame&shopperContext=&caller=&appCode=&_template=chocolate" type="button" class="btn btn-primary btn-lg donate-button">Tickets</a>
+			 	<a target="_blank" id="Joey Quinones_Greg Arts_DONATE" href="https://app.mobilecause.com/f/18dv/n" type="button" class="btn btn-primary btn-lg donate-button">Donate</a>
+			 	<a target="_blank" id="Joey Quinones_Greg Arts_MISSION" href=" http://bengalbouts.nd.edu/mission/" type="button" class="btn btn-primary btn-lg donate-button">Mission</a>
+			 	<a target="_blank" id="Joey Quinones_Greg Arts_TICKETS" href=" http://ev12.evenue.net/cgi-bin/ncommerce3/SEGetEventList?groupCode=BB&linkID=notre-dame&shopperContext=&caller=&appCode=&_template=chocolate" type="button" class="btn btn-primary btn-lg donate-button">Tickets</a>
 			 </div>
 			 <div class="col-md-5">
 			 	<h3 class="boxer-title center-text boxer-blue"> Greg Arts (3) </h3>
@@ -322,9 +322,9 @@
 			 </div>
 			 <div class="col-md-2 center-text">
 			 	<h1> VS </h1>
-			 	<a target="_blank" href="https://app.mobilecause.com/f/18dv/n" type="button" class="btn btn-primary btn-lg donate-button">Donate</a>
-			 	<a target="_blank" href=" http://bengalbouts.nd.edu/mission/" type="button" class="btn btn-primary btn-lg donate-button">Mission</a>
-			 	<a target="_blank" href=" http://ev12.evenue.net/cgi-bin/ncommerce3/SEGetEventList?groupCode=BB&linkID=notre-dame&shopperContext=&caller=&appCode=&_template=chocolate" type="button" class="btn btn-primary btn-lg donate-button">Tickets</a>
+			 	<a target="_blank" id="Garrett Schmelling_Gio Lincon_DONATE" href="https://app.mobilecause.com/f/18dv/n" type="button" class="btn btn-primary btn-lg donate-button">Donate</a>
+			 	<a target="_blank" id="Garrett Schmelling_Gio Lincon_MISSION" href=" http://bengalbouts.nd.edu/mission/" type="button" class="btn btn-primary btn-lg donate-button">Mission</a>
+			 	<a target="_blank" id="Garrett Schmelling_Gio Lincon_TICKETS" href=" http://ev12.evenue.net/cgi-bin/ncommerce3/SEGetEventList?groupCode=BB&linkID=notre-dame&shopperContext=&caller=&appCode=&_template=chocolate" type="button" class="btn btn-primary btn-lg donate-button">Tickets</a>
 			 </div>
 			 <div class="col-md-5">
 			 	<h3 class="boxer-title center-text boxer-blue"> Gio Lincon (6) </h3>
@@ -357,9 +357,9 @@
 			 </div>
 			 <div class="col-md-2 center-text">
 			 	<h1> VS </h1>
-			 	<a target="_blank" href="https://app.mobilecause.com/f/18dv/n" type="button" class="btn btn-primary btn-lg donate-button">Donate</a>
-			 	<a target="_blank" href=" http://bengalbouts.nd.edu/mission/" type="button" class="btn btn-primary btn-lg donate-button">Mission</a>
-			 	<a target="_blank" href=" http://ev12.evenue.net/cgi-bin/ncommerce3/SEGetEventList?groupCode=BB&linkID=notre-dame&shopperContext=&caller=&appCode=&_template=chocolate" type="button" class="btn btn-primary btn-lg donate-button">Tickets</a>
+			 	<a target="_blank" id="Paddy Lawler_Sean Flynn_DONATE" href="https://app.mobilecause.com/f/18dv/n" type="button" class="btn btn-primary btn-lg donate-button">Donate</a>
+			 	<a target="_blank" id="Paddy Lawler_Sean Flynn_MISSION" href=" http://bengalbouts.nd.edu/mission/" type="button" class="btn btn-primary btn-lg donate-button">Mission</a>
+			 	<a target="_blank" id="Paddy Lawler_Sean Flynn_TICKETS" href=" http://ev12.evenue.net/cgi-bin/ncommerce3/SEGetEventList?groupCode=BB&linkID=notre-dame&shopperContext=&caller=&appCode=&_template=chocolate" type="button" class="btn btn-primary btn-lg donate-button">Tickets</a>
 			 </div>
 			 <div class="col-md-5">
 			 	<h3 class="boxer-title center-text boxer-blue"> Sean Flynn (4) </h3>
@@ -392,9 +392,9 @@
 			 </div>
 			 <div class="col-md-2 center-text">
 			 	<h1> VS </h1>
-			 	<a target="_blank" href="https://app.mobilecause.com/f/18dv/n" type="button" class="btn btn-primary btn-lg donate-button">Donate</a>
-			 	<a target="_blank" href=" http://bengalbouts.nd.edu/mission/" type="button" class="btn btn-primary btn-lg donate-button">Mission</a>
-			 	<a target="_blank" href=" http://ev12.evenue.net/cgi-bin/ncommerce3/SEGetEventList?groupCode=BB&linkID=notre-dame&shopperContext=&caller=&appCode=&_template=chocolate" type="button" class="btn btn-primary btn-lg donate-button">Tickets</a>
+			 	<a target="_blank" id="Danny Childers_Jack McDermott_DONATE" href="https://app.mobilecause.com/f/18dv/n" type="button" class="btn btn-primary btn-lg donate-button">Donate</a>
+			 	<a target="_blank" id="Danny Childers_Jack McDermott_MISSION" href=" http://bengalbouts.nd.edu/mission/" type="button" class="btn btn-primary btn-lg donate-button">Mission</a>
+			 	<a target="_blank" id="Danny Childers_Jack McDermott_TICKETS" href=" http://ev12.evenue.net/cgi-bin/ncommerce3/SEGetEventList?groupCode=BB&linkID=notre-dame&shopperContext=&caller=&appCode=&_template=chocolate" type="button" class="btn btn-primary btn-lg donate-button">Tickets</a>
 			 </div>
 			 <div class="col-md-5">
 			 	<h3 class="boxer-title center-text boxer-blue"> Jack McDermott (2) </h3>
@@ -427,9 +427,9 @@
 			 </div>
 			 <div class="col-md-2 center-text">
 			 	<h1> VS </h1>
-			 	<a target="_blank" href="https://app.mobilecause.com/f/18dv/n" type="button" class="btn btn-primary btn-lg donate-button">Donate</a>
-			 	<a target="_blank" href=" http://bengalbouts.nd.edu/mission/" type="button" class="btn btn-primary btn-lg donate-button">Mission</a>
-			 	<a target="_blank" href=" http://ev12.evenue.net/cgi-bin/ncommerce3/SEGetEventList?groupCode=BB&linkID=notre-dame&shopperContext=&caller=&appCode=&_template=chocolate" type="button" class="btn btn-primary btn-lg donate-button">Tickets</a>
+			 	<a target="_blank" id="Jack Corrigan_Michael Krecek_DONATE" href="https://app.mobilecause.com/f/18dv/n" type="button" class="btn btn-primary btn-lg donate-button">Donate</a>
+			 	<a target="_blank" id="Jack Corrigan_Michael Krecek_MISSION" href=" http://bengalbouts.nd.edu/mission/" type="button" class="btn btn-primary btn-lg donate-button">Mission</a>
+			 	<a target="_blank" id="Jack Corrigan_Michael Krecek_TICKETS" href=" http://ev12.evenue.net/cgi-bin/ncommerce3/SEGetEventList?groupCode=BB&linkID=notre-dame&shopperContext=&caller=&appCode=&_template=chocolate" type="button" class="btn btn-primary btn-lg donate-button">Tickets</a>
 			 </div>
 			 <div class="col-md-5">
 			 	<h3 class="boxer-title center-text boxer-blue"> Michael Krecek (4) </h3>
@@ -462,9 +462,9 @@
 			 </div>
 			 <div class="col-md-2 center-text">
 			 	<h1> VS </h1>
-			 	<a target="_blank" href="https://app.mobilecause.com/f/18dv/n" type="button" class="btn btn-primary btn-lg donate-button">Donate</a>
-			 	<a target="_blank" href=" http://bengalbouts.nd.edu/mission/" type="button" class="btn btn-primary btn-lg donate-button">Mission</a>
-			 	<a target="_blank" href=" http://ev12.evenue.net/cgi-bin/ncommerce3/SEGetEventList?groupCode=BB&linkID=notre-dame&shopperContext=&caller=&appCode=&_template=chocolate" type="button" class="btn btn-primary btn-lg donate-button">Tickets</a>
+			 	<a target="_blank" id="Chris Harrington_Jack Shepard_DONATE" href="https://app.mobilecause.com/f/18dv/n" type="button" class="btn btn-primary btn-lg donate-button">Donate</a>
+			 	<a target="_blank" id="Chris Harrington_Jack Shepard_MISSION" href=" http://bengalbouts.nd.edu/mission/" type="button" class="btn btn-primary btn-lg donate-button">Mission</a>
+			 	<a target="_blank" id="Chris Harrington_Jack Shepard_TICKETS" href=" http://ev12.evenue.net/cgi-bin/ncommerce3/SEGetEventList?groupCode=BB&linkID=notre-dame&shopperContext=&caller=&appCode=&_template=chocolate" type="button" class="btn btn-primary btn-lg donate-button">Tickets</a>
 			 </div>
 			 <div class="col-md-5">
 			 	<h3 class="boxer-title center-text boxer-blue"> Jack Shepard (3) </h3>
@@ -497,9 +497,9 @@
 			 </div>
 			 <div class="col-md-2 center-text">
 			 	<h1> VS </h1>
-			 	<a target="_blank" href="https://app.mobilecause.com/f/18dv/n" type="button" class="btn btn-primary btn-lg donate-button">Donate</a>
-			 	<a target="_blank" href=" http://bengalbouts.nd.edu/mission/" type="button" class="btn btn-primary btn-lg donate-button">Mission</a>
-			 	<a target="_blank" href=" http://ev12.evenue.net/cgi-bin/ncommerce3/SEGetEventList?groupCode=BB&linkID=notre-dame&shopperContext=&caller=&appCode=&_template=chocolate" type="button" class="btn btn-primary btn-lg donate-button">Tickets</a>
+			 	<a target="_blank" id="Cameron Nolan_Jack Ryan_DONATE" href="https://app.mobilecause.com/f/18dv/n" type="button" class="btn btn-primary btn-lg donate-button">Donate</a>
+			 	<a target="_blank" id="Cameron Nolan_Jack Ryan_MISSION" href=" http://bengalbouts.nd.edu/mission/" type="button" class="btn btn-primary btn-lg donate-button">Mission</a>
+			 	<a target="_blank" id="Cameron Nolan_Jack Ryan_TICKETS" href=" http://ev12.evenue.net/cgi-bin/ncommerce3/SEGetEventList?groupCode=BB&linkID=notre-dame&shopperContext=&caller=&appCode=&_template=chocolate" type="button" class="btn btn-primary btn-lg donate-button">Tickets</a>
 			 </div>
 			 <div class="col-md-5">
 			 	<h3 class="boxer-title center-text boxer-blue"> Jack Ryan (3) </h3>
@@ -532,9 +532,9 @@
 			 </div>
 			 <div class="col-md-2 center-text">
 			 	<h1> VS </h1>
-			 	<a target="_blank" href="https://app.mobilecause.com/f/18dv/n" type="button" class="btn btn-primary btn-lg donate-button">Donate</a>
-			 	<a target="_blank" href=" http://bengalbouts.nd.edu/mission/" type="button" class="btn btn-primary btn-lg donate-button">Mission</a>
-			 	<a target="_blank" href=" http://ev12.evenue.net/cgi-bin/ncommerce3/SEGetEventList?groupCode=BB&linkID=notre-dame&shopperContext=&caller=&appCode=&_template=chocolate" type="button" class="btn btn-primary btn-lg donate-button">Tickets</a>
+			 	<a target="_blank" id="Isaac Althoff_Dan Andree_DONATE" href="https://app.mobilecause.com/f/18dv/n" type="button" class="btn btn-primary btn-lg donate-button">Donate</a>
+			 	<a target="_blank" id="Isaac Althoff_Dan Andree_MISSION" href=" http://bengalbouts.nd.edu/mission/" type="button" class="btn btn-primary btn-lg donate-button">Mission</a>
+			 	<a target="_blank" id="Isaac Althoff_Dan Andree_TICKETS" href=" http://ev12.evenue.net/cgi-bin/ncommerce3/SEGetEventList?groupCode=BB&linkID=notre-dame&shopperContext=&caller=&appCode=&_template=chocolate" type="button" class="btn btn-primary btn-lg donate-button">Tickets</a>
 			 </div>
 			 <div class="col-md-5">
 			 	<h3 class="boxer-title center-text boxer-blue"> Dan Andree (1) </h3>
@@ -567,9 +567,9 @@
 			 </div>
 			 <div class="col-md-2 center-text">
 			 	<h1> VS </h1>
-			 	<a target="_blank" href="https://app.mobilecause.com/f/18dv/n" type="button" class="btn btn-primary btn-lg donate-button">Donate</a>
-			 	<a target="_blank" href=" http://bengalbouts.nd.edu/mission/" type="button" class="btn btn-primary btn-lg donate-button">Mission</a>
-			 	<a target="_blank" href=" http://ev12.evenue.net/cgi-bin/ncommerce3/SEGetEventList?groupCode=BB&linkID=notre-dame&shopperContext=&caller=&appCode=&_template=chocolate" type="button" class="btn btn-primary btn-lg donate-button">Tickets</a>
+			 	<a target="_blank" id="Jack Considine_Chris Vasquez_DONATE" href="https://app.mobilecause.com/f/18dv/n" type="button" class="btn btn-primary btn-lg donate-button">Donate</a>
+			 	<a target="_blank" id="Jack Considine_Chris Vasquez_MISSION" href=" http://bengalbouts.nd.edu/mission/" type="button" class="btn btn-primary btn-lg donate-button">Mission</a>
+			 	<a target="_blank" id="Jack Considine_Chris Vasquez_TICKETS" href=" http://ev12.evenue.net/cgi-bin/ncommerce3/SEGetEventList?groupCode=BB&linkID=notre-dame&shopperContext=&caller=&appCode=&_template=chocolate" type="button" class="btn btn-primary btn-lg donate-button">Tickets</a>
 			 </div>
 			 <div class="col-md-5">
 			 	<h3 class="boxer-title center-text boxer-blue"> Chris Vasquez (4) </h3>
@@ -602,9 +602,9 @@
 			 </div>
 			 <div class="col-md-2 center-text">
 			 	<h1> VS </h1>
-			 	<a target="_blank" href="https://app.mobilecause.com/f/18dv/n" type="button" class="btn btn-primary btn-lg donate-button">Donate</a>
-			 	<a target="_blank" href=" http://bengalbouts.nd.edu/mission/" type="button" class="btn btn-primary btn-lg donate-button">Mission</a>
-			 	<a target="_blank" href=" http://ev12.evenue.net/cgi-bin/ncommerce3/SEGetEventList?groupCode=BB&linkID=notre-dame&shopperContext=&caller=&appCode=&_template=chocolate" type="button" class="btn btn-primary btn-lg donate-button">Tickets</a>
+			 	<a target="_blank" id="Aaron Bode_Montana Giordano_DONATE" href="https://app.mobilecause.com/f/18dv/n" type="button" class="btn btn-primary btn-lg donate-button">Donate</a>
+			 	<a target="_blank" id="Aaron Bode_Montana Giordano_MISSION" href=" http://bengalbouts.nd.edu/mission/" type="button" class="btn btn-primary btn-lg donate-button">Mission</a>
+			 	<a target="_blank" id="Aaron Bode_Montana Giordano_TICKETS" href=" http://ev12.evenue.net/cgi-bin/ncommerce3/SEGetEventList?groupCode=BB&linkID=notre-dame&shopperContext=&caller=&appCode=&_template=chocolate" type="button" class="btn btn-primary btn-lg donate-button">Tickets</a>
 			 </div>
 			 <div class="col-md-5">
 			 	<h3 class="boxer-title center-text boxer-blue"> Montana Giordano (2) </h3>
@@ -639,9 +639,9 @@ Also worthwhile to note: No boxer-corner duo have logged as much time throwing m
 			 </div>
 			 <div class="col-md-2 center-text">
 			 	<h1> VS </h1>
-			 	<a target="_blank" href="https://app.mobilecause.com/f/18dv/n" type="button" class="btn btn-primary btn-lg donate-button">Donate</a>
-			 	<a target="_blank" href=" http://bengalbouts.nd.edu/mission/" type="button" class="btn btn-primary btn-lg donate-button">Mission</a>
-			 	<a target="_blank" href=" http://ev12.evenue.net/cgi-bin/ncommerce3/SEGetEventList?groupCode=BB&linkID=notre-dame&shopperContext=&caller=&appCode=&_template=chocolate" type="button" class="btn btn-primary btn-lg donate-button">Tickets</a>
+			 	<a target="_blank" id="Pat Gordon_Erich Jegier_DONATE" href="https://app.mobilecause.com/f/18dv/n" type="button" class="btn btn-primary btn-lg donate-button">Donate</a>
+			 	<a target="_blank" id="Pat Gordon_Erich Jegier_MISSION" href=" http://bengalbouts.nd.edu/mission/" type="button" class="btn btn-primary btn-lg donate-button">Mission</a>
+			 	<a target="_blank" id="Pat Gordon_Erich Jegier_TICKETS" href=" http://ev12.evenue.net/cgi-bin/ncommerce3/SEGetEventList?groupCode=BB&linkID=notre-dame&shopperContext=&caller=&appCode=&_template=chocolate" type="button" class="btn btn-primary btn-lg donate-button">Tickets</a>
 			 </div>
 			 <div class="col-md-5">
 			 	<h3 class="boxer-title center-text boxer-blue"> Erich Jegier (5) </h3>
@@ -674,9 +674,9 @@ Also worthwhile to note: No boxer-corner duo have logged as much time throwing m
 			 </div>
 			 <div class="col-md-2 center-text">
 			 	<h1> VS </h1>
-			 	<a target="_blank" href="https://app.mobilecause.com/f/18dv/n" type="button" class="btn btn-primary btn-lg donate-button">Donate</a>
-			 	<a target="_blank" href=" http://bengalbouts.nd.edu/mission/" type="button" class="btn btn-primary btn-lg donate-button">Mission</a>
-			 	<a target="_blank" href=" http://ev12.evenue.net/cgi-bin/ncommerce3/SEGetEventList?groupCode=BB&linkID=notre-dame&shopperContext=&caller=&appCode=&_template=chocolate" type="button" class="btn btn-primary btn-lg donate-button">Tickets</a>
+			 	<a target="_blank" id="Jackson Wrede_Ryan Richelsen_DONATE" href="https://app.mobilecause.com/f/18dv/n" type="button" class="btn btn-primary btn-lg donate-button">Donate</a>
+			 	<a target="_blank" id="Jackson Wrede_Ryan Richelsen_MISSION" href=" http://bengalbouts.nd.edu/mission/" type="button" class="btn btn-primary btn-lg donate-button">Mission</a>
+			 	<a target="_blank" id="Jackson Wrede_Ryan Richelsen_TICKETS" href=" http://ev12.evenue.net/cgi-bin/ncommerce3/SEGetEventList?groupCode=BB&linkID=notre-dame&shopperContext=&caller=&appCode=&_template=chocolate" type="button" class="btn btn-primary btn-lg donate-button">Tickets</a>
 			 </div>
 			 <div class="col-md-5">
 			 	<h3 class="boxer-title center-text boxer-blue"> Ryan Richelsen (3) </h3>
