@@ -1,5 +1,5 @@
 $('.donate-button').click(function() {
-	alert($(this).attr('id'));
+	increment($(this).attr('id'));
 });
 
 $('.submit-pickem').click(function () {
@@ -36,11 +36,11 @@ $('.submit-pickem').click(function () {
 
 	
 });
-function increment(data) {
+function increment(my_dat) {
 $.ajax({
    type: "POST",
    url: 'increment.php',
-   data: 'which=' + data, // serializes the form's elements.
+   data: 'which=' + my_dat, // serializes the form's elements.
    success: function(data)
    {
        
