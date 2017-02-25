@@ -1,10 +1,21 @@
+#BUTTON CLICKS
+
 $('.donate-button').click(function() {
 	increment($(this).attr('id'));
 });
 
 $('#modalLaunch').click(function() {
 	increment("openGame");
-});
+	$.ajax({
+		   type: "GET",
+		   url: 'http://159.203.163.157/scores',
+		   success: function(data)
+		   {
+		       console.log(data);
+		   }
+		 });
+}
+
 
 
 $('.submit-pickem').click(function () {
@@ -35,6 +46,9 @@ $('.submit-pickem').click(function () {
            {
                alert("Your response has been submitted. Check your email for verification " + data); // show response from the php script.
                $('#modalLaunch').remove();
+               // $.ajax({
+
+               // })
            }
          });
 	}

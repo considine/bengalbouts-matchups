@@ -84,3 +84,18 @@ img.boxer-photo {
 .subtitle {
 	padding: 12px;
 }
+
+.meter {
+	height: 40px;
+}
+.gold-bar {
+	height: 100%;
+	background-color: gold;
+	/*background-size: cover;*/
+
+}
+.blue-bar {
+	height: 100%;
+	background-color: blue;
+	/*background-size: cover;*/
+}

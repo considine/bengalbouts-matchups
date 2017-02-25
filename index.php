@@ -60,6 +60,12 @@
         
       
     </div>
+    <div class="row meter">
+      <div class="col-md-5 gold-bar">
+      </div>
+      <div class="col-md-7 blue-bar">
+      </div>
+    </div>
 
     <div class="panel panel-default custom-panel">
 	  <div class="panel-heading panel-heading-custom">
