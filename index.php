@@ -38,7 +38,7 @@
       <div class="container">
         <div class="navbar-header">
          
-          <a class="navbar-brand" href="bengalbouts.nd.edu">Bengal Bouts</a>
+          <a class="navbar-brand" href="#">Bengal Bouts</a>
         </div>
         <div id="navbar" class="navbar-collapse collapse">
           
