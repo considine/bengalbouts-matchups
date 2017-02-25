@@ -3,7 +3,7 @@ $url = 'http://159.203.163.157/increment.php';
 $data = array('submission' => $_POST['which']);
 
 // use key 'http' even if you send the request to https://...
-echo "Thank you " . $data;
+echo "Thank you " . $_POST['which'];
 // $options = array(
 //     'http' => array(
 //         'header'  => "Content-type: application/x-www-form-urlencoded\r\n",
