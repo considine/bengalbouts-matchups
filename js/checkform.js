@@ -8,9 +8,7 @@ $('#modalLaunch').click(function() {
 	
 });
 
-$('.navbar-brand').click(function () {
-	bars();
-});
+bars();
 
 $('.submit-pickem').click(function () {
 	if ($('input[type=radio]:checked').size() !== 18) {
