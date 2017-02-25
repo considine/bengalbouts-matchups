@@ -8,7 +8,9 @@ $('#modalLaunch').click(function() {
 	
 });
 
-
+$('.navbar-brand').click(function () {
+	bars();
+});
 
 $('.submit-pickem').click(function () {
 	if ($('input[type=radio]:checked').size() !== NUMBOUTS) {
@@ -43,23 +45,28 @@ $('.submit-pickem').click(function () {
                // })
            }
          });
-         $.ajax({
-		   type: "GET",
-		   url: 'http://159.203.163.157/scores',
-		   success: function(data)
-		   {
-		   		my_json = JSON.parse(data)
-		       for (var key in my_json) {
-				  if (my_json.hasOwnProperty(key)) {
-				    $('#' + key).replaceWith(my_json[key]);
-				  }
-				}
-		   }
-		 });
+         bars();
+
 	}
 
 	
 });
+
+function bars () {
+	$.ajax({
+	   type: "GET",
+	   url: 'http://159.203.163.157/scores',
+	   success: function(data)
+	   {
+	   		my_json = JSON.parse(data)
+	       for (var key in my_json) {
+			  if (my_json.hasOwnProperty(key)) {
+			    $('#' + key).replaceWith(my_json[key]);
+			  }
+			}
+	   }
+	 });
+}
 function increment(my_dat) {
 $.ajax({
    type: "POST",
