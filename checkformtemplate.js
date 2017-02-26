@@ -11,6 +11,7 @@ $('#modalLaunch').click(function() {
 bars();
 
 $('.submit-pickem').click(function () {
+	increment('submit-pickem');
 	if ($('input[type=radio]:checked').size() !== NUMBOUTS) {
 		alert ("Please select all bouts");
 	}

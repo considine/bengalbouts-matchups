@@ -51,11 +51,13 @@
       <div class="container">
         <h2 class="center-text boxer-gold"> Notre Dame's 87th Bengal Bouts </h2>
         <h3 class="center-text subtitle">Semifinal Matchups</h3>
+
       </div>
       <!-- Button trigger modal -->
       <button type="button" id="modalLaunch" class="btn btn-primary btn-lg confidence-button" data-toggle="modal" data-target="#myModal">
         Pick your Winners
       </button>
+      <h4 class="subtitle center-text"> All proceeds benefit the Holy Cross Missions in Bangladesh</h4>
       
         
       
