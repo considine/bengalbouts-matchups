@@ -58,7 +58,9 @@
         Pick your Winners
       </button>
       <h4 class="subtitle center-text"> All proceeds benefit the Holy Cross Missions in Bangladesh</h4>
-      
+    <!--   <h4 class="subtitle center-text"> Semifinals: Feb 27, Joyce Center Fieldhouse</h4>
+      <h4 class="subtitle center-text"> Finals: March 3, Purcell Pavilion</h4>
+ -->      
         
       
     </div>
@@ -581,16 +583,16 @@
 	    		 <p class="descrip-text"><strong>Dorm: </strong>Off Campus</p>
 	    		 <p class="descrip-text"><strong>Experience: </strong>4th Year</p>
     		  	<p class="descrip-text"><strong>Strength: </strong>Jack - the two time defending champion and president of the club - is one of the most stalwart fighters in the club. A natural swimmer, his punches slightly resemble that of a freestyle motion, and the overhand motion provides an extra sting on his punches. His bread and butter are his 1-2, and he has mastered them over his four years in the bouts, although his recent development of other punches has paid huge dividends and added some more tools to his already potent arsenal. He has great reach on most of the opponents he will fight, which combines well with his dominating 1-2. Mostly a front footed fighter, Jack never stops coming forward. What he may lack in grace, he more than makes up for in toughness and conditioning. Anyone finding themselves in the same ring as Jack better be up for a dog fight. </p>
-	    		<p class="descrip-text"><strong>Lookout for:</strong> Look for Jack to set the tone early by establishing his powerful and quick 1-2. Jack gets in trouble against bullrush fighters that are able to force him off his front foot and get him against the ropes and use his lateral movement. If Jack can control the pace of the fight and not allow Vasquez to seize momentum at any point, Considine will assuredly have a great shot at advancing to his third finals appearance. </p>
+	    		<p class="descrip-text"><strong>Lookout for:</strong> Look for Jack to set the tone early by establishing his powerful and quick 1-2. Jack gets in trouble against bullrush fighters that are able to force him off his front foot and get him against the ropes and use his lateral movement. If Jack can control the pace of the fight and not allow Vazquez to seize momentum at any point, Considine will assuredly have a great shot at advancing to his third finals appearance. </p>
 			 </div>
 			 <div class="col-md-2 center-text">
 			 	<h1> VS </h1>
-			 	<a target="_blank" id="Jack Considine_Chris Vasquez_DONATE" href="https://app.mobilecause.com/f/18dv/n" type="button" class="btn btn-primary btn-lg donate-button">Donate</a>
-			 	<a target="_blank" id="Jack Considine_Chris Vasquez_MISSION" href=" http://bengalbouts.nd.edu/mission/" type="button" class="btn btn-primary btn-lg donate-button">Mission</a>
-			 	<a target="_blank" id="Jack Considine_Chris Vasquez_TICKETS" href=" http://ev12.evenue.net/cgi-bin/ncommerce3/SEGetEventList?groupCode=BB&linkID=notre-dame&shopperContext=&caller=&appCode=&_template=chocolate" type="button" class="btn btn-primary btn-lg donate-button">Tickets</a>
+			 	<a target="_blank" id="Jack Considine_Chris Vazquez_DONATE" href="https://app.mobilecause.com/f/18dv/n" type="button" class="btn btn-primary btn-lg donate-button">Donate</a>
+			 	<a target="_blank" id="Jack Considine_Chris Vazquez_MISSION" href=" http://bengalbouts.nd.edu/mission/" type="button" class="btn btn-primary btn-lg donate-button">Mission</a>
+			 	<a target="_blank" id="Jack Considine_Chris Vazquez_TICKETS" href=" http://ev12.evenue.net/cgi-bin/ncommerce3/SEGetEventList?groupCode=BB&linkID=notre-dame&shopperContext=&caller=&appCode=&_template=chocolate" type="button" class="btn btn-primary btn-lg donate-button">Tickets</a>
 			 </div>
 			 <div class="col-md-5">
-			 	<h3 class="boxer-title center-text boxer-blue"> Chris Vasquez (4) </h3>
+			 	<h3 class="boxer-title center-text boxer-blue"> Chris Vazquez (4) </h3>
 			 	<img class="boxer-photo" alt="blue-boxer" src="img/cvazquez.jpg	"> </img>
 			 	<p class="descrip-text"><strong>Dorm: </strong>Off Campus</p>
 	    		 <p class="descrip-text"><strong>Experience:</strong> 3rd Year</p>
@@ -627,7 +629,7 @@
 			 </div>
 			 <div class="col-md-5">
 			 	<h3 class="boxer-title center-text boxer-blue"> Montana Giordano (2) </h3>
-			 	<img class="boxer-photo" alt="blue-boxer" src="img/ejegier.jpg	"> </img>
+			 	<img class="boxer-photo" alt="blue-boxer" src="img/mgiordano.jpg	"> </img>
 			 	<p class="descrip-text"><strong>Dorm: </strong>Alumni</p>
 	    		 <p class="descrip-text"><strong>Experience:</strong> 2nd Year</p>
     		  	<p class="descrip-text"><strong>Strength: </strong>Montana, truly a tough fighter, comes into the tournament this year after shocking many by advancing to the finals in the 205 pound weight class last year, where he lost to a skilled opponent. Montana's greatest strength is his ability to simply find a way to win. A ROTC kid, his toughness and grit are characteristics that cannot be overlooked. After spending a good portion of time this season working on his footwork and variety of punches, Montana is a very solid fighter. Montana is at his best when he is applying pressure and stringing together combinations to the head and body. </p>
@@ -843,7 +845,7 @@ Also worthwhile to note: No boxer-corner duo have logged as much time throwing m
 	  <input type="radio" name="bout15" id="option2" autocomplete="off" value="Jack Considine"> Jack Considine
 	</label>
 	<label class="btn btn-primary gold center">
-	  <input type="radio" name="bout15" id="option3" autocomplete="off" value="Chris Vasquez"> Chris Vasquez
+	  <input type="radio" name="bout15" id="option3" autocomplete="off" value="Chris Vazquez"> Chris Vazquez
 	</label> 
 </div>
 <div class="form-group pickem">
