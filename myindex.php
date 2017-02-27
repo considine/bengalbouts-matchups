@@ -1,77 +1,99 @@
-
 <!DOCTYPE html>
 <html lang="en">
-  <head>
+
+<head>
+
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
     <meta name="description" content="">
     <meta name="author" content="">
-    <link rel="icon" href="../../favicon.ico">
 
-    <title>SEMIFINAL MATCHUPS</title>
+    <title>2017 Notre Dame Bengal Bouts</title>
 
-    <!-- Bootstrap core CSS -->
-    <link href="css/bootstrap.min.css" rel="stylesheet">
+    <!-- Bootstrap Core CSS -->
+    <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
 
-    <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
-    <!-- <link href="../../assets/css/ie10-viewport-bug-workaround.css" rel="stylesheet"> -->
+    <!-- Custom Fonts -->
+    <link href="vendor/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+    <link href='https://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800' rel='stylesheet' type='text/css'>
+    <link href='https://fonts.googleapis.com/css?family=Merriweather:400,300,300italic,400italic,700,700italic,900,900italic' rel='stylesheet' type='text/css'>
 
-    <!-- Custom styles for this template -->
+    <!-- Plugin CSS -->
+    <link href="vendor/magnific-popup/magnific-popup.css" rel="stylesheet">
+
+    <!-- Theme CSS -->
+    <link href="css/creative.min.css" rel="stylesheet">
     <link href="css/jumbotron.css" rel="stylesheet">
-
-    <!-- Just for debugging purposes. Don't actually copy these 2 lines! -->
-    <!--[if lt IE 9]><script src="../../assets/js/ie8-responsive-file-warning.js"></script><![endif]-->
-    <!-- <script src="../../assets/js/ie-emulation-modes-warning.js"></script> -->
-
-    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
     <!--[if lt IE 9]>
-      <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
-      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+        <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+        <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
     <![endif]-->
-  </head>
 
-  <body>
+</head>
 
-    <nav class="navbar navbar-inverse navbar-fixed-top">
-      <div class="container">
-        <div class="navbar-header">
-         
-          <a class="navbar-brand" href="#">Bengal Bouts</a>
+<body id="page-top">
+
+    <nav id="mainNav" class="navbar navbar-default navbar-fixed-top">
+        <div class="container-fluid">
+            <!-- Brand and toggle get grouped for better mobile display -->
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+                    <span class="sr-only">Toggle navigation</span> Menu <i class="fa fa-bars"></i>
+                </button>
+                <a class="navbar-brand page-scroll" href="#page-top">2017 Notre Dame Bengal Bouts</a>
+            </div>
+
+            <!-- Collect the nav links, forms, and other content for toggling -->
+            <!-- /.navbar-collapse -->
         </div>
-        <div id="navbar" class="navbar-collapse collapse">
-          
-        </div><!--/.navbar-collapse -->
-      </div>
+        <!-- /.container-fluid -->
     </nav>
 
-    <!-- Main jumbotron for a primary marketing message or call to action -->
-    <div class="jumbotron">
-      <div class="container">
-        <h2 class="center-text boxer-gold"> Notre Dame's 87th Bengal Bouts </h2>
-        <h3 class="center-text subtitle">Semifinal Matchups</h3>
+    <header>
+        <div class="header-content">
+            <div class="header-content-inner">
+                <h1 id="homeHeading">Live Stream Notre Dame Bengal Bouts!</h1>
+                <hr>
+                <a href="#about" class="btn btn-primary btn-xl page-scroll">Watch Live Stream Now</a>
+            </div>
+        </div>
+    </header>
 
+    <!-- <section class="bg-primary" id="about">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-8 col-lg-offset-2 text-center">
+                    <h2 class="section-heading">Live Stream</h2>
+                    <hr class="light">
+                    <p class="text-faded"></p>
+                    <a href="#services" class="page-scroll btn btn-default btn-xl sr-button">Get Started!</a>
+                </div>
+            </div>
+        </div>
+    </section> -->
+    <div class="jumbotron" id="about">
+        <a href="or.pdf" style="text-align: center;"> Order and Ring info </a>
+
+      <div class="container" style="text-align: center;">
+        <h1>RING A </h1>
+      <iframe style="width: 100%; height: 600px;"  src="http://www.youtube.com/embed/ZzOlGx3akng?rel=0&autoplay=1" frameborder="0" allowfullscreen></iframe>
+	</div>
+      <div class="container" style="text-align: center;">
+        <h1>RING B</h1>
+       
+	<iframe width="560" height="315" src="https://www.youtube.com/embed/R3sUMyACbIsrel=0&autoplay=1" frameborder="0" allowfullscreen></iframe>
       </div>
-      <!-- Button trigger modal -->
-      <button type="button" id="modalLaunch" class="btn btn-primary btn-lg confidence-button" data-toggle="modal" data-target="#myModal">
-        Pick your Winners
-      </button>
-      <h4 class="subtitle center-text"> All proceeds benefit the Holy Cross Missions in Bangladesh</h4>
-    <!--   <h4 class="subtitle center-text"> Semifinals: Feb 27, Joyce Center Fieldhouse</h4>
-      <h4 class="subtitle center-text"> Finals: March 3, Purcell Pavilion</h4>
- -->      
-        
-      
     </div>
-    
 
     <div class="panel panel-default custom-panel">
 	  <div class="panel-heading panel-heading-custom">
 	    <h3 class="panel-title">142 lb Division</h3>
 	  </div>
 	  <div class="panel-body">
-	  	<div id="Bout1"> </div>
+	  	<!-- <div id="Bout1"> </div> -->
 	    <div class="row">
 	    	<div class="col-md-5 center-col">
 	    		<h3 class="boxer-title center-text boxer-gold"> Joaquin Camara (2) </h3>
@@ -107,7 +129,7 @@
 	    <h3 class="panel-title">142 lb Division</h3>
 	  </div>
 	  <div class="panel-body">
-	  	<div id="Bout2"> </div>
+	  	<!-- <div id="Bout2"> </div> -->
 	    <div class="row">
 	    	<div class="col-md-5 center-col">
 	    		<h3 class="boxer-title center-text boxer-gold"> Mike Kappaz (1) </h3>
@@ -143,7 +165,7 @@
 	    <h3 class="panel-title">146 lb Division</h3>
 	  </div>
 	  <div class="panel-body">
-	  	<div id="Bout3"> </div>
+	  	<!-- <div id="Bout3"> </div> -->
 	    <div class="row">
 	    	<div class="col-md-5 center-col">
 	    		<h3 class="boxer-title center-text boxer-gold"> Matt Yoder (2) </h3>
@@ -179,7 +201,7 @@
 	    <h3 class="panel-title">146 lb Division</h3>
 	  </div>
 	  <div class="panel-body">
-	  	<div id="Bout4"> </div>
+	  	<!-- <div id="Bout4"> </div> -->
 	    <div class="row">
 	    	<div class="col-md-5 center-col">
 	    		<h3 class="boxer-title center-text boxer-gold"> Alex Alcantara (1) </h3>
@@ -215,7 +237,7 @@
 	    <h3 class="panel-title">154 lb Division</h3>
 	  </div>
 	  <div class="panel-body">
-	  	<div id="Bout5"> </div>
+	  	<!-- <div id="Bout5"> </div> -->
 	    <div class="row">
 	    	<div class="col-md-5 center-col">
 	    		<h3 class="boxer-title center-text boxer-gold"> Chip Blood (1) </h3>
@@ -251,7 +273,7 @@
 	    <h3 class="panel-title">154 lb Division</h3>
 	  </div>
 	  <div class="panel-body">
-	  	<div id="Bout6"> </div>
+	  	<!-- <div id="Bout6"> </div> -->
 	    <div class="row">
 	    	<div class="col-md-5 center-col">
 	    		<h3 class="boxer-title center-text boxer-gold"> Alex Roth (5) </h3>
@@ -287,7 +309,7 @@
 	    <h3 class="panel-title">159 lb Division</h3>
 	  </div>
 	  <div class="panel-body">
-	  	<div id="Bout7"> </div>
+	  	<!-- <div id="Bout7"> </div> -->
 	    <div class="row">
 	    	<div class="col-md-5 center-col">
 	    		<h3 class="boxer-title center-text boxer-gold"> Joey Quinones (2) </h3>
@@ -323,7 +345,7 @@
 	    <h3 class="panel-title">159 lb Division</h3>
 	  </div>
 	  <div class="panel-body">
-	  	<div id="Bout8"> </div>
+	  	<!-- <div id="Bout8"> </div> -->
 	    <div class="row">
 	    	<div class="col-md-5 center-col">
 	    		<h3 class="boxer-title center-text boxer-gold"> Garrett Schmelling (1) </h3>
@@ -359,7 +381,7 @@
 	    <h3 class="panel-title">166 lb Division</h3>
 	  </div>
 	  <div class="panel-body">
-	  	<div id="Bout9"> </div>
+	  	<!-- <div id="Bout9"> </div> -->
 	    <div class="row">
 	    	<div class="col-md-5 center-col">
 	    		<h3 class="boxer-title center-text boxer-gold"> Paddy Lawler (1) </h3>
@@ -395,7 +417,7 @@
 	    <h3 class="panel-title">166 lb Division</h3>
 	  </div>
 	  <div class="panel-body">
-	  	<div id="Bout10"> </div>
+	  	<!-- <div id="Bout10"> </div> -->
 	    <div class="row">
 	    	<div class="col-md-5 center-col">
 	    		<h3 class="boxer-title center-text boxer-gold"> Danny Childers (6) </h3>
@@ -431,7 +453,7 @@
 	    <h3 class="panel-title">174 lb Division</h3>
 	  </div>
 	  <div class="panel-body">
-	  	<div id="Bout11"> </div>
+	  	<!-- <div id="Bout11"> </div> -->
 	    <div class="row">
 	    	<div class="col-md-5 center-col">
 	    		<h3 class="boxer-title center-text boxer-gold"> Jack Corrigan (1) </h3>
@@ -467,7 +489,7 @@
 	    <h3 class="panel-title">174 lb Division</h3>
 	  </div>
 	  <div class="panel-body">
-	  	<div id="Bout12"> </div>
+	  	<!-- <div id="Bout12"> </div> -->
 	    <div class="row">
 	    	<div class="col-md-5 center-col">
 	    		<h3 class="boxer-title center-text boxer-gold"> Chris Harrington (2) </h3>
@@ -503,7 +525,7 @@
 	    <h3 class="panel-title">185 lb Division</h3>
 	  </div>
 	  <div class="panel-body">
-	  	<div id="Bout13"> </div>
+	  	<!-- <div id="Bout13"> </div> -->
 	    <div class="row">
 	    	<div class="col-md-5 center-col">
 	    		<h3 class="boxer-title center-text boxer-gold"> Cameron Nolan (2) </h3>
@@ -539,7 +561,7 @@
 	    <h3 class="panel-title">185 lb Division</h3>
 	  </div>
 	  <div class="panel-body">
-	  	<div id="Bout14"> </div>
+	  	<!-- <div id="Bout14"> </div> -->
 	    <div class="row">
 	    	<div class="col-md-5 center-col">
 	    		<h3 class="boxer-title center-text boxer-gold"> Isaac Althoff (5) </h3>
@@ -575,7 +597,7 @@
 	    <h3 class="panel-title">199 lb Division</h3>
 	  </div>
 	  <div class="panel-body">
-	  	<div id="Bout15"> </div>
+	  	<!-- <div id="Bout15"> </div> -->
 	    <div class="row">
 	    	<div class="col-md-5 center-col">
 	    		<h3 class="boxer-title center-text boxer-gold"> Jack Considine (1) </h3>
@@ -611,7 +633,7 @@
 	    <h3 class="panel-title">199 lb Division</h3>
 	  </div>
 	  <div class="panel-body">
-	  	<div id="Bout16"> </div>
+	  	<!-- <div id="Bout16"> </div> -->
 	    <div class="row">
 	    	<div class="col-md-5 center-col">
 	    		<h3 class="boxer-title center-text boxer-gold"> Aaron Bode (3) </h3>
@@ -647,7 +669,7 @@
 	    <h3 class="panel-title">Heavyweight Division</h3>
 	  </div>
 	  <div class="panel-body">
-	  	<div id="Bout17"> </div>
+	  	<!-- <div id="Bout17"> </div> -->
 	    <div class="row">
 	    	<div class="col-md-5 center-col">
 	    		<h3 class="boxer-title center-text boxer-gold"> Pat Gordon (1) </h3>
@@ -685,7 +707,7 @@ Also worthwhile to note: No boxer-corner duo have logged as much time throwing m
 	    <h3 class="panel-title">Heavyweight Division</h3>
 	  </div>
 	  <div class="panel-body">
-	  	<div id="Bout18"> </div>
+	  	<!-- <div id="Bout18"> </div> -->
 	    <div class="row">
 	    	<div class="col-md-5 center-col">
 	    		<h3 class="boxer-title center-text boxer-gold"> Jackson Wrede (2) </h3>
@@ -718,189 +740,192 @@ Also worthwhile to note: No boxer-corner duo have logged as much time throwing m
 	  </div>
 	</div>
 
-    <div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
-  <div class="modal-dialog" role="document">
-    <div class="modal-content">
-      <div class="modal-header">
-        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
-        <h4 class="modal-title center" id="myModalLabel">Pickem</h4>
-      </div>
-      <div class="modal-body">
-        <form id="pickemform">
-          <div class="form-group pickem">
-            <div class="form-group pickem">
-    <label class="btn btn-primary center">
-	  <input type="radio" name="bout1" id="option2" autocomplete="off" value="Joaquin Camara"> Joaquin Camara
-	</label>
-	<label class="btn btn-primary gold center">
-	  <input type="radio" name="bout1" id="option3" autocomplete="off" value="Chris Dethlefs"> Chris Dethlefs
-	</label> 
-</div>
-<div class="form-group pickem">
-    <label class="btn btn-primary center">
-	  <input type="radio" name="bout2" id="option2" autocomplete="off" value="Mike Kappaz"> Mike Kappaz
-	</label>
-	<label class="btn btn-primary gold center">
-	  <input type="radio" name="bout2" id="option3" autocomplete="off" value="Riley North"> Riley North
-	</label> 
-</div>
-<div class="form-group pickem">
-    <label class="btn btn-primary center">
-	  <input type="radio" name="bout3" id="option2" autocomplete="off" value="Matt Yoder"> Matt Yoder
-	</label>
-	<label class="btn btn-primary gold center">
-	  <input type="radio" name="bout3" id="option3" autocomplete="off" value="Conor Ward"> Conor Ward
-	</label> 
-</div>
-<div class="form-group pickem">
-    <label class="btn btn-primary center">
-	  <input type="radio" name="bout4" id="option2" autocomplete="off" value="Alex Alcantara"> Alex Alcantara
-	</label>
-	<label class="btn btn-primary gold center">
-	  <input type="radio" name="bout4" id="option3" autocomplete="off" value="Dominic Angelotti"> Dominic Angelotti
-	</label> 
-</div>
-<div class="form-group pickem">
-    <label class="btn btn-primary center">
-	  <input type="radio" name="bout5" id="option2" autocomplete="off" value="Chip Blood"> Chip Blood
-	</label>
-	<label class="btn btn-primary gold center">
-	  <input type="radio" name="bout5" id="option3" autocomplete="off" value="Tim Mikulski"> Tim Mikulski
-	</label> 
-</div>
-<div class="form-group pickem">
-    <label class="btn btn-primary center">
-	  <input type="radio" name="bout6" id="option2" autocomplete="off" value="Alex Roth"> Alex Roth
-	</label>
-	<label class="btn btn-primary gold center">
-	  <input type="radio" name="bout6" id="option3" autocomplete="off" value="Joe Guilfoile"> Joe Guilfoile
-	</label> 
-</div>
-<div class="form-group pickem">
-    <label class="btn btn-primary center">
-	  <input type="radio" name="bout7" id="option2" autocomplete="off" value="Joey Quinones"> Joey Quinones
-	</label>
-	<label class="btn btn-primary gold center">
-	  <input type="radio" name="bout7" id="option3" autocomplete="off" value="Greg Arts"> Greg Arts
-	</label> 
-</div>
-<div class="form-group pickem">
-    <label class="btn btn-primary center">
-	  <input type="radio" name="bout8" id="option2" autocomplete="off" value="Garrett Schmelling"> Garrett Schmelling
-	</label>
-	<label class="btn btn-primary gold center">
-	  <input type="radio" name="bout8" id="option3" autocomplete="off" value="Gio Lincon"> Gio Lincon
-	</label> 
-</div>
-<div class="form-group pickem">
-    <label class="btn btn-primary center">
-	  <input type="radio" name="bout9" id="option2" autocomplete="off" value="Paddy Lawler"> Paddy Lawler
-	</label>
-	<label class="btn btn-primary gold center">
-	  <input type="radio" name="bout9" id="option3" autocomplete="off" value="Sean Flynn"> Sean Flynn
-	</label> 
-</div>
-<div class="form-group pickem">
-    <label class="btn btn-primary center">
-	  <input type="radio" name="bout10" id="option2" autocomplete="off" value="Danny Childers"> Danny Childers
-	</label>
-	<label class="btn btn-primary gold center">
-	  <input type="radio" name="bout10" id="option3" autocomplete="off" value="Jack McDermott"> Jack McDermott
-	</label> 
-</div>
-<div class="form-group pickem">
-    <label class="btn btn-primary center">
-	  <input type="radio" name="bout11" id="option2" autocomplete="off" value="Jack Corrigan"> Jack Corrigan
-	</label>
-	<label class="btn btn-primary gold center">
-	  <input type="radio" name="bout11" id="option3" autocomplete="off" value="Michael Krecek"> Michael Krecek
-	</label> 
-</div>
-<div class="form-group pickem">
-    <label class="btn btn-primary center">
-	  <input type="radio" name="bout12" id="option2" autocomplete="off" value="Chris Harrington"> Chris Harrington
-	</label>
-	<label class="btn btn-primary gold center">
-	  <input type="radio" name="bout12" id="option3" autocomplete="off" value="Jack Shepard"> Jack Shepard
-	</label> 
-</div>
-<div class="form-group pickem">
-    <label class="btn btn-primary center">
-	  <input type="radio" name="bout13" id="option2" autocomplete="off" value="Cameron Nolan"> Cameron Nolan
-	</label>
-	<label class="btn btn-primary gold center">
-	  <input type="radio" name="bout13" id="option3" autocomplete="off" value="Jack Ryan"> Jack Ryan
-	</label> 
-</div>
-<div class="form-group pickem">
-    <label class="btn btn-primary center">
-	  <input type="radio" name="bout14" id="option2" autocomplete="off" value="Isaac Althoff"> Isaac Althoff
-	</label>
-	<label class="btn btn-primary gold center">
-	  <input type="radio" name="bout14" id="option3" autocomplete="off" value="Dan Andree"> Dan Andree
-	</label> 
-</div>
-<div class="form-group pickem">
-    <label class="btn btn-primary center">
-	  <input type="radio" name="bout15" id="option2" autocomplete="off" value="Jack Considine"> Jack Considine
-	</label>
-	<label class="btn btn-primary gold center">
-	  <input type="radio" name="bout15" id="option3" autocomplete="off" value="Chris Vazquez"> Chris Vazquez
-	</label> 
-</div>
-<div class="form-group pickem">
-    <label class="btn btn-primary center">
-	  <input type="radio" name="bout16" id="option2" autocomplete="off" value="Aaron Bode"> Aaron Bode
-	</label>
-	<label class="btn btn-primary gold center">
-	  <input type="radio" name="bout16" id="option3" autocomplete="off" value="Montana Giordano"> Montana Giordano
-	</label> 
-</div>
-<div class="form-group pickem">
-    <label class="btn btn-primary center">
-	  <input type="radio" name="bout17" id="option2" autocomplete="off" value="Pat Gordon"> Pat Gordon
-	</label>
-	<label class="btn btn-primary gold center">
-	  <input type="radio" name="bout17" id="option3" autocomplete="off" value="Erich Jegier"> Erich Jegier
-	</label> 
-</div>
-<div class="form-group pickem">
-    <label class="btn btn-primary center">
-	  <input type="radio" name="bout18" id="option2" autocomplete="off" value="Jackson Wrede"> Jackson Wrede
-	</label>
-	<label class="btn btn-primary gold center">
-	  <input type="radio" name="bout18" id="option3" autocomplete="off" value="Ryan Richelsen"> Ryan Richelsen
-	</label> 
-</div>
 
-          </div>
-          <div class="form-group pickem">
-            <label for="emailInput">Your Email</label>
-            <br />
-            <input type="text" name="email" id="emailInput"> </input> 
-          </div>
-          <input type="hidden" value="18" name="numberBouts"> </input> 
-        </form>
-      </div>
-      <div class="modal-footer">
-        <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
-        <button type="button" class="btn btn-primary submit-pickem" data-dismiss="modal"> Submit </button>
-      </div>
-    </div>
-  </div>
-</div>
+<!--     <section id="services">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12 text-center">
+                    <h2 class="section-heading">At Your Service</h2>
+                    <hr class="primary">
+                </div>
+            </div>
+        </div>
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-3 col-md-6 text-center">
+                    <div class="service-box">
+                        <i class="fa fa-4x fa-diamond text-primary sr-icons"></i>
+                        <h3>Sturdy Templates</h3>
+                        <p class="text-muted">Our templates are updated regularly so they don't break.</p>
+                    </div>
+                </div>
+                <div class="col-lg-3 col-md-6 text-center">
+                    <div class="service-box">
+                        <i class="fa fa-4x fa-paper-plane text-primary sr-icons"></i>
+                        <h3>Ready to Ship</h3>
+                        <p class="text-muted">You can use this theme as is, or you can make changes!</p>
+                    </div>
+                </div>
+                <div class="col-lg-3 col-md-6 text-center">
+                    <div class="service-box">
+                        <i class="fa fa-4x fa-newspaper-o text-primary sr-icons"></i>
+                        <h3>Up to Date</h3>
+                        <p class="text-muted">We update dependencies to keep things fresh.</p>
+                    </div>
+                </div>
+                <div class="col-lg-3 col-md-6 text-center">
+                    <div class="service-box">
+                        <i class="fa fa-4x fa-heart text-primary sr-icons"></i>
+                        <h3>Made with Love</h3>
+                        <p class="text-muted">You have to make your websites with love these days!</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
 
+    <section class="no-padding" id="portfolio">
+        <div class="container-fluid">
+            <div class="row no-gutter popup-gallery">
+                <div class="col-lg-4 col-sm-6">
+                    <a href="img/portfolio/fullsize/1.jpg" class="portfolio-box">
+                        <img src="img/portfolio/thumbnails/1.jpg" class="img-responsive" alt="">
+                        <div class="portfolio-box-caption">
+                            <div class="portfolio-box-caption-content">
+                                <div class="project-category text-faded">
+                                    Category
+                                </div>
+                                <div class="project-name">
+                                    Project Name
+                                </div>
+                            </div>
+                        </div>
+                    </a>
+                </div>
+                <div class="col-lg-4 col-sm-6">
+                    <a href="img/portfolio/fullsize/2.jpg" class="portfolio-box">
+                        <img src="img/portfolio/thumbnails/2.jpg" class="img-responsive" alt="">
+                        <div class="portfolio-box-caption">
+                            <div class="portfolio-box-caption-content">
+                                <div class="project-category text-faded">
+                                    Category
+                                </div>
+                                <div class="project-name">
+                                    Project Name
+                                </div>
+                            </div>
+                        </div>
+                    </a>
+                </div>
+                <div class="col-lg-4 col-sm-6">
+                    <a href="img/portfolio/fullsize/3.jpg" class="portfolio-box">
+                        <img src="img/portfolio/thumbnails/3.jpg" class="img-responsive" alt="">
+                        <div class="portfolio-box-caption">
+                            <div class="portfolio-box-caption-content">
+                                <div class="project-category text-faded">
+                                    Category
+                                </div>
+                                <div class="project-name">
+                                    Project Name
+                                </div>
+                            </div>
+                        </div>
+                    </a>
+                </div>
+                <div class="col-lg-4 col-sm-6">
+                    <a href="img/portfolio/fullsize/4.jpg" class="portfolio-box">
+                        <img src="img/portfolio/thumbnails/4.jpg" class="img-responsive" alt="">
+                        <div class="portfolio-box-caption">
+                            <div class="portfolio-box-caption-content">
+                                <div class="project-category text-faded">
+                                    Category
+                                </div>
+                                <div class="project-name">
+                                    Project Name
+                                </div>
+                            </div>
+                        </div>
+                    </a>
+                </div>
+                <div class="col-lg-4 col-sm-6">
+                    <a href="img/portfolio/fullsize/5.jpg" class="portfolio-box">
+                        <img src="img/portfolio/thumbnails/5.jpg" class="img-responsive" alt="">
+                        <div class="portfolio-box-caption">
+                            <div class="portfolio-box-caption-content">
+                                <div class="project-category text-faded">
+                                    Category
+                                </div>
+                                <div class="project-name">
+                                    Project Name
+                                </div>
+                            </div>
+                        </div>
+                    </a>
+                </div>
+                <div class="col-lg-4 col-sm-6">
+                    <a href="img/portfolio/fullsize/6.jpg" class="portfolio-box">
+                        <img src="img/portfolio/thumbnails/6.jpg" class="img-responsive" alt="">
+                        <div class="portfolio-box-caption">
+                            <div class="portfolio-box-caption-content">
+                                <div class="project-category text-faded">
+                                    Category
+                                </div>
+                                <div class="project-name">
+                                    Project Name
+                                </div>
+                            </div>
+                        </div>
+                    </a>
+                </div>
+            </div>
+        </div>
+    </section>
 
+    <aside class="bg-dark">
+        <div class="container text-center">
+            <div class="call-to-action">
+                <h2>Free Download at Start Bootstrap!</h2>
+                <a href="http://startbootstrap.com/template-overviews/creative/" class="btn btn-default btn-xl sr-button">Download Now!</a>
+            </div>
+        </div>
+    </aside>
+ -->
+    <section id="contact">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-8 col-lg-offset-2 text-center">
+                    <h2 class="section-heading">Want to Donate?</h2>
+                    <hr class="primary">
+                    <p>Visit our website or call us to learn more</p>
+                </div>
+                <div class="col-lg-4 col-lg-offset-2 text-center">
+                    <i class="fa fa-phone fa-3x sr-contact"></i>
+                    <p>571-309-3080</p>
+                </div>
+                <div class="col-lg-4 text-center">
+                    <i class="fa fa-envelope-o fa-3x sr-contact"></i>
+                    <p><a href="mailto:your-email@your-domain.com">boxing@nd.edu</a></p>
+                </div>
+            </div>
+        </div>
+    </section>
 
+    <!-- jQuery -->
+    <script src="vendor/jquery/jquery.min.js"></script>
 
-    <!-- Bootstrap core JavaScript
-    ================================================== -->
-    <!-- Placed at the end of the document so the pages load faster -->
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
-    <script>window.jQuery || document.write('<script src="../../assets/js/vendor/jquery.min.js"><\/script>')</script>
-    <script src="js/bootstrap.min.js"></script>
-    <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
-    <script type="text/JavaScript" src="js/checkform.js"> </script>
-  <!-- <script src="../../assets/js/ie10-viewport-bug-workaround.js"></script> -->
-  </body>
+    <script type="text/JavaScript" src="matchups/js/checkform.js"> </script>
+
+    <!-- Bootstrap Core JavaScript -->
+    <script src="vendor/bootstrap/js/bootstrap.min.js"></script>
+
+    <!-- Plugin JavaScript -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-easing/1.3/jquery.easing.min.js"></script>
+    <script src="vendor/scrollreveal/scrollreveal.min.js"></script>
+    <script src="vendor/magnific-popup/jquery.magnific-popup.min.js"></script>
+
+    <!-- Theme JavaScript -->
+    <script src="js/creative.min.js"></script>
+
+</body>
+
 </html>
