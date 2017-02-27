@@ -75,7 +75,7 @@
 	    <div class="row">
 	    	<div class="col-md-5 center-col">
 	    		<h3 class="boxer-title center-text boxer-gold"> Joaquin Camara (2) </h3>
-	    		 <img class="boxer-photo" alt="blue-boxer" src="matchups/img/jcamara.jpg"> </img>
+	    		 <img class="boxer-photo" alt="blue-boxer" src="img/jcamara.jpg"> </img>
 	    		 <p class="descrip-text"><strong>Dorm: </strong>Keenan</p>
 	    		 <p class="descrip-text"><strong>Experience: </strong>Novice</p>
     		  	<p class="descrip-text"><strong>Strength: </strong>Joaquin might have the fastest hands in the program, in addition to some of the slickest head movement.  His speed can have the effect of slowing down opponents, as they fear his counter-punching ability.</p>
@@ -89,7 +89,7 @@
 			 </div>
 			 <div class="col-md-5">
 			 	<h3 class="boxer-title center-text boxer-blue"> Chris Dethlefs (3) </h3>
-			 	<img class="boxer-photo" alt="blue-boxer" src="matchups/img/cdethlefs.jpg	"> </img>
+			 	<img class="boxer-photo" alt="blue-boxer" src="img/cdethlefs.jpg	"> </img>
 			 	<p class="descrip-text"><strong>Dorm: </strong>Sorin</p>
 	    		 <p class="descrip-text"><strong>Experience:</strong> 3rd Year</p>
     		  	<p class="descrip-text"><strong>Strength: </strong>Chris throws very good hooks.  Since his freshman year, his left hook has been his best asset, and he's developed a strong right hook as well.  Chris also tends to pick up steam as the fight goes on.</p>
@@ -111,7 +111,7 @@
 	    <div class="row">
 	    	<div class="col-md-5 center-col">
 	    		<h3 class="boxer-title center-text boxer-gold"> Mike Kappaz (1) </h3>
-	    		 <img class="boxer-photo" alt="blue-boxer" src="matchups/img/mkappaz.jpg"> </img>
+	    		 <img class="boxer-photo" alt="blue-boxer" src="img/mkappaz.jpg"> </img>
 	    		 <p class="descrip-text"><strong>Dorm: </strong>Off Campus</p>
 	    		 <p class="descrip-text"><strong>Experience: </strong>2nd Year</p>
     		  	<p class="descrip-text"><strong>Strength: </strong>Mike, the top seed in the lightest bracket, fights like a heavy weight. With a sinister presence in the ring, Kappaz is excellent at controlling and cutting off the ring, despite not throwing a high volume of punches. However, when he does throw, he makes the punches count. Kappaz is the defending champion, and enters the ring with a lot of confidence. He enters this fight after a blistering referee stopped contest in his last bout. </p>
@@ -125,7 +125,7 @@
 			 </div>
 			 <div class="col-md-5">
 			 	<h3 class="boxer-title center-text boxer-blue"> Riley North (4) </h3>
-			 	<img class="boxer-photo" alt="blue-boxer" src="matchups/img/rnorth.jpg	"> </img>
+			 	<img class="boxer-photo" alt="blue-boxer" src="img/rnorth.jpg	"> </img>
 			 	<p class="descrip-text"><strong>Dorm: </strong>Morrissey</p>
 	    		 <p class="descrip-text"><strong>Experience:</strong> Novice</p>
     		  	<p class="descrip-text"><strong>Strength: </strong>Riley will undoubtedly be taller than everyone he could fight in the tournament, and his reach will be his greatest asset. North is coming off of his first ever fight in the bouts, in which he effectively handled a scrappy Troy Nguyen. In his last fight, North's opponent sought to take the fight to his body and brawl in the corners. Riley was able to demonstrate some ring moxie by calmly keeping his opponent at range by using his strong jab and right cross. He'll need to do the same in this upcoming bout. </p>
@@ -147,7 +147,7 @@
 	    <div class="row">
 	    	<div class="col-md-5 center-col">
 	    		<h3 class="boxer-title center-text boxer-gold"> Matt Yoder (2) </h3>
-	    		 <img class="boxer-photo" alt="blue-boxer" src="matchups/img/myoder.jpg"> </img>
+	    		 <img class="boxer-photo" alt="blue-boxer" src="img/myoder.jpg"> </img>
 	    		 <p class="descrip-text"><strong>Dorm: </strong>O'Neill Hall</p>
 	    		 <p class="descrip-text"><strong>Experience: </strong>3rd Year</p>
     		  	<p class="descrip-text"><strong>Strength: </strong>Matt is a hardworking veteran boxer, and his form is evidence of this. His composure and strength complement his technique very well.</p>
@@ -161,7 +161,7 @@
 			 </div>
 			 <div class="col-md-5">
 			 	<h3 class="boxer-title center-text boxer-blue"> Conor Ward (3) </h3>
-			 	<img class="boxer-photo" alt="blue-boxer" src="matchups/img/cward.jpg	"> </img>
+			 	<img class="boxer-photo" alt="blue-boxer" src="img/cward.jpg	"> </img>
 			 	<p class="descrip-text"><strong>Dorm: </strong>Knott</p>
 	    		 <p class="descrip-text"><strong>Experience:</strong> 2nd Year</p>
     		  	<p class="descrip-text"><strong>Strength: </strong>Conor can throw hooks, straights, and uppercuts quickly and effectively. He's able to churn out long combinations without losing form which is a great asset for him. He is also a hard-hitter</p>
@@ -183,7 +183,7 @@
 	    <div class="row">
 	    	<div class="col-md-5 center-col">
 	    		<h3 class="boxer-title center-text boxer-gold"> Alex Alcantara (1) </h3>
-	    		 <img class="boxer-photo" alt="blue-boxer" src="matchups/img/aalcantara.jpg"> </img>
+	    		 <img class="boxer-photo" alt="blue-boxer" src="img/aalcantara.jpg"> </img>
 	    		 <p class="descrip-text"><strong>Dorm: </strong>Alumni</p>
 	    		 <p class="descrip-text"><strong>Experience: </strong>3rd Year</p>
     		  	<p class="descrip-text"><strong>Strength: </strong>In his 9 career Bengal Bouts matches, all of which he's won, Alex has always been the most athletic boxer in the ring.  What makes him so difficult is that he combines his athleticism with one of the best left hooks in the program.  His cardio is an undeniable asset, and he has a history of finishing strong in close bouts.</p>
@@ -197,7 +197,7 @@
 			 </div>
 			 <div class="col-md-5">
 			 	<h3 class="boxer-title center-text boxer-blue"> Dominic Angelotti (4) </h3>
-			 	<img class="boxer-photo" alt="blue-boxer" src="matchups/img/dangel.jpg	"> </img>
+			 	<img class="boxer-photo" alt="blue-boxer" src="img/dangel.jpg	"> </img>
 			 	<p class="descrip-text"><strong>Dorm: </strong>Carroll</p>
 	    		 <p class="descrip-text"><strong>Experience:</strong> 2nd Year</p>
     		  	<p class="descrip-text"><strong>Strength: </strong>Dom throws long, straight punches that can keep his opponents at a distance.  When he establishes control, he smartly looks to mix in a variety of punches, making his opponent defend a little bit of everything.  Cardio is also a definite asset for Dom.</p>
@@ -219,7 +219,7 @@
 	    <div class="row">
 	    	<div class="col-md-5 center-col">
 	    		<h3 class="boxer-title center-text boxer-gold"> Chip Blood (1) </h3>
-	    		 <img class="boxer-photo" alt="blue-boxer" src="matchups/img/cblood.jpg"> </img>
+	    		 <img class="boxer-photo" alt="blue-boxer" src="img/cblood.jpg"> </img>
 	    		 <p class="descrip-text"><strong>Dorm: </strong>Sorin</p>
 	    		 <p class="descrip-text"><strong>Experience: </strong>4th Year</p>
     		  	<p class="descrip-text"><strong>Strength: </strong>Combinations. Chip is strong and fast, and throws impeccable, long combinations; he utilizes every type of punch and moves well.</p>
@@ -233,7 +233,7 @@
 			 </div>
 			 <div class="col-md-5">
 			 	<h3 class="boxer-title center-text boxer-blue"> Tim Mikulski (12) </h3>
-			 	<img class="boxer-photo" alt="blue-boxer" src="matchups/img/tmikulski.jpg	"> </img>
+			 	<img class="boxer-photo" alt="blue-boxer" src="img/tmikulski.jpg	"> </img>
 			 	<p class="descrip-text"><strong>Dorm: </strong>Duncan</p>
 	    		 <p class="descrip-text"><strong>Experience:</strong> Novice</p>
     		  	<p class="descrip-text"><strong>Strength: </strong>Athletic ability, composure and movement. </p>
@@ -255,7 +255,7 @@
 	    <div class="row">
 	    	<div class="col-md-5 center-col">
 	    		<h3 class="boxer-title center-text boxer-gold"> Alex Roth (5) </h3>
-	    		 <img class="boxer-photo" alt="blue-boxer" src="matchups/img/aroth.jpg"> </img>
+	    		 <img class="boxer-photo" alt="blue-boxer" src="img/aroth.jpg"> </img>
 	    		 <p class="descrip-text"><strong>Dorm: </strong>Zahm</p>
 	    		 <p class="descrip-text"><strong>Experience: </strong>2nd Year</p>
     		  	<p class="descrip-text"><strong>Strength: </strong>Alex has a height and reach advantage on nearly every boxer he's faced, and he's learned to use those assets well.  His ability to hit opponents when they can't hit him will often leads to them getting frustrated and making mistakes.  Alex is very good at taking advantage of his opponents' mistakes.</p>
@@ -269,7 +269,7 @@
 			 </div>
 			 <div class="col-md-5">
 			 	<h3 class="boxer-title center-text boxer-blue"> Joe Guilfoile (2) </h3>
-			 	<img class="boxer-photo" alt="blue-boxer" src="matchups/img/jguilfoile.jpg	"> </img>
+			 	<img class="boxer-photo" alt="blue-boxer" src="img/jguilfoile.jpg	"> </img>
 			 	<p class="descrip-text"><strong>Dorm: </strong>Morrissey</p>
 	    		 <p class="descrip-text"><strong>Experience:</strong> 3rd Year</p>
     		  	<p class="descrip-text"><strong>Strength: </strong>Joe rises to the occasion.  When the lights shine brightest, he tends to perform best.  Joe's defensive instincts are excellent, which is critical for a fighter who does not often keep his hands up high to defend.  His athleticism and composure have often carried the day.  Those two traits, combined with a refined boxing game this year, make him a tough out for anybody.</p>
@@ -291,7 +291,7 @@
 	    <div class="row">
 	    	<div class="col-md-5 center-col">
 	    		<h3 class="boxer-title center-text boxer-gold"> Joey Quinones (2) </h3>
-	    		 <img class="boxer-photo" alt="blue-boxer" src="matchups/img/jquinonas.jpg"> </img>
+	    		 <img class="boxer-photo" alt="blue-boxer" src="img/jquinonas.jpg"> </img>
 	    		 <p class="descrip-text"><strong>Dorm: </strong>Keough</p>
 	    		 <p class="descrip-text"><strong>Experience: </strong>3rd Year</p>
     		  	<p class="descrip-text"><strong>Strength: </strong>Joey will occasionally move in unorthodox ways, which often keeps his opponents off balance.  In no small part to his martial arts background, his composure and discipline in the ring are undeniable assets.  A thoughtful boxer, Joey will often look to set up his punches more than most competitors.  When he throws multiple punch combinations, boxers have to be ready to defend every inch of the scoring area.</p>
@@ -305,7 +305,7 @@
 			 </div>
 			 <div class="col-md-5">
 			 	<h3 class="boxer-title center-text boxer-blue"> Greg Arts (3) </h3>
-			 	<img class="boxer-photo" alt="blue-boxer" src="matchups/img/garts.jpg	"> </img>
+			 	<img class="boxer-photo" alt="blue-boxer" src="img/garts.jpg	"> </img>
 			 	<p class="descrip-text"><strong>Dorm: </strong>Carroll</p>
 	    		 <p class="descrip-text"><strong>Experience:</strong> Novice</p>
     		  	<p class="descrip-text"><strong>Strength: </strong>Greg is long and powerful.  Most boxers in the program are uncomfortable fighting southpaws, and Greg does a good job of capitalizing on their mistakes.  His straight left hand is his best punch.  If he's able to land that with regularity, his opponents are in for a long night</p>
@@ -327,7 +327,7 @@
 	    <div class="row">
 	    	<div class="col-md-5 center-col">
 	    		<h3 class="boxer-title center-text boxer-gold"> Garrett Schmelling (1) </h3>
-	    		 <img class="boxer-photo" alt="blue-boxer" src="matchups/img/gschmelling.jpg"> </img>
+	    		 <img class="boxer-photo" alt="blue-boxer" src="img/gschmelling.jpg"> </img>
 	    		 <p class="descrip-text"><strong>Dorm: </strong>Fisher</p>
 	    		 <p class="descrip-text"><strong>Experience: </strong>3rd Year</p>
     		  	<p class="descrip-text"><strong>Strength: </strong>Garrett, quite simply, is one of the most skillful boxers in the entire program. He is able to fight much bigger than his size. He is able to move effectively using his head movement and striking precision to close the distance on his opponents and work both levels. Because of this, Garrett is able to control the center of the ring and force his opponents to move as he waits on a counter. Arguably his greatest strength is his ability to close the distance and use his precise timing inside to score quickly and effectively. Schmelling's ring generalship, gained from his extensive experience, is another key strength of his, and one that he will have to utilize in this bout in order to get his hand raised. </p>
@@ -341,7 +341,7 @@
 			 </div>
 			 <div class="col-md-5">
 			 	<h3 class="boxer-title center-text boxer-blue"> Gio Lincon (6) </h3>
-			 	<img class="boxer-photo" alt="blue-boxer" src="matchups/img/glincoln.jpg	"> </img>
+			 	<img class="boxer-photo" alt="blue-boxer" src="img/glincoln.jpg	"> </img>
 			 	<p class="descrip-text"><strong>Dorm: </strong>Off Campus</p>
 	    		 <p class="descrip-text"><strong>Experience:</strong> 4th Year</p>
     		  	<p class="descrip-text"><strong>Strength: </strong>Gio's conditioning, will to win, and scrappiness are undoubtedly his greatest assets. Gio has fought two very differing opponents thus far in bouts - first a tall, lengthy counterpunching lefty, followed by a scrappy high volume puncher, in which he convincingly handled both of them, including an upset unanimous victory against the #4 seed Alex Cervantez in the quarterfinals. However, in order to get his hand raised on Monday, Gio will have to tighten up his punches and land crisper combinations than he did against Cervantez. His impressive conditioning will be tested, and if he can keep the fight close going into the third round, he can use it to out will his opponent and make up some lost ground en route to a victory. </p>
@@ -363,7 +363,7 @@
 	    <div class="row">
 	    	<div class="col-md-5 center-col">
 	    		<h3 class="boxer-title center-text boxer-gold"> Paddy Lawler (1) </h3>
-	    		 <img class="boxer-photo" alt="blue-boxer" src="matchups/img/plawer.jpg"> </img>
+	    		 <img class="boxer-photo" alt="blue-boxer" src="img/plawer.jpg"> </img>
 	    		 <p class="descrip-text"><strong>Dorm: </strong>Fisher</p>
 	    		 <p class="descrip-text"><strong>Experience: </strong>3rd Year</p>
     		  	<p class="descrip-text"><strong>Strength: </strong>Paddy, AKA the human energizer bunny, is almost undoubtedly the best conditioned fighter in the club. With such a high motor, he has on multiple occasions beaten more skilled fighters simply by throwing more punches than them. This is assuredly his greatest strength, as he demonstrated last year in the tournament where he had without question the toughest path to a championship, beating 3 extremely talented fighters. However, he had a productive off season training his boxing skills in Chicago, and it has paid big dividends. Now a boxer first, Paddy relies on his brawling as his ace in the hole, and its a brutally effective one. If Paddy can put his opponents in a corner, its going to be a long night for them. </p>
@@ -377,7 +377,7 @@
 			 </div>
 			 <div class="col-md-5">
 			 	<h3 class="boxer-title center-text boxer-blue"> Sean Flynn (4) </h3>
-			 	<img class="boxer-photo" alt="blue-boxer" src="matchups/img/sflynn.jpg	"> </img>
+			 	<img class="boxer-photo" alt="blue-boxer" src="img/sflynn.jpg	"> </img>
 			 	<p class="descrip-text"><strong>Dorm: </strong>Off Campus</p>
 	    		 <p class="descrip-text"><strong>Experience:</strong> Novice</p>
     		  	<p class="descrip-text"><strong>Strength: </strong>Sean Flynn comes into this fight as a much taller and longer fighter, which will be his greatest strength in this upcoming bout. Flynn will have to pump his jab as a machine gun to deter Paddy from coming inside on him. Flynn, despite being a novice, demonstrated some ring savvy in his win in the quarterfinals against Seamus Long. He will have to continue this trend and not panic when Paddy flips the switch and begins charging in with reckless abandon. If Sean can use his footwork and move laterally while continuing to throw on the move, he can disrupt Paddy's rhythm and frustrate him, which causes Lawler's form to decay and leave him more vulnerable. </p>
@@ -399,7 +399,7 @@
 	    <div class="row">
 	    	<div class="col-md-5 center-col">
 	    		<h3 class="boxer-title center-text boxer-gold"> Danny Childers (6) </h3>
-	    		 <img class="boxer-photo" alt="blue-boxer" src="matchups/img/dchilders.jpg"> </img>
+	    		 <img class="boxer-photo" alt="blue-boxer" src="img/dchilders.jpg"> </img>
 	    		 <p class="descrip-text"><strong>Dorm: </strong>Keough</p>
 	    		 <p class="descrip-text"><strong>Experience: </strong>Novice</p>
     		  	<p class="descrip-text"><strong>Strength: </strong>One of the four Keough fighters left in the tournament, Danny, a novice, has stormed through his bracket, looking extremely impressive doing so. In his last fight, Danny upset a tough #3 seed in Charlie Puntillo. Despite being a novice, Danny appeared extremely calm and composed in his quarterfinal bout. His composure will surely be tested in this upcoming bout, however. Danny's strength is his combination punching. Training at a family gym during the breaks, Danny has learned the basics very well, and is proof that you don't have to be a veteran to succeed in the tournament if you are willing to work hard and commit yourself to the sport. Danny's hard work has paid off, and when he lets his hands go, watch out. Danny is a natural athlete and competitor, and he certainly will not be an easy out for anyone in the tournament. </p>
@@ -413,7 +413,7 @@
 			 </div>
 			 <div class="col-md-5">
 			 	<h3 class="boxer-title center-text boxer-blue"> Jack McDermott (2) </h3>
-			 	<img class="boxer-photo" alt="blue-boxer" src="matchups/img/jmcdermott.jpg	"> </img>
+			 	<img class="boxer-photo" alt="blue-boxer" src="img/jmcdermott.jpg	"> </img>
 			 	<p class="descrip-text"><strong>Dorm: </strong>O'Neill</p>
 	    		 <p class="descrip-text"><strong>Experience:</strong> 2nd Year</p>
     		  	<p class="descrip-text"><strong>Strength: </strong>McDermott comes into the tournament after losing in the finals to an extremely talented fighter last year as a freshman - no small feat. Jack is looking to finish what he started last year, but first he will have to go through Danny, a surprisingly tough novice who will not be an easy victory. McDermott has bulked up since his bouts last year, and the power shows. A tall lefty, many struggle with the southpaw's smooth punching and much improved foot work. McDermott is able to string together combinations seamlessly, something that often gives his opponents trouble, compounding with all of his punches coming from the opposite angles that people are used to. McDermott is a young star of the program, and he looks to prove why on Monday night. </p>
@@ -435,7 +435,7 @@
 	    <div class="row">
 	    	<div class="col-md-5 center-col">
 	    		<h3 class="boxer-title center-text boxer-gold"> Jack Corrigan (1) </h3>
-	    		 <img class="boxer-photo" alt="blue-boxer" src="matchups/img/jcorrigan.jpg"> </img>
+	    		 <img class="boxer-photo" alt="blue-boxer" src="img/jcorrigan.jpg"> </img>
 	    		 <p class="descrip-text"><strong>Dorm: </strong>Morrissey</p>
 	    		 <p class="descrip-text"><strong>Experience: </strong>4th Year</p>
     		  	<p class="descrip-text"><strong>Strength: </strong>Jack is as experienced as a boxer could be in the ring, and has a history of very hard fought matches. He is gritty, fast, and able to move well. His power punches are his specialty. </p>
@@ -449,7 +449,7 @@
 			 </div>
 			 <div class="col-md-5">
 			 	<h3 class="boxer-title center-text boxer-blue"> Michael Krecek (4) </h3>
-			 	<img class="boxer-photo" alt="blue-boxer" src="matchups/img/mkrecek.jpg	"> </img>
+			 	<img class="boxer-photo" alt="blue-boxer" src="img/mkrecek.jpg	"> </img>
 			 	<p class="descrip-text"><strong>Dorm: </strong>Morrissey</p>
 	    		 <p class="descrip-text"><strong>Experience:</strong> 2nd Year</p>
     		  	<p class="descrip-text"><strong>Strength: </strong>Hands down his power. Krecek throws hard punches, especially the right straight. He also has an impressive mental and physical toughness.</p>
@@ -471,7 +471,7 @@
 	    <div class="row">
 	    	<div class="col-md-5 center-col">
 	    		<h3 class="boxer-title center-text boxer-gold"> Chris Harrington (2) </h3>
-	    		 <img class="boxer-photo" alt="blue-boxer" src="matchups/img/charrington.jpg"> </img>
+	    		 <img class="boxer-photo" alt="blue-boxer" src="img/charrington.jpg"> </img>
 	    		 <p class="descrip-text"><strong>Dorm: </strong>Off Campus</p>
 	    		 <p class="descrip-text"><strong>Experience: </strong>Novice</p>
     		  	<p class="descrip-text"><strong>Strength: </strong>Chris is as unorthodox and awkward as they come.  His herky-jerky movements often leave his opponents just a half-second behind in reacting, allowing him to snap off combinations from uncomfortable angles.  When he's in a groove, Chris will often walk opponents into an undetected big hook.  </p>
@@ -485,7 +485,7 @@
 			 </div>
 			 <div class="col-md-5">
 			 	<h3 class="boxer-title center-text boxer-blue"> Jack Shepard (3) </h3>
-			 	<img class="boxer-photo" alt="blue-boxer" src="matchups/img/jshepard.jpg	"> </img>
+			 	<img class="boxer-photo" alt="blue-boxer" src="img/jshepard.jpg	"> </img>
 			 	<p class="descrip-text"><strong>Dorm: </strong>Off Campus</p>
 	    		 <p class="descrip-text"><strong>Experience:</strong> 2nd Year</p>
     		  	<p class="descrip-text"><strong>Strength: </strong>Jack is a tall southpaw with a long reach, and capitalizes on those advantages.   He establishes and controls distance very well and hits harder than some opponents suspect.  Of the four remaining boxers in this weight class, Jack is the only one who has previously advanced to the finals.</p>
@@ -507,7 +507,7 @@
 	    <div class="row">
 	    	<div class="col-md-5 center-col">
 	    		<h3 class="boxer-title center-text boxer-gold"> Cameron Nolan (2) </h3>
-	    		 <img class="boxer-photo" alt="blue-boxer" src="matchups/img/cnolan.jpg"> </img>
+	    		 <img class="boxer-photo" alt="blue-boxer" src="img/cnolan.jpg"> </img>
 	    		 <p class="descrip-text"><strong>Dorm: </strong>Duncan</p>
 	    		 <p class="descrip-text"><strong>Experience: </strong>2nd Year</p>
     		  	<p class="descrip-text"><strong>Strength: </strong>Cam's biggest asset is his power. Additionally, he's shown an athletic tempo and is always ready to unload a big combo.</p>
@@ -521,7 +521,7 @@
 			 </div>
 			 <div class="col-md-5">
 			 	<h3 class="boxer-title center-text boxer-blue"> Jack Ryan (3) </h3>
-			 	<img class="boxer-photo" alt="blue-boxer" src="matchups/img/jryan.jpg	"> </img>
+			 	<img class="boxer-photo" alt="blue-boxer" src="img/jryan.jpg	"> </img>
 			 	<p class="descrip-text"><strong>Dorm: </strong>Off Campus</p>
 	    		 <p class="descrip-text"><strong>Experience:</strong> 4th Year</p>
     		  	<p class="descrip-text"><strong>Strength: </strong>Height and length, no questions asked</p>
@@ -543,7 +543,7 @@
 	    <div class="row">
 	    	<div class="col-md-5 center-col">
 	    		<h3 class="boxer-title center-text boxer-gold"> Isaac Althoff (5) </h3>
-	    		 <img class="boxer-photo" alt="blue-boxer" src="matchups/img/ialthoff.jpg"> </img>
+	    		 <img class="boxer-photo" alt="blue-boxer" src="img/ialthoff.jpg"> </img>
 	    		 <p class="descrip-text"><strong>Dorm: </strong>Siegfried</p>
 	    		 <p class="descrip-text"><strong>Experience: </strong>Novice</p>
     		  	<p class="descrip-text"><strong>Strength: </strong>Isaac's boxing ability is highlighted by his power as well as his stamina. He was good in practice and has shown to perform even better under the lights</p>
@@ -557,7 +557,7 @@
 			 </div>
 			 <div class="col-md-5">
 			 	<h3 class="boxer-title center-text boxer-blue"> Dan Andree (1) </h3>
-			 	<img class="boxer-photo" alt="blue-boxer" src="matchups/img/dandree.jpg	"> </img>
+			 	<img class="boxer-photo" alt="blue-boxer" src="img/dandree.jpg	"> </img>
 			 	<p class="descrip-text"><strong>Dorm: </strong>Off Campus</p>
 	    		 <p class="descrip-text"><strong>Experience:</strong> 2nd Year</p>
     		  	<p class="descrip-text"><strong>Strength: </strong>Dan's a tall, strong lefty. He has power and good boxing form. He's also an excellent counter-puncher.</p>
@@ -579,7 +579,7 @@
 	    <div class="row">
 	    	<div class="col-md-5 center-col">
 	    		<h3 class="boxer-title center-text boxer-gold"> Jack Considine (1) </h3>
-	    		 <img class="boxer-photo" alt="blue-boxer" src="matchups/img/jconsidi.jpg"> </img>
+	    		 <img class="boxer-photo" alt="blue-boxer" src="img/jconsidi.jpg"> </img>
 	    		 <p class="descrip-text"><strong>Dorm: </strong>Off Campus</p>
 	    		 <p class="descrip-text"><strong>Experience: </strong>4th Year</p>
     		  	<p class="descrip-text"><strong>Strength: </strong>Jack - the two time defending champion and president of the club - is one of the most stalwart fighters in the club. A natural swimmer, his punches slightly resemble that of a freestyle motion, and the overhand motion provides an extra sting on his punches. His bread and butter are his 1-2, and he has mastered them over his four years in the bouts, although his recent development of other punches has paid huge dividends and added some more tools to his already potent arsenal. He has great reach on most of the opponents he will fight, which combines well with his dominating 1-2. Mostly a front footed fighter, Jack never stops coming forward. What he may lack in grace, he more than makes up for in toughness and conditioning. Anyone finding themselves in the same ring as Jack better be up for a dog fight. </p>
@@ -593,7 +593,7 @@
 			 </div>
 			 <div class="col-md-5">
 			 	<h3 class="boxer-title center-text boxer-blue"> Chris Vazquez (4) </h3>
-			 	<img class="boxer-photo" alt="blue-boxer" src="matchups/img/cvazquez.jpg	"> </img>
+			 	<img class="boxer-photo" alt="blue-boxer" src="img/cvazquez.jpg	"> </img>
 			 	<p class="descrip-text"><strong>Dorm: </strong>Off Campus</p>
 	    		 <p class="descrip-text"><strong>Experience:</strong> 3rd Year</p>
     		  	<p class="descrip-text"><strong>Strength: </strong>Chris is a salty veteran that has improved tremendously during his time in the club. He is capable of stringing together great combinations when he wants to, and moves very well. Chris had his toughness tested after winning a close bout against a former football player in the quarterfinals. That toughness will be necessary on Monday in order for Chris to get his hand raised. He will need to use his effective lateral movement and head movement to disrupt Considine's 1-2 combo. Chris has greatly improved his hooks this year, and they were his money maker in his last bout. Those hooks will be very effective in combatting Considine's style in the upcoming bout. </p>
@@ -615,7 +615,7 @@
 	    <div class="row">
 	    	<div class="col-md-5 center-col">
 	    		<h3 class="boxer-title center-text boxer-gold"> Aaron Bode (3) </h3>
-	    		 <img class="boxer-photo" alt="blue-boxer" src="matchups/img/abode.jpg"> </img>
+	    		 <img class="boxer-photo" alt="blue-boxer" src="img/abode.jpg"> </img>
 	    		 <p class="descrip-text"><strong>Dorm: </strong>Keough</p>
 	    		 <p class="descrip-text"><strong>Experience: </strong>Novice</p>
     		  	<p class="descrip-text"><strong>Strength: </strong>Aaron - an RA in the boxing powerhouse of Keough - is arguably one of the best athletes left in the tournament. A phenomenal basketball player, his talents show in the ring. His footwork is exceptional for a novice and his composure in the ring shined when he upset the #3 seed Mark Shealy in a barn burner in the quarterfinals. Bode is significantly taller than his opponent, and his reach will undoubtedly be his greatest strength in all of his fights. Another huge advantage is his conditioning - running up and down the court has paid huge dividends. Despite his inexperience, Aaron will be a tough out for anyone in the tournament. He strikes effectively and accurately from long range and is one tough customer. </p>
@@ -629,7 +629,7 @@
 			 </div>
 			 <div class="col-md-5">
 			 	<h3 class="boxer-title center-text boxer-blue"> Montana Giordano (2) </h3>
-			 	<img class="boxer-photo" alt="blue-boxer" src="matchups/img/mgiordano.jpg	"> </img>
+			 	<img class="boxer-photo" alt="blue-boxer" src="img/mgiordano.jpg	"> </img>
 			 	<p class="descrip-text"><strong>Dorm: </strong>Alumni</p>
 	    		 <p class="descrip-text"><strong>Experience:</strong> 2nd Year</p>
     		  	<p class="descrip-text"><strong>Strength: </strong>Montana, truly a tough fighter, comes into the tournament this year after shocking many by advancing to the finals in the 205 pound weight class last year, where he lost to a skilled opponent. Montana's greatest strength is his ability to simply find a way to win. A ROTC kid, his toughness and grit are characteristics that cannot be overlooked. After spending a good portion of time this season working on his footwork and variety of punches, Montana is a very solid fighter. Montana is at his best when he is applying pressure and stringing together combinations to the head and body. </p>
@@ -651,7 +651,7 @@
 	    <div class="row">
 	    	<div class="col-md-5 center-col">
 	    		<h3 class="boxer-title center-text boxer-gold"> Pat Gordon (1) </h3>
-	    		 <img class="boxer-photo" alt="blue-boxer" src="matchups/img/pgordon.jpg"> </img>
+	    		 <img class="boxer-photo" alt="blue-boxer" src="img/pgordon.jpg"> </img>
 	    		 <p class="descrip-text"><strong>Dorm: </strong>Keough</p>
 	    		 <p class="descrip-text"><strong>Experience: </strong>3rd Year</p>
     		  	<p class="descrip-text"><strong>Strength: </strong>Pat is tall, strong, and fast.  And he's a southpaw.  Needless to say, opponents aren't exactly thrilled to face him.  The defending champion in the 205 pound weight class, Pat has jumped up to the heavyweight class for this tournament.  Not one to rest on his laurels, Pat has invested more "sweat equity" in the boxing gym than any other competitor in the program.  Two years ago, Pat suffered his only Bengal Bouts defeat (a split-decision loss in the finals to Bengal Bouts president Jack Considine) in part because his conditioning was not up to par.  He has since attacked what was once a weakness and made it a strength.  When he lets his hands go, he is as good as it gets.</p>
@@ -667,7 +667,7 @@ Also worthwhile to note: No boxer-corner duo have logged as much time throwing m
 			 </div>
 			 <div class="col-md-5">
 			 	<h3 class="boxer-title center-text boxer-blue"> Erich Jegier (5) </h3>
-			 	<img class="boxer-photo" alt="blue-boxer" src="matchups/img/ejegier.jpg	"> </img>
+			 	<img class="boxer-photo" alt="blue-boxer" src="img/ejegier.jpg	"> </img>
 			 	<p class="descrip-text"><strong>Dorm: </strong>Off Campus</p>
 	    		 <p class="descrip-text"><strong>Experience:</strong> 4th Year</p>
     		  	<p class="descrip-text"><strong>Strength: </strong>Erich's composure in the ring has been his greatest asset to this point in the ring.  Not a high-volume puncher, Erich does a good job managing distance and controlling his output to avoid expending any unnecessary energy.  He also has in-ring competition with Dan Yi, one of the best heavyweight boxers to come through Bengal Bouts in the last two decades.  That type of experience could prove invaluable.</p>
@@ -689,7 +689,7 @@ Also worthwhile to note: No boxer-corner duo have logged as much time throwing m
 	    <div class="row">
 	    	<div class="col-md-5 center-col">
 	    		<h3 class="boxer-title center-text boxer-gold"> Jackson Wrede (2) </h3>
-	    		 <img class="boxer-photo" alt="blue-boxer" src="matchups/img/jwrede.jpg"> </img>
+	    		 <img class="boxer-photo" alt="blue-boxer" src="img/jwrede.jpg"> </img>
 	    		 <p class="descrip-text"><strong>Dorm: </strong>Knott</p>
 	    		 <p class="descrip-text"><strong>Experience: </strong>3rd Year</p>
     		  	<p class="descrip-text"><strong>Strength: </strong>Wrede is a two time finalist - fighting the dynamic duo of the Plantz brothers in each of his finals bouts. This experience has made him into a salty veteran that hits like a mack truck. For his size, Jackson lives up to his nickname - "The Flash." His wrestling background shines in the ring as he moves well for a heavy weight. An inside fighter by trade, Wrede is used to being shorter than his opponents and looks to take the fight inside to the body. Jackson will do everything in his power to pin his opponent against the ropes, and with good reason. If Wrede gets his opponent against the ropes, it helps negate his reach disadvantage. </p>
@@ -703,7 +703,7 @@ Also worthwhile to note: No boxer-corner duo have logged as much time throwing m
 			 </div>
 			 <div class="col-md-5">
 			 	<h3 class="boxer-title center-text boxer-blue"> Ryan Richelsen (3) </h3>
-			 	<img class="boxer-photo" alt="blue-boxer" src="matchups/img/rrichelson.jpg	"> </img>
+			 	<img class="boxer-photo" alt="blue-boxer" src="img/rrichelson.jpg	"> </img>
 			 	<p class="descrip-text"><strong>Dorm: </strong>Morrissey</p>
 	    		 <p class="descrip-text"><strong>Experience:</strong> 2nd Year</p>
     		  	<p class="descrip-text"><strong>Strength: </strong>Ryan is one tough customer - capable of taking big shots and walking right through them to deliver big shots to his opponent. One of the lighter heavyweights, he moves fairly well. His main strength is his ability to keep coming forward and disrupting his opponents rhythm and timing. Richelsen's reach on Wrede will be a huge advantage for him in this bout, and he will need to use his 1-2 effectively to disrupt Wrede's timing. After a tough draw in last year's tournament and a loss to an extremely talented fighter, Ryan is here this year to show why he's a talented young star of the program.</p>
