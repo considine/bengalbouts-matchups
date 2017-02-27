@@ -52,6 +52,7 @@ $('.submit-pickem').click(function () {
 });
 
 function bars () {
+	console.log("got bars");
 	$.ajax({
 	   type: "GET",
 	   url: 'http://159.203.163.157/scores',
