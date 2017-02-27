@@ -8,7 +8,7 @@ $('#modalLaunch').click(function() {
 	
 });
 
-bars();
+
 
 $('.submit-pickem').click(function () {
 	increment('submit-pickem');
